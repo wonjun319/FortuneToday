@@ -56,4 +56,23 @@ export type MatchupRecord = {
   };
 };
 
+export type LeagueStanding = {
+  rank: number;
+  team: TeamSlug;
+  games: number;
+  wins: number;
+  losses: number;
+  draws: number;
+  pct: string;
+  gamesBehind: string;
+  recent10: string;
+  streak: string;
+};
+
+export type LeagueStandingsRecord = {
+  updatedAt: string;
+  basisDate: string;
+  standings: LeagueStanding[];
+};
+
 export type TokenMap = Record<string, TeamSlug>;

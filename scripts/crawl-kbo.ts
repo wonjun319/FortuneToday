@@ -1,6 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { buildMatchupRecordFromKbo, buildTeamRecordFromKbo, TEAM_META } from "../lib/kbo";
+import { buildLeagueStandingsFromKbo } from "../lib/kbo-standings";
 import { TEAM_SLUGS } from "../lib/types";
 
 function getCurrentKstDateString() {
@@ -15,6 +16,7 @@ function getCurrentKstDateString() {
 async function main() {
   const baseDate = process.env.CRAWL_BASE_DATE ?? getCurrentKstDateString();
   mkdirSync(join(process.cwd(), "data", "matchups"), { recursive: true });
+  mkdirSync(join(process.cwd(), "data", "standings"), { recursive: true });
 
   for (const slug of TEAM_SLUGS) {
     const record = await buildTeamRecordFromKbo(slug, baseDate);
@@ -25,6 +27,11 @@ async function main() {
     writeFileSync(matchupPath, JSON.stringify(matchup, null, 2), "utf8");
     console.log(`Updated ${slug} (${TEAM_META[slug].code})${baseDate ? ` from ${baseDate}` : ""}`);
   }
+
+  const standings = await buildLeagueStandingsFromKbo(baseDate);
+  const standingsPath = join(process.cwd(), "data", "standings", "daily.json");
+  writeFileSync(standingsPath, JSON.stringify(standings, null, 2), "utf8");
+  console.log(`Updated league standings${standings.basisDate ? ` from ${standings.basisDate}` : ""}`);
 }
 
 main().catch((error: unknown) => {

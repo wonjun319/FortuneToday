@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { buildFortune } from "@/lib/fortune";
-import { getTeamMatchupRecord, getTeamRecord } from "@/lib/data";
+import { getLeagueStandingsRecord, getTeamMatchupRecord, getTeamRecord } from "@/lib/data";
 import { TeamExperience } from "@/app/team/[team]/team-experience";
 import { getDisplayNameFromTeamName } from "@/lib/team-display";
 import { getTeamFromRouteSlug } from "@/lib/team-route";
@@ -23,6 +23,7 @@ export default async function TeamPage({
 
   const record = getTeamRecord(slug);
   const matchup = getTeamMatchupRecord(slug);
+  const leagueStandings = getLeagueStandingsRecord();
   const visuals = getTeamVisuals(slug);
 
   if (!record) {
@@ -37,10 +38,12 @@ export default async function TeamPage({
   return (
     <TeamExperience
       teamName={getDisplayNameFromTeamName(record.team)}
+      teamSlug={slug}
       teamColor={getTeamBackgroundColor(slug)}
       introImageSrc={visuals.introImageSrc}
       loadingImageSrc={visuals.loadingImageSrc}
       fortune={fortune}
+      leagueStandings={leagueStandings}
       summary={{
         wins,
         losses,

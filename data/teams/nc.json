@@ -1,7 +1,7 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-03-15T21:52:04+09:00",
+  "updatedAt": "2026-03-16T00:49:00+09:00",
   "last10": [
     {
       "date": "2026-03-15",
@@ -89,28 +89,6 @@
         "name": "테일러",
         "stat": "3회초 삼진 아웃승리확률40.1% → 42.9%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2025-10-07",
-      "result": "L",
-      "opponent": "삼성",
-      "homeAway": "away",
-      "score": "0-3",
-      "stadium": "대구",
-      "winningPitcher": "원태인",
-      "losingPitcher": "로건",
-      "savePitcher": "가라비토",
-      "gameId": "20251007NCSS0",
-      "standoutHitter": {
-        "name": "박민우",
-        "stat": "5.2%(3타수 0득점 2안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "로건",
-        "stat": "5",
-        "rank": 1
       }
     }
   ]

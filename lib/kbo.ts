@@ -1,4 +1,6 @@
 import type {
+  LeagueStanding,
+  LeagueStandingsRecord,
   MatchRecord,
   MatchResult,
   MatchupRecord,
@@ -65,6 +67,7 @@ type TeamPairing = {
 const GAME_LIST_URL = "https://www.koreabaseball.com/ws/Main.asmx/GetKboGameList";
 const KEY_HITTER_URL = "https://www.koreabaseball.com/ws/Schedule.asmx/GetKeyPlayerHitter";
 const KEY_PITCHER_URL = "https://www.koreabaseball.com/ws/Schedule.asmx/GetKeyPlayerPitcher";
+const TEAM_RANK_DAILY_URL = "https://www.koreabaseball.com/Record/TeamRank/TeamRankDaily.aspx";
 const GAMECENTER_SERIES_IDS = "0,1,3,4,5,6,7,8,9";
 const REGULAR_LEAGUE_ID = "1";
 const LAST10_LIMIT = 10;
@@ -90,6 +93,19 @@ export const TEAM_META: Record<TeamSlug, TeamMeta> = {
 const TEAM_CODE_TO_SLUG = Object.fromEntries(
   Object.entries(TEAM_META).map(([slug, meta]) => [meta.code, slug as TeamSlug])
 ) as Record<string, TeamSlug>;
+
+const TEAM_RANK_NAME_TO_SLUG: Record<string, TeamSlug> = {
+  KIA: "kia",
+  LG: "lg",
+  SSG: "ssg",
+  두산: "doosan",
+  삼성: "samsung",
+  롯데: "lotte",
+  한화: "hanwha",
+  KT: "kt",
+  NC: "nc",
+  키움: "kiwoom"
+};
 
 function formatCompactDate(date: Date): string {
   return new Intl.DateTimeFormat("en-CA", {

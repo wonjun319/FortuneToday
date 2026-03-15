@@ -47,6 +47,172 @@ p {
   margin: 0;
 }
 
+.home-shell {
+  min-height: 100vh;
+  padding: 24px;
+  background:
+    radial-gradient(circle at top, rgba(255, 255, 255, 0.72), transparent 30%),
+    linear-gradient(180deg, #edf6ea 0%, #f4faf1 48%, #ffffff 100%);
+}
+
+.home-stage {
+  position: relative;
+  display: grid;
+  place-items: center;
+  max-width: 980px;
+  min-height: calc(100vh - 48px);
+  margin: 0 auto;
+  padding: 40px 32px;
+  overflow: hidden;
+  border-radius: 36px;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.76);
+  box-shadow: 0 30px 80px rgba(112, 150, 104, 0.16);
+}
+
+.home-glow {
+  position: absolute;
+  border-radius: 999px;
+  filter: blur(18px);
+  opacity: 0.85;
+  pointer-events: none;
+}
+
+.home-glow--one {
+  top: -120px;
+  left: -90px;
+  width: 280px;
+  height: 280px;
+  background: rgba(151, 194, 138, 0.34);
+}
+
+.home-glow--two {
+  right: -100px;
+  bottom: -120px;
+  width: 320px;
+  height: 320px;
+  background: rgba(151, 194, 138, 0.22);
+}
+
+.home-hero {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  justify-items: center;
+  gap: 24px;
+  width: min(100%, 760px);
+  text-align: center;
+}
+
+.home-label {
+  color: #64805d;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+
+.home-tagmark {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: min(220px, 56vw);
+  aspect-ratio: 1;
+  border-radius: 999px;
+  background:
+    radial-gradient(circle at 35% 30%, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.24) 44%, transparent 58%),
+    linear-gradient(180deg, rgba(243, 250, 240, 0.96), rgba(227, 240, 223, 0.94));
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.8),
+    0 18px 44px rgba(112, 150, 104, 0.16);
+}
+
+.home-tagmark__icon {
+  width: 52%;
+  height: 52%;
+  color: #97c28a;
+  filter: drop-shadow(0 6px 16px rgba(151, 194, 138, 0.2));
+}
+
+.home-copy {
+  gap: 14px;
+  max-width: 620px;
+}
+
+.home-copy h1 {
+  font-size: clamp(32px, 6vw, 56px);
+  letter-spacing: -0.06em;
+  line-height: 1.08;
+}
+
+.home-copy p {
+  font-size: clamp(16px, 2.2vw, 19px);
+  line-height: 1.8;
+}
+
+.home-alert,
+.home-note {
+  width: min(100%, 620px);
+  padding: 18px 20px;
+  border-radius: 24px;
+  text-align: left;
+}
+
+.home-alert {
+  background: rgba(240, 247, 237, 0.96);
+  border: 1px solid rgba(151, 194, 138, 0.28);
+  color: #496344;
+}
+
+.home-alert strong,
+.home-note strong {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 14px;
+  letter-spacing: -0.03em;
+}
+
+.home-alert p,
+.home-note p,
+.home-card p {
+  line-height: 1.7;
+}
+
+.home-steps {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  width: 100%;
+}
+
+.home-card {
+  display: grid;
+  gap: 10px;
+  padding: 20px;
+  border-radius: 26px;
+  text-align: left;
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(17, 24, 39, 0.08);
+  box-shadow: 0 16px 36px rgba(112, 150, 104, 0.08);
+}
+
+.home-card__index {
+  color: #97c28a;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+}
+
+.home-card h2 {
+  font-size: 22px;
+  letter-spacing: -0.05em;
+}
+
+.home-note {
+  background: rgba(244, 249, 242, 0.94);
+  border: 1px solid rgba(17, 24, 39, 0.06);
+}
+
 .team-shell {
   min-height: 100vh;
   padding: 24px;
@@ -373,6 +539,10 @@ p {
   border-collapse: collapse;
 }
 
+.league-table {
+  min-width: 880px;
+}
+
 .match-table th,
 .match-table td {
   padding: 14px 16px;
@@ -402,15 +572,28 @@ p {
 }
 
 .match-table__date,
-.match-table td:nth-child(5),
-.match-table td:nth-child(6),
-.match-table td:nth-child(7),
-.match-table td:nth-child(8) {
+.recent-match-table td:nth-child(5),
+.recent-match-table td:nth-child(6),
+.recent-match-table td:nth-child(7),
+.recent-match-table td:nth-child(8) {
   color: var(--color-text-muted);
 }
 
 .match-table__opponent,
 .match-table__score {
+  font-weight: 700;
+}
+
+.league-table__team {
+  font-weight: 700;
+  text-transform: lowercase;
+}
+
+.league-table tbody tr.league-table__row--active {
+  background: color-mix(in srgb, var(--page-bg) 14%, white);
+}
+
+.league-table tbody tr.league-table__row--active td {
   font-weight: 700;
 }
 
@@ -461,6 +644,24 @@ p {
 }
 
 @media (max-width: 720px) {
+  .home-shell {
+    padding: 14px;
+  }
+
+  .home-stage {
+    min-height: calc(100vh - 28px);
+    padding: 28px 18px;
+    border-radius: 26px;
+  }
+
+  .home-hero {
+    gap: 20px;
+  }
+
+  .home-steps {
+    grid-template-columns: 1fr;
+  }
+
   .team-shell {
     padding: 14px;
   }
