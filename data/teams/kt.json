@@ -1,0 +1,95 @@
+{
+  "team": "KT Wiz",
+  "slug": "kt",
+  "updatedAt": "2026-03-15T21:52:04+09:00",
+  "last10": [
+    {
+      "date": "2026-03-15",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "4-5",
+      "stadium": "광주",
+      "winningPitcher": "이의리",
+      "losingPitcher": "사우어",
+      "savePitcher": "전상현",
+      "gameId": "20260315KTHT0",
+      "standoutHitter": {
+        "name": "이정훈",
+        "stat": "14.5%(0타수 0득점 0안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "사우어",
+        "stat": "6",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-14",
+      "result": "D",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "10-10",
+      "stadium": "광주",
+      "winningPitcher": "",
+      "losingPitcher": "",
+      "savePitcher": "",
+      "gameId": "20260314KTHT0",
+      "standoutHitter": {
+        "name": "안치영",
+        "stat": "30.4%(1타수 1득점 1안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "전용주",
+        "stat": "9회말 삼진 아웃승리확률35% → 42.8%",
+        "rank": 5
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "result": "D",
+      "opponent": "롯데",
+      "homeAway": "away",
+      "score": "6-6",
+      "stadium": "사직",
+      "winningPitcher": "",
+      "losingPitcher": "",
+      "savePitcher": "",
+      "gameId": "20260313KTLT0",
+      "standoutHitter": {
+        "name": "오윤석",
+        "stat": "19.8%(1타수 0득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "한승혁",
+        "stat": "7회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률40.7% → 50%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "result": "L",
+      "opponent": "롯데",
+      "homeAway": "away",
+      "score": "3-4",
+      "stadium": "사직",
+      "winningPitcher": "홍민기",
+      "losingPitcher": "김민수",
+      "savePitcher": "윤성빈",
+      "gameId": "20260312KTLT0",
+      "standoutHitter": {
+        "name": "유준규",
+        "stat": "12.5%(2타수 0득점 2안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "김민수",
+        "stat": "5회말 삼진 아웃승리확률32.4% → 40.8%",
+        "rank": 2
+      }
+    }
+  ]
+}

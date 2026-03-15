@@ -1,0 +1,183 @@
+{
+  "team": "SSG Landers",
+  "slug": "ssg",
+  "updatedAt": "2026-03-15T21:52:02+09:00",
+  "last10": [
+    {
+      "date": "2026-03-15",
+      "result": "L",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "0-8",
+      "stadium": "대전",
+      "winningPitcher": "문동주",
+      "losingPitcher": "김건우",
+      "savePitcher": "",
+      "gameId": "20260315SKHH0",
+      "standoutHitter": {
+        "name": "김성욱",
+        "stat": "4.8%(3타수 0득점 2안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "김건우",
+        "stat": "1회말 중견수 플라이 아웃승리확률44.8% → 50%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-14",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "2-1",
+      "stadium": "대전",
+      "winningPitcher": "박시후",
+      "losingPitcher": "주현상",
+      "savePitcher": "정동윤",
+      "gameId": "20260314SKHH0",
+      "standoutHitter": {
+        "name": "고명준",
+        "stat": "34.8%(4타수 1득점 3안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "정동윤",
+        "stat": "9회말 삼진 아웃승리확률84.7% → 100%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "3-2",
+      "stadium": "광주",
+      "winningPitcher": "타케다",
+      "losingPitcher": "김태형",
+      "savePitcher": "이로운",
+      "gameId": "20260313SKHT0",
+      "standoutHitter": {
+        "name": "에레디아",
+        "stat": "9.4%(3타수 0득점 2안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "이로운",
+        "stat": "9회말 유격수 플라이 아웃승리확률88.8% → 100%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "4-9",
+      "stadium": "광주",
+      "winningPitcher": "양현종",
+      "losingPitcher": "베니지아노",
+      "savePitcher": "",
+      "gameId": "20260312SKHT0",
+      "standoutHitter": {
+        "name": "에레디아",
+        "stat": "1",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "베니지아노",
+        "stat": "2회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률44.7% → 50%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-10-14",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "away",
+      "score": "2-5",
+      "stadium": "대구",
+      "winningPitcher": "이호성",
+      "losingPitcher": "이로운",
+      "savePitcher": "김재윤",
+      "gameId": "20251014SKSS0",
+      "standoutHitter": {
+        "name": "박성한",
+        "stat": "27.3%(4타수 0득점 1안타 2타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "김민",
+        "stat": "6회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률15.3% → 20.8%",
+        "rank": 5
+      }
+    },
+    {
+      "date": "2025-10-13",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "away",
+      "score": "3-5",
+      "stadium": "대구",
+      "winningPitcher": "원태인",
+      "losingPitcher": "앤더슨",
+      "savePitcher": "김재윤",
+      "gameId": "20251013SKSS0",
+      "standoutHitter": {
+        "name": "최지훈",
+        "stat": "3.7%(4타수 0득점 2안타 1타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "앤더슨",
+        "stat": "2",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-10-11",
+      "result": "W",
+      "opponent": "삼성",
+      "homeAway": "home",
+      "score": "4-3",
+      "stadium": "문학",
+      "winningPitcher": "조병현",
+      "losingPitcher": "후라도",
+      "savePitcher": "",
+      "gameId": "20251011SSSK0",
+      "standoutHitter": {
+        "name": "김성욱",
+        "stat": "35.1%(4타수 1득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "조병현",
+        "stat": "9회초 삼진 아웃승리확률53.4% → 65.9%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-10-09",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "home",
+      "score": "2-5",
+      "stadium": "문학",
+      "winningPitcher": "최원태",
+      "losingPitcher": "화이트",
+      "savePitcher": "김재윤",
+      "gameId": "20251009SSSK0",
+      "standoutHitter": {
+        "name": "한유섬",
+        "stat": "5.5%(3타수 0득점 2안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "화이트",
+        "stat": "2회초 중견수 플라이 아웃승리확률33.4% → 37.9%",
+        "rank": 1
+      }
+    }
+  ]
+}

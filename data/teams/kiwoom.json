@@ -1,0 +1,95 @@
+{
+  "team": "Kiwoom Heroes",
+  "slug": "kiwoom",
+  "updatedAt": "2026-03-15T21:52:04+09:00",
+  "last10": [
+    {
+      "date": "2026-03-15",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "8-1",
+      "stadium": "마산",
+      "winningPitcher": "알칸타라",
+      "losingPitcher": "라일리",
+      "savePitcher": "",
+      "gameId": "20260315WONC0",
+      "standoutHitter": {
+        "name": "어준서",
+        "stat": "15.9%(3타수 2득점 2안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "알칸타라",
+        "stat": "1회말 3루수 라인드라이브 아웃승리확률46% → 50%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-14",
+      "result": "L",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "6-8",
+      "stadium": "마산",
+      "winningPitcher": "김녹원",
+      "losingPitcher": "박지성",
+      "savePitcher": "배재환",
+      "gameId": "20260314WONC0",
+      "standoutHitter": {
+        "name": "안치홍",
+        "stat": "29.8%(4타수 2득점 3안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "정현우",
+        "stat": "3",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "1-8",
+      "stadium": "이천(두산)",
+      "winningPitcher": "최원준",
+      "losingPitcher": "배동현",
+      "savePitcher": "",
+      "gameId": "20260313WOOB0",
+      "standoutHitter": {
+        "name": "박찬혁",
+        "stat": "12.9%(2타수 0득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김성진",
+        "stat": "2",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "7-9",
+      "stadium": "이천(두산)",
+      "winningPitcher": "이교훈",
+      "losingPitcher": "박준현",
+      "savePitcher": "",
+      "gameId": "20260312WOOB0",
+      "standoutHitter": {
+        "name": "박한결",
+        "stat": "9.1%(2타수 0득점 2안타 1타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "하영민",
+        "stat": "3회말 우익수 플라이 아웃승리확률45.4% → 50%",
+        "rank": 4
+      }
+    }
+  ]
+}

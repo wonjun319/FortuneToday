@@ -1,0 +1,95 @@
+{
+  "team": "Lotte Giants",
+  "slug": "lotte",
+  "updatedAt": "2026-03-15T21:52:03+09:00",
+  "last10": [
+    {
+      "date": "2026-03-15",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "7-4",
+      "stadium": "사직",
+      "winningPitcher": "김태균",
+      "losingPitcher": "이정용",
+      "savePitcher": "윤성빈",
+      "gameId": "20260315LGLT0",
+      "standoutHitter": {
+        "name": "손성빈",
+        "stat": "16.3%(1타수 1득점 0안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "비슬리",
+        "stat": "3회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률46.7% → 54.6%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2026-03-14",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "5-3",
+      "stadium": "사직",
+      "winningPitcher": "박준우",
+      "losingPitcher": "장현식",
+      "savePitcher": "박정민",
+      "gameId": "20260314LGLT0",
+      "standoutHitter": {
+        "name": "손호영",
+        "stat": "14.7%(4타수 1득점 2안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "정철원",
+        "stat": "7회초 3루수 병살타 아웃 (3루수->포수->1루수 송구아웃)승리확률51.5% → 77.5%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "result": "D",
+      "opponent": "KT",
+      "homeAway": "home",
+      "score": "6-6",
+      "stadium": "사직",
+      "winningPitcher": "",
+      "losingPitcher": "",
+      "savePitcher": "",
+      "gameId": "20260313KTLT0",
+      "standoutHitter": {
+        "name": "손호영",
+        "stat": "17.7%(3타수 0득점 2안타 2타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "박준우",
+        "stat": "7회초 삼진 아웃승리확률42.1% → 52.9%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "result": "W",
+      "opponent": "KT",
+      "homeAway": "home",
+      "score": "4-3",
+      "stadium": "사직",
+      "winningPitcher": "홍민기",
+      "losingPitcher": "김민수",
+      "savePitcher": "윤성빈",
+      "gameId": "20260312KTLT0",
+      "standoutHitter": {
+        "name": "윤동희",
+        "stat": "18.6%(2타수 0득점 1안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "정철원",
+        "stat": "7회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률74.1% → 87.3%",
+        "rank": 1
+      }
+    }
+  ]
+}

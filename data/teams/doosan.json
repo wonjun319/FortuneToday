@@ -1,0 +1,95 @@
+{
+  "team": "Doosan Bears",
+  "slug": "doosan",
+  "updatedAt": "2026-03-15T21:52:02+09:00",
+  "last10": [
+    {
+      "date": "2026-03-15",
+      "result": "W",
+      "opponent": "삼성",
+      "homeAway": "home",
+      "score": "8-2",
+      "stadium": "이천(두산)",
+      "winningPitcher": "최승용",
+      "losingPitcher": "임기영",
+      "savePitcher": "",
+      "gameId": "20260315SSOB0",
+      "standoutHitter": {
+        "name": "박찬호",
+        "stat": "27%(3타수 2득점 2안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "이교훈",
+        "stat": "7회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률90.9% → 97.9%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-14",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "home",
+      "score": "4-5",
+      "stadium": "이천(두산)",
+      "winningPitcher": "장찬희",
+      "losingPitcher": "이영하",
+      "savePitcher": "육선엽",
+      "gameId": "20260314SSOB0",
+      "standoutHitter": {
+        "name": "이유찬",
+        "stat": "6.3%(3타수 1득점 1안타 3타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "이영하",
+        "stat": "1회초 중견수 플라이 아웃승리확률48.2% → 55.1%",
+        "rank": 4
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "8-1",
+      "stadium": "이천(두산)",
+      "winningPitcher": "최원준",
+      "losingPitcher": "배동현",
+      "savePitcher": "",
+      "gameId": "20260313WOOB0",
+      "standoutHitter": {
+        "name": "안재석",
+        "stat": "10.4%(5타수 1득점 1안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "잭로그",
+        "stat": "4회초 삼진 아웃승리확률31% → 38.9%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "9-7",
+      "stadium": "이천(두산)",
+      "winningPitcher": "이교훈",
+      "losingPitcher": "박준현",
+      "savePitcher": "",
+      "gameId": "20260312WOOB0",
+      "standoutHitter": {
+        "name": "양석환",
+        "stat": "13.8%(2타수 1득점 2안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "플렉센",
+        "stat": "1회초 삼진 아웃승리확률48.2% → 55.1%",
+        "rank": 1
+      }
+    }
+  ]
+}

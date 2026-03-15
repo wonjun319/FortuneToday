@@ -1,0 +1,117 @@
+{
+  "team": "NC Dinos",
+  "slug": "nc",
+  "updatedAt": "2026-03-15T21:52:04+09:00",
+  "last10": [
+    {
+      "date": "2026-03-15",
+      "result": "L",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "1-8",
+      "stadium": "마산",
+      "winningPitcher": "알칸타라",
+      "losingPitcher": "라일리",
+      "savePitcher": "",
+      "gameId": "20260315WONC0",
+      "standoutHitter": {
+        "name": "천재환",
+        "stat": "1",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "라일리",
+        "stat": "3",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2026-03-14",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "8-6",
+      "stadium": "마산",
+      "winningPitcher": "김녹원",
+      "losingPitcher": "박지성",
+      "savePitcher": "배재환",
+      "gameId": "20260314WONC0",
+      "standoutHitter": {
+        "name": "서호철",
+        "stat": "13.7%(2타수 0득점 1안타 3타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "정구범",
+        "stat": "7회초 삼진 아웃승리확률75.8% → 87.3%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "result": "D",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "5-5",
+      "stadium": "마산",
+      "winningPitcher": "",
+      "losingPitcher": "",
+      "savePitcher": "",
+      "gameId": "20260313LGNC0",
+      "standoutHitter": {
+        "name": "신재인",
+        "stat": "24.2%(2타수 1득점 2안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "원종해",
+        "stat": "6회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률29.7% → 37.7%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "6-11",
+      "stadium": "마산",
+      "winningPitcher": "치리노스",
+      "losingPitcher": "테일러",
+      "savePitcher": "",
+      "gameId": "20260312LGNC0",
+      "standoutHitter": {
+        "name": "한재환",
+        "stat": "4.5%(2타수 1득점 1안타 4타점)",
+        "rank": 5
+      },
+      "standoutPitcher": {
+        "name": "테일러",
+        "stat": "3회초 삼진 아웃승리확률40.1% → 42.9%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-10-07",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "away",
+      "score": "0-3",
+      "stadium": "대구",
+      "winningPitcher": "원태인",
+      "losingPitcher": "로건",
+      "savePitcher": "가라비토",
+      "gameId": "20251007NCSS0",
+      "standoutHitter": {
+        "name": "박민우",
+        "stat": "5.2%(3타수 0득점 2안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "로건",
+        "stat": "5",
+        "rank": 1
+      }
+    }
+  ]
+}

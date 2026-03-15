@@ -1,0 +1,36 @@
+name: Daily KBO Crawl
+
+on:
+  schedule:
+    - cron: '10 18 * * *' # 03:10 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Crawl
+        run: npm run crawl
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/teams/*.json
+          git diff --cached --quiet || git commit -m "chore: daily kbo data update"
+          git push
