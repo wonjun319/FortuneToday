@@ -3,8 +3,17 @@ import { join } from "node:path";
 import { buildMatchupRecordFromKbo, buildTeamRecordFromKbo, TEAM_META } from "../lib/kbo";
 import { TEAM_SLUGS } from "../lib/types";
 
+function getCurrentKstDateString() {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Seoul",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(new Date());
+}
+
 async function main() {
-  const baseDate = process.env.CRAWL_BASE_DATE;
+  const baseDate = process.env.CRAWL_BASE_DATE ?? getCurrentKstDateString();
   mkdirSync(join(process.cwd(), "data", "matchups"), { recursive: true });
 
   for (const slug of TEAM_SLUGS) {

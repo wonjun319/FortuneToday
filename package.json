@@ -8,11 +8,10 @@
     "start": "next start",
     "lint": "next lint",
     "crawl": "tsx scripts/crawl-kbo.ts",
-    "token": "tsx scripts/generate-access-token.ts",
-    "test": "tsx --test tests/*.test.ts"
+    "token": "tsx scripts/generate-access-token.ts"
   },
   "dependencies": {
-    "next": "15.2.0",
+    "next": "^15.2.8",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   },
