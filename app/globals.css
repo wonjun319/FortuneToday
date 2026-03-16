@@ -520,9 +520,16 @@ p {
   text-transform: uppercase;
 }
 
+@property --score-angle {
+  syntax: "<angle>";
+  inherits: false;
+  initial-value: 0deg;
+}
+
 .score-ring {
   --score-accent: color-mix(in srgb, var(--page-bg) 88%, white);
   --score-track: color-mix(in srgb, var(--page-bg) 14%, white);
+  --score-angle: 0deg;
   width: min(100%, 96px);
   aspect-ratio: 1;
   position: relative;
@@ -535,6 +542,8 @@ p {
     var(--score-accent) 0deg var(--score-angle),
     var(--score-track) var(--score-angle) 360deg
   );
+  animation: score-ring-fill 1.8s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  animation-delay: var(--score-delay, 0ms);
 }
 
 .score-ring::before {
@@ -570,6 +579,18 @@ p {
 
 .score-ring--large .score-ring__value {
   font-size: 38px;
+}
+
+@keyframes score-ring-fill {
+  from {
+    --score-angle: 0deg;
+    transform: scale(0.96);
+  }
+
+  to {
+    --score-angle: var(--score-angle-target);
+    transform: scale(1);
+  }
 }
 
 .panel--fortune h1,

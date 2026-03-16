@@ -69,14 +69,17 @@ function formatStandingsUpdatedLabel(updatedAt: string) {
 function ScoreRing({
   score,
   label,
-  size = "default"
+  size = "default",
+  delayMs = 0
 }: {
   score: number;
   label: string;
   size?: "default" | "large";
+  delayMs?: number;
 }) {
   const ringStyle = {
-    "--score-angle": `${score * 3.6}deg`
+    "--score-angle-target": `${score * 3.6}deg`,
+    "--score-delay": `${delayMs}ms`
   } as CSSProperties;
 
   return (
@@ -95,14 +98,16 @@ function ScoreRing({
 
 function FortuneScoreCard({
   label,
-  score
+  score,
+  delayMs = 0
 }: {
   label: string;
   score: number;
+  delayMs?: number;
 }) {
   return (
     <article className="fortune-score-card">
-      <ScoreRing score={score} label={label} />
+      <ScoreRing score={score} label={label} delayMs={delayMs} />
       <span className="fortune-score-card__label">{label}</span>
     </article>
   );
@@ -210,7 +215,7 @@ export function TeamExperience({
               <div className="fortune-overview">
                 <article className="today-score-card">
                   <span className="summary-card__label">오늘의 점수</span>
-                  <ScoreRing score={fortuneScores.overall} label="오늘의 점수" size="large" />
+                  <ScoreRing score={fortuneScores.overall} label="오늘의 점수" size="large" delayMs={120} />
                 </article>
                 <div className="fortune-overview__body">
                   <h1>{teamName}</h1>
@@ -218,9 +223,9 @@ export function TeamExperience({
                 </div>
               </div>
               <div className="fortune-score-grid">
-                <FortuneScoreCard label="타격" score={fortuneScores.batting} />
-                <FortuneScoreCard label="수비" score={fortuneScores.defense} />
-                <FortuneScoreCard label="승리" score={fortuneScores.victory} />
+                <FortuneScoreCard label="타격" score={fortuneScores.batting} delayMs={260} />
+                <FortuneScoreCard label="수비" score={fortuneScores.defense} delayMs={420} />
+                <FortuneScoreCard label="승리" score={fortuneScores.victory} delayMs={580} />
               </div>
               <p className="fortune-copy">{fortune}</p>
               <div className="summary-grid">
