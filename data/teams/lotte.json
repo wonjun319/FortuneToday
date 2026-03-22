@@ -1,8 +1,30 @@
 {
   "team": "Lotte Giants",
   "slug": "lotte",
-  "updatedAt": "2026-03-22T01:07:38+09:00",
+  "updatedAt": "2026-03-23T01:07:50+09:00",
   "last10": [
+    {
+      "date": "2026-03-22",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "home",
+      "score": "10-6",
+      "stadium": "사직",
+      "winningPitcher": "비슬리",
+      "losingPitcher": "에르난데스",
+      "savePitcher": "",
+      "gameId": "20260322HHLT0",
+      "standoutHitter": {
+        "name": "유강남",
+        "stat": "22.9%(3타수 2득점 2안타 5타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "비슬리",
+        "stat": "1회초 삼진 아웃승리확률42.3% → 47.1%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-03-21",
       "result": "W",

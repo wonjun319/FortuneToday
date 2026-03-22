@@ -1,8 +1,30 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-03-22T01:07:42+09:00",
+  "updatedAt": "2026-03-23T01:07:54+09:00",
   "last10": [
+    {
+      "date": "2026-03-22",
+      "result": "L",
+      "opponent": "롯데",
+      "homeAway": "away",
+      "score": "6-10",
+      "stadium": "사직",
+      "winningPitcher": "비슬리",
+      "losingPitcher": "에르난데스",
+      "savePitcher": "",
+      "gameId": "20260322HHLT0",
+      "standoutHitter": {
+        "name": "강백호",
+        "stat": "5.9%(3타수 1득점 1안타 2타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "에르난데스",
+        "stat": "1회말 삼진 아웃승리확률44.8% → 50%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-21",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "왕옌청",
         "stat": "3회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률21% → 25.7%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2025-10-31",
-      "result": "L",
-      "opponent": "LG",
-      "homeAway": "home",
-      "score": "1-4",
-      "stadium": "대전",
-      "winningPitcher": "톨허스트",
-      "losingPitcher": "정우주",
-      "savePitcher": "유영찬",
-      "gameId": "20251031LGHH0",
-      "standoutHitter": {
-        "name": "황영묵",
-        "stat": "6.7%(1타수 0득점 1안타 0타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "김종수",
-        "stat": "5회초 중견수 플라이 아웃승리확률35.9% → 43.6%",
-        "rank": 4
       }
     }
   ]

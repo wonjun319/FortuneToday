@@ -1,227 +1,235 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-03-22T01:07:54+09:00",
-  "gameDate": "2026-03-22",
-  "opponent": "SSG",
-  "opponentSlug": "ssg",
+  "updatedAt": "2026-03-23T01:08:10+09:00",
+  "gameDate": "2026-03-23",
+  "opponent": "LG",
+  "opponentSlug": "lg",
   "last10": [
     {
-      "date": "2026-03-21",
+      "date": "2025-09-09",
       "result": "W",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "9-0",
-      "stadium": "문학",
-      "winningPitcher": "알칸타라",
-      "losingPitcher": "화이트",
-      "savePitcher": "",
-      "gameId": "20260321WOSK0",
-      "standoutHitter": {
-        "name": "오선진",
-        "stat": "13.1%(3타수 1득점 2안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "윤석원",
-        "stat": "6회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률94.7% → 98.1%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2025-09-30",
-      "result": "L",
-      "opponent": "SSG",
+      "opponent": "LG",
       "homeAway": "home",
-      "score": "3-4",
+      "score": "11-2",
       "stadium": "고척",
-      "winningPitcher": "김건우",
-      "losingPitcher": "알칸타라",
-      "savePitcher": "조병현",
-      "gameId": "20250930SKWO0",
-      "standoutHitter": null,
-      "standoutPitcher": null
-    },
-    {
-      "date": "2025-09-02",
-      "result": "L",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "1-6",
-      "stadium": "문학",
-      "winningPitcher": "앤더슨",
-      "losingPitcher": "메르세데스",
-      "savePitcher": "",
-      "gameId": "20250902WOSK0",
-      "standoutHitter": {
-        "name": "김건희",
-        "stat": "7.1%(3타수 0득점 2안타 0타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "메르세데스",
-        "stat": "3회말 삼진 아웃승리확률45.4% → 50%",
-        "rank": 3
-      }
-    },
-    {
-      "date": "2025-08-14",
-      "result": "W",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "2-0",
-      "stadium": "문학",
       "winningPitcher": "알칸타라",
-      "losingPitcher": "문승원",
-      "savePitcher": "조영건",
-      "gameId": "20250814WOSK0",
+      "losingPitcher": "톨허스트",
+      "savePitcher": "박정훈",
+      "gameId": "20250909LGWO0",
       "standoutHitter": {
         "name": "송성문",
-        "stat": "20.7%(4타수 0득점 2안타 2타점)",
+        "stat": "24.5%(3타수 2득점 2안타 2타점)",
         "rank": 1
       },
       "standoutPitcher": {
         "name": "알칸타라",
-        "stat": "5회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률56.7% → 71.2%",
+        "stat": "6회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률74.3% → 86.5%",
         "rank": 1
       }
     },
     {
-      "date": "2025-08-12",
-      "result": "L",
-      "opponent": "SSG",
+      "date": "2025-08-31",
+      "result": "W",
+      "opponent": "LG",
       "homeAway": "away",
-      "score": "1-3",
-      "stadium": "문학",
-      "winningPitcher": "앤더슨",
-      "losingPitcher": "정현우",
-      "savePitcher": "조병현",
-      "gameId": "20250812WOSK0",
+      "score": "6-5",
+      "stadium": "잠실",
+      "winningPitcher": "조영건",
+      "losingPitcher": "유영찬",
+      "savePitcher": "원종현",
+      "gameId": "20250831WOLG0",
       "standoutHitter": {
-        "name": "임지열",
-        "stat": "3.1%(3타수 0득점 0안타 0타점)",
+        "name": "김태진",
+        "stat": "26.9%(1타수 0득점 0안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "조영건",
+        "stat": "8회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률38.5% → 50%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-08-30",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "5-6",
+      "stadium": "잠실",
+      "winningPitcher": "톨허스트",
+      "losingPitcher": "박정훈",
+      "savePitcher": "유영찬",
+      "gameId": "20250830WOLG0",
+      "standoutHitter": {
+        "name": "송성문",
+        "stat": "9.1%(4타수 1득점 1안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "원종현",
+        "stat": "2",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-08-29",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "3-2",
+      "stadium": "잠실",
+      "winningPitcher": "정현우",
+      "losingPitcher": "임찬규",
+      "savePitcher": "조영건",
+      "gameId": "20250829WOLG0",
+      "standoutHitter": {
+        "name": "이주형",
+        "stat": "8.1%(3타수 1득점 1안타 1타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "조영건",
+        "stat": "8회말 중견수 라인드라이브 아웃승리확률61.5% → 81.6%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-07-10",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "4-3",
+      "stadium": "잠실",
+      "winningPitcher": "원종현",
+      "losingPitcher": "유영찬",
+      "savePitcher": "주승우",
+      "gameId": "20250710WOLG0",
+      "standoutHitter": {
+        "name": "스톤",
+        "stat": "22.2%(5타수 0득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "조영건",
+        "stat": "7회말 좌익수 플라이 아웃승리확률38.3% → 50%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-07-09",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "6-12",
+      "stadium": "잠실",
+      "winningPitcher": "손주영",
+      "losingPitcher": "정현우",
+      "savePitcher": "",
+      "gameId": "20250709WOLG0",
+      "standoutHitter": {
+        "name": "이주형",
+        "stat": "5.1%(1타수 0득점 1안타 0타점)",
         "rank": 4
       },
       "standoutPitcher": {
         "name": "정현우",
-        "stat": "3회말 유격수 라인드라이브 아웃승리확률19.6% → 25.2%",
-        "rank": 5
-      }
-    },
-    {
-      "date": "2025-07-31",
-      "result": "L",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "2-4",
-      "stadium": "문학",
-      "winningPitcher": "이로운",
-      "losingPitcher": "전준표",
-      "savePitcher": "조병현",
-      "gameId": "20250731WOSK0",
-      "standoutHitter": {
-        "name": "고영우",
-        "stat": "16.5%(3타수 0득점 2안타 1타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "김연주",
-        "stat": "3",
+        "stat": "1회말 삼진 아웃승리확률29.2% → 32.3%",
         "rank": 2
       }
     },
     {
-      "date": "2025-07-30",
-      "result": "D",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "5-5",
-      "stadium": "문학",
-      "winningPitcher": "",
-      "losingPitcher": "",
-      "savePitcher": "",
-      "gameId": "20250730WOSK0",
-      "standoutHitter": {
-        "name": "김건희",
-        "stat": "4.6%(4타수 1득점 1안타 1타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "주승우",
-        "stat": "10회말 좌익수 플라이 아웃승리확률35% → 50%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-07-29",
+      "date": "2025-07-08",
       "result": "L",
-      "opponent": "SSG",
+      "opponent": "LG",
       "homeAway": "away",
-      "score": "3-9",
-      "stadium": "문학",
-      "winningPitcher": "전영준",
-      "losingPitcher": "하영민",
-      "savePitcher": "",
-      "gameId": "20250729WOSK0",
+      "score": "3-4",
+      "stadium": "잠실",
+      "winningPitcher": "김진성",
+      "losingPitcher": "원종현",
+      "savePitcher": "유영찬",
+      "gameId": "20250708WOLG0",
       "standoutHitter": {
-        "name": "최주환",
-        "stat": "18.4%(4타수 0득점 3안타 2타점)",
-        "rank": 2
+        "name": "임지열",
+        "stat": "4.8%(4타수 1득점 1안타 2타점)",
+        "rank": 3
       },
       "standoutPitcher": {
         "name": "하영민",
-        "stat": "2회말 1루수 파울플라이 아웃승리확률55.5% → 63.5%",
-        "rank": 2
+        "stat": "5회말 2루수 라인드라이브 아웃승리확률50.7% → 59.1%",
+        "rank": 3
       }
     },
     {
-      "date": "2025-06-19",
+      "date": "2025-06-08",
       "result": "L",
-      "opponent": "SSG",
+      "opponent": "LG",
       "homeAway": "home",
-      "score": "2-4",
+      "score": "2-7",
       "stadium": "고척",
-      "winningPitcher": "노경은",
-      "losingPitcher": "오석주",
-      "savePitcher": "이로운",
-      "gameId": "20250619SKWO0",
+      "winningPitcher": "송승기",
+      "losingPitcher": "정현우",
+      "savePitcher": "",
+      "gameId": "20250608LGWO0",
       "standoutHitter": {
-        "name": "주성원",
-        "stat": "10.5%(2타수 1득점 1안타 0타점)",
-        "rank": 3
+        "name": "임지열",
+        "stat": "2.5%(3타수 0득점 2안타 0타점)",
+        "rank": 4
       },
       "standoutPitcher": {
-        "name": "김선기",
-        "stat": "6회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률50.9% → 72.8%",
+        "name": "정현우",
+        "stat": "4회초 좌익수 플라이 아웃승리확률41.2% → 44.6%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-06-07",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "4-1",
+      "stadium": "고척",
+      "winningPitcher": "알칸타라",
+      "losingPitcher": "임찬규",
+      "savePitcher": "주승우",
+      "gameId": "20250607LGWO0",
+      "standoutHitter": {
+        "name": "송성문",
+        "stat": "16.4%(4타수 0득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "주승우",
+        "stat": "9회초 1루수 라인드라이브 아웃 1루주자 박해민 : 태그아웃 (1루수 태그아웃)승리확률92.9% → 99.6%",
         "rank": 1
       }
     },
     {
-      "date": "2025-06-18",
+      "date": "2025-06-06",
       "result": "W",
-      "opponent": "SSG",
+      "opponent": "LG",
       "homeAway": "home",
-      "score": "3-2",
+      "score": "2-1",
       "stadium": "고척",
-      "winningPitcher": "하영민",
-      "losingPitcher": "김건우",
-      "savePitcher": "원종현",
-      "gameId": "20250618SKWO0",
+      "winningPitcher": "조영건",
+      "losingPitcher": "김영우",
+      "savePitcher": "",
+      "gameId": "20250606LGWO0",
       "standoutHitter": {
-        "name": "송성문",
-        "stat": "8.9%(3타수 1득점 1안타 0타점)",
-        "rank": 3
+        "name": "이주형",
+        "stat": "35.6%(2타수 1득점 1안타 1타점)",
+        "rank": 1
       },
       "standoutPitcher": {
-        "name": "원종현",
-        "stat": "9회초 삼진 아웃승리확률76% → 100%",
+        "name": "이준우",
+        "stat": "6회초 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률32.3% → 40.6%",
         "rank": 1
       }
     }
   ],
   "summary": {
-    "wins": 3,
-    "losses": 6,
-    "draws": 1
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
   }
 }

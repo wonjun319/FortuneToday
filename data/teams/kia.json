@@ -1,8 +1,30 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-03-22T01:07:01+09:00",
+  "updatedAt": "2026-03-23T01:06:28+09:00",
   "last10": [
+    {
+      "date": "2026-03-22",
+      "result": "D",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "0-0",
+      "stadium": "잠실",
+      "winningPitcher": "",
+      "losingPitcher": "",
+      "savePitcher": "",
+      "gameId": "20260322HTOB0",
+      "standoutHitter": {
+        "name": "김도영",
+        "stat": "2.2%(2타수 0득점 1안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "황동하",
+        "stat": "4회말 우익수 플라이 아웃승리확률34.6% → 43.5%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-21",
       "result": "W",

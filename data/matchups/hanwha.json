@@ -1,227 +1,235 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-03-22T01:07:43+09:00",
-  "gameDate": "2026-03-22",
-  "opponent": "롯데",
-  "opponentSlug": "lotte",
+  "updatedAt": "2026-03-23T01:07:56+09:00",
+  "gameDate": "2026-03-23",
+  "opponent": "NC",
+  "opponentSlug": "nc",
   "last10": [
     {
-      "date": "2026-03-21",
-      "result": "L",
-      "opponent": "롯데",
-      "homeAway": "away",
-      "score": "6-12",
-      "stadium": "사직",
-      "winningPitcher": "로드리게스",
-      "losingPitcher": "엄상백",
-      "savePitcher": "",
-      "gameId": "20260321HHLT0",
-      "standoutHitter": {
-        "name": "노시환",
-        "stat": "5.2%(4타수 0득점 1안타 2타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "엄상백",
-        "stat": "1회말 유격수 플라이 아웃승리확률46.3% → 53.9%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-09-30",
+      "date": "2025-09-03",
       "result": "W",
-      "opponent": "롯데",
+      "opponent": "NC",
       "homeAway": "home",
-      "score": "1-0",
+      "score": "6-5",
       "stadium": "대전",
-      "winningPitcher": "김서현",
-      "losingPitcher": "김원중",
+      "winningPitcher": "정우주",
+      "losingPitcher": "이준혁",
       "savePitcher": "",
-      "gameId": "20250930LTHH0",
-      "standoutHitter": null,
-      "standoutPitcher": null
-    },
-    {
-      "date": "2025-09-10",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "away",
-      "score": "13-0",
-      "stadium": "사직",
-      "winningPitcher": "류현진",
-      "losingPitcher": "감보아",
-      "savePitcher": "",
-      "gameId": "20250910HHLT0",
+      "gameId": "20250903NCHH0",
       "standoutHitter": {
-        "name": "최재훈",
-        "stat": "12.9%(3타수 1득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "류현진",
-        "stat": "1회말 삼진 아웃승리확률57.5% → 63.3%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-09-09",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "away",
-      "score": "9-1",
-      "stadium": "사직",
-      "winningPitcher": "와이스",
-      "losingPitcher": "박세웅",
-      "savePitcher": "",
-      "gameId": "20250909HHLT0",
-      "standoutHitter": {
-        "name": "노시환",
-        "stat": "13.8%(5타수 2득점 2안타 4타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "와이스",
-        "stat": "2회말 우익수 플라이 아웃승리확률54.8% → 60.3%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-08-14",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "home",
-      "score": "5-4",
-      "stadium": "대전",
-      "winningPitcher": "주현상",
-      "losingPitcher": "윤성빈",
-      "savePitcher": "",
-      "gameId": "20250814LTHH0",
-      "standoutHitter": {
-        "name": "이원석",
-        "stat": "38.7%(1타수 1득점 0안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "김범수",
-        "stat": "10회초 삼진 아웃승리확률51% → 65.9%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2025-08-13",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "home",
-      "score": "6-0",
-      "stadium": "대전",
-      "winningPitcher": "와이스",
-      "losingPitcher": "벨라스케즈",
-      "savePitcher": "",
-      "gameId": "20250813LTHH0",
-      "standoutHitter": {
-        "name": "손아섭",
-        "stat": "9.7%(5타수 1득점 1안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "와이스",
-        "stat": "4회초 삼진 아웃승리확률84.4% → 88%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-08-12",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "home",
-      "score": "2-0",
-      "stadium": "대전",
-      "winningPitcher": "폰세",
-      "losingPitcher": "감보아",
-      "savePitcher": "김서현",
-      "gameId": "20250812LTHH0",
-      "standoutHitter": {
-        "name": "리베라토",
-        "stat": "8.7%(2타수 1득점 1안타 0타점)",
+        "name": "이도윤",
+        "stat": "24.2%(4타수 3득점 3안타 0타점)",
         "rank": 1
       },
       "standoutPitcher": {
         "name": "김서현",
-        "stat": "8회초 중견수 플라이 아웃승리확률79.9% → 93%",
+        "stat": "9회초 좌익수 플라이 아웃승리확률53.4% → 65.9%",
         "rank": 1
       }
     },
     {
-      "date": "2025-06-19",
+      "date": "2025-08-17",
       "result": "L",
-      "opponent": "롯데",
+      "opponent": "NC",
       "homeAway": "away",
-      "score": "3-4",
-      "stadium": "사직",
-      "winningPitcher": "나균안",
+      "score": "4-9",
+      "stadium": "창원",
+      "winningPitcher": "김녹원",
       "losingPitcher": "황준서",
-      "savePitcher": "김원중",
-      "gameId": "20250619HHLT0",
+      "savePitcher": "",
+      "gameId": "20250817HHNC0",
       "standoutHitter": {
-        "name": "이재원",
-        "stat": "7.5%(2타수 0득점 1안타 0타점)",
-        "rank": 2
+        "name": "노시환",
+        "stat": "2.1%(2타수 0득점 0안타 0타점)",
+        "rank": 5
       },
       "standoutPitcher": {
         "name": "황준서",
-        "stat": "6",
+        "stat": "1회말 2루수 플라이 아웃승리확률27.5% → 31.7%",
         "rank": 1
       }
     },
     {
-      "date": "2025-06-18",
+      "date": "2025-08-16",
       "result": "L",
-      "opponent": "롯데",
+      "opponent": "NC",
       "homeAway": "away",
-      "score": "3-6",
-      "stadium": "사직",
-      "winningPitcher": "김강현",
-      "losingPitcher": "엄상백",
-      "savePitcher": "김원중",
-      "gameId": "20250618HHLT0",
+      "score": "6-9",
+      "stadium": "창원",
+      "winningPitcher": "김진호",
+      "losingPitcher": "주현상",
+      "savePitcher": "류진욱",
+      "gameId": "20250816HHNC0",
       "standoutHitter": {
-        "name": "최인호",
-        "stat": "2.7%(1타수 0득점 1안타 0타점)",
-        "rank": 3
+        "name": "노시환",
+        "stat": "48.9%(3타수 3득점 2안타 4타점)",
+        "rank": 1
       },
       "standoutPitcher": {
-        "name": "엄상백",
-        "stat": "2회말 삼진 아웃승리확률41.6% → 45.7%",
+        "name": "박상원",
+        "stat": "6회말 삼진 아웃승리확률12.1% → 17.1%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-08-15",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "9-2",
+      "stadium": "창원",
+      "winningPitcher": "김종수",
+      "losingPitcher": "로건",
+      "savePitcher": "",
+      "gameId": "20250815HHNC0",
+      "standoutHitter": {
+        "name": "채은성",
+        "stat": "16.5%(3타수 1득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김기중",
+        "stat": "1회말 삼진 아웃승리확률28.4% → 32.3%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-07-03",
+      "result": "D",
+      "opponent": "NC",
+      "homeAway": "home",
+      "score": "7-7",
+      "stadium": "대전",
+      "winningPitcher": "",
+      "losingPitcher": "",
+      "savePitcher": "",
+      "gameId": "20250703NCHH0",
+      "standoutHitter": {
+        "name": "리베라토",
+        "stat": "35.9%(5타수 1득점 4안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김범수",
+        "stat": "11회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률43% → 65.9%",
         "rank": 1
       }
     },
     {
-      "date": "2025-06-17",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "away",
-      "score": "6-0",
-      "stadium": "사직",
-      "winningPitcher": "와이스",
-      "losingPitcher": "데이비슨",
-      "savePitcher": "",
-      "gameId": "20250617HHLT0",
+      "date": "2025-07-02",
+      "result": "L",
+      "opponent": "NC",
+      "homeAway": "home",
+      "score": "0-2",
+      "stadium": "대전",
+      "winningPitcher": "목지훈",
+      "losingPitcher": "문동주",
+      "savePitcher": "류진욱",
+      "gameId": "20250702NCHH0",
       "standoutHitter": {
-        "name": "안치홍",
-        "stat": "14.8%(4타수 1득점 1안타 3타점)",
+        "name": "리베라토",
+        "stat": "10.1%(3타수 0득점 2안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "문동주",
+        "stat": "4회초 삼진 아웃승리확률43.6% → 48.6%",
+        "rank": 5
+      }
+    },
+    {
+      "date": "2025-07-01",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "home",
+      "score": "8-4",
+      "stadium": "대전",
+      "winningPitcher": "김범수",
+      "losingPitcher": "김영규",
+      "savePitcher": "",
+      "gameId": "20250701NCHH0",
+      "standoutHitter": {
+        "name": "리베라토",
+        "stat": "18.8%(4타수 1득점 2안타 1타점)",
         "rank": 1
       },
       "standoutPitcher": {
         "name": "와이스",
-        "stat": "7회말 유격수 플라이 아웃승리확률84.9% → 88.6%",
+        "stat": "3회초 중견수 플라이 아웃승리확률28.3% → 34.2%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-06-01",
+      "result": "L",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "5-16",
+      "stadium": "창원",
+      "winningPitcher": "손주환",
+      "losingPitcher": "황준서",
+      "savePitcher": "",
+      "gameId": "20250601HHNC0",
+      "standoutHitter": {
+        "name": "문현빈",
+        "stat": "16.9%(5타수 1득점 1안타 2타점)",
         "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "황준서",
+        "stat": "5회말 좌익수 플라이 아웃승리확률52% → 56.5%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-05-31",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "9-6",
+      "stadium": "창원",
+      "winningPitcher": "김서현",
+      "losingPitcher": "류진욱",
+      "savePitcher": "",
+      "gameId": "20250531HHNC0",
+      "standoutHitter": {
+        "name": "문현빈",
+        "stat": "25.8%(3타수 1득점 3안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "엄상백",
+        "stat": "4회말 중견수 플라이 아웃승리확률41.7% → 50%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-05-30",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "7-1",
+      "stadium": "창원",
+      "winningPitcher": "류현진",
+      "losingPitcher": "라일리",
+      "savePitcher": "",
+      "gameId": "20250530HHNC0",
+      "standoutHitter": {
+        "name": "하주석",
+        "stat": "20.1%(4타수 1득점 2안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "류현진",
+        "stat": "6회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률77% → 86.2%",
+        "rank": 1
       }
     }
   ],
   "summary": {
-    "wins": 7,
-    "losses": 3,
-    "draws": 0
+    "wins": 5,
+    "losses": 4,
+    "draws": 1
   }
 }

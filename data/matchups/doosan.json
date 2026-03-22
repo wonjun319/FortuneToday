@@ -1,235 +1,235 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-03-22T01:07:34+09:00",
-  "gameDate": "2026-03-22",
-  "opponent": "KIA",
-  "opponentSlug": "kia",
+  "updatedAt": "2026-03-23T01:07:44+09:00",
+  "gameDate": "2026-03-23",
+  "opponent": "KT",
+  "opponentSlug": "kt",
   "last10": [
     {
-      "date": "2026-03-21",
+      "date": "2025-09-09",
       "result": "L",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "6-11",
-      "stadium": "잠실",
-      "winningPitcher": "네일",
-      "losingPitcher": "최승용",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "1-8",
+      "stadium": "수원",
+      "winningPitcher": "소형준",
+      "losingPitcher": "곽빈",
       "savePitcher": "",
-      "gameId": "20260321HTOB0",
+      "gameId": "20250909OBKT0",
       "standoutHitter": {
-        "name": "박준순",
-        "stat": "12.8%(4타수 1득점 1안타 3타점)",
+        "name": "케이브",
+        "stat": "10.4%(4타수 0득점 2안타 1타점)",
         "rank": 2
       },
       "standoutPitcher": {
-        "name": "최민석",
-        "stat": "7회초 삼진 아웃승리확률12.9% → 15.4%",
-        "rank": 4
+        "name": "곽빈",
+        "stat": "1회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률54.1% → 59.3%",
+        "rank": 3
       }
     },
     {
-      "date": "2025-09-12",
+      "date": "2025-08-24",
       "result": "L",
-      "opponent": "KIA",
-      "homeAway": "away",
-      "score": "4-5",
-      "stadium": "광주",
-      "winningPitcher": "김기훈",
-      "losingPitcher": "김택연",
-      "savePitcher": "",
-      "gameId": "20250912OBHT0",
+      "opponent": "KT",
+      "homeAway": "home",
+      "score": "2-3",
+      "stadium": "잠실",
+      "winningPitcher": "소형준",
+      "losingPitcher": "박치국",
+      "savePitcher": "박영현",
+      "gameId": "20250824KTOB0",
       "standoutHitter": {
-        "name": "홍성호",
-        "stat": "13%(4타수 2득점 2안타 2타점)",
+        "name": "케이브",
+        "stat": "10.6%(4타수 0득점 1안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "박치국",
+        "stat": "7회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률67.4% → 77.5%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-08-23",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "home",
+      "score": "2-6",
+      "stadium": "잠실",
+      "winningPitcher": "패트릭",
+      "losingPitcher": "홍건희",
+      "savePitcher": "",
+      "gameId": "20250823KTOB0",
+      "standoutHitter": {
+        "name": "김인태",
+        "stat": "5%(1타수 0득점 1안타 0타점)",
+        "rank": 5
+      },
+      "standoutPitcher": {
+        "name": "제환유",
+        "stat": "1회초 3루수 병살타 아웃 (3루수->유격수->2루수->1루수 송구아웃)승리확률36.6% → 46.1%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-08-22",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "home",
+      "score": "8-13",
+      "stadium": "잠실",
+      "winningPitcher": "손동현",
+      "losingPitcher": "박치국",
+      "savePitcher": "",
+      "gameId": "20250822KTOB0",
+      "standoutHitter": {
+        "name": "케이브",
+        "stat": "37.3%(3타수 1득점 2안타 4타점)",
         "rank": 3
       },
       "standoutPitcher": {
+        "name": "최원준",
+        "stat": "5회초 유격수 플라이 아웃승리확률68.9% → 74.2%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-07-06",
+      "result": "W",
+      "opponent": "KT",
+      "homeAway": "home",
+      "score": "8-7",
+      "stadium": "잠실",
+      "winningPitcher": "박치국",
+      "losingPitcher": "주권",
+      "savePitcher": "김택연",
+      "gameId": "20250706KTOB0",
+      "standoutHitter": {
+        "name": "김재환",
+        "stat": "42.9%(3타수 1득점 1안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
         "name": "김택연",
-        "stat": "9회말 좌익수 파울플라이 아웃승리확률76.5% → 86.5%",
+        "stat": "9회초 중견수 플라이 아웃승리확률83.5% → 100%",
         "rank": 1
       }
     },
     {
-      "date": "2025-08-17",
+      "date": "2025-07-05",
       "result": "W",
-      "opponent": "KIA",
+      "opponent": "KT",
       "homeAway": "home",
-      "score": "4-2",
+      "score": "6-2",
       "stadium": "잠실",
-      "winningPitcher": "고효준",
-      "losingPitcher": "전상현",
-      "savePitcher": "김정우",
-      "gameId": "20250817HTOB0",
-      "standoutHitter": {
-        "name": "조수행",
-        "stat": "35.4%(1타수 0득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "고효준",
-        "stat": "8회초 삼진 아웃승리확률29% → 34.2%",
-        "rank": 5
-      }
-    },
-    {
-      "date": "2025-08-16",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "4-3",
-      "stadium": "잠실",
-      "winningPitcher": "이교훈",
-      "losingPitcher": "정해영",
+      "winningPitcher": "최원준",
+      "losingPitcher": "쿠에바스",
       "savePitcher": "",
-      "gameId": "20250816HTOB0",
+      "gameId": "20250705KTOB0",
       "standoutHitter": {
-        "name": "김인태",
-        "stat": "45.1%(1타수 0득점 1안타 2타점)",
+        "name": "추재현",
+        "stat": "24%(4타수 1득점 2안타 2타점)",
         "rank": 1
       },
       "standoutPitcher": {
-        "name": "이교훈",
-        "stat": "9회초 삼진 아웃승리확률45.3% → 54.9%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2025-08-15",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "6-5",
-      "stadium": "잠실",
-      "winningPitcher": "홍건희",
-      "losingPitcher": "김건국",
-      "savePitcher": "",
-      "gameId": "20250815HTOB0",
-      "standoutHitter": {
-        "name": "안재석",
-        "stat": "36.1%(5타수 2득점 2안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "이영하",
-        "stat": "9회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률13.3% → 23.5%",
+        "name": "최원준",
+        "stat": "5회초 3루수 파울플라이 아웃승리확률42.9% → 50.8%",
         "rank": 1
       }
     },
     {
-      "date": "2025-07-31",
+      "date": "2025-07-04",
       "result": "L",
-      "opponent": "KIA",
-      "homeAway": "away",
-      "score": "2-3",
-      "stadium": "광주",
-      "winningPitcher": "한재승",
-      "losingPitcher": "콜어빈",
-      "savePitcher": "정해영",
-      "gameId": "20250731OBHT0",
+      "opponent": "KT",
+      "homeAway": "home",
+      "score": "3-6",
+      "stadium": "잠실",
+      "winningPitcher": "오원석",
+      "losingPitcher": "잭로그",
+      "savePitcher": "박영현",
+      "gameId": "20250704KTOB0",
       "standoutHitter": {
-        "name": "박준순",
-        "stat": "16.6%(4타수 0득점 2안타 0타점)",
-        "rank": 2
+        "name": "양의지",
+        "stat": "3.5%(4타수 0득점 2안타 1타점)",
+        "rank": 5
+      },
+      "standoutPitcher": {
+        "name": "잭로그",
+        "stat": "1회초 중견수 플라이 아웃승리확률41.2% → 46.1%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-05-29",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "2-12",
+      "stadium": "수원",
+      "winningPitcher": "오원석",
+      "losingPitcher": "콜어빈",
+      "savePitcher": "",
+      "gameId": "20250529OBKT0",
+      "standoutHitter": {
+        "name": "임종성",
+        "stat": "4.1%(3타수 0득점 1안타 1타점)",
+        "rank": 4
       },
       "standoutPitcher": {
         "name": "콜어빈",
-        "stat": "3회말 2루수 라인드라이브 아웃승리확률51.3% → 59.7%",
-        "rank": 4
-      }
-    },
-    {
-      "date": "2025-07-30",
-      "result": "D",
-      "opponent": "KIA",
-      "homeAway": "away",
-      "score": "2-2",
-      "stadium": "광주",
-      "winningPitcher": "",
-      "losingPitcher": "",
-      "savePitcher": "",
-      "gameId": "20250730OBHT0",
-      "standoutHitter": {
-        "name": "정수빈",
-        "stat": "29.7%(2타수 1득점 2안타 0타점)",
+        "stat": "2회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률41.6% → 48.8%",
         "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "박신지",
-        "stat": "11회말 좌익수 파울플라이 아웃승리확률33.1% → 50%",
-        "rank": 1
       }
     },
     {
-      "date": "2025-07-29",
+      "date": "2025-05-28",
       "result": "W",
-      "opponent": "KIA",
+      "opponent": "KT",
       "homeAway": "away",
-      "score": "9-6",
-      "stadium": "광주",
+      "score": "12-3",
+      "stadium": "수원",
       "winningPitcher": "최민석",
-      "losingPitcher": "김도현",
-      "savePitcher": "김택연",
-      "gameId": "20250729OBHT0",
+      "losingPitcher": "쿠에바스",
+      "savePitcher": "",
+      "gameId": "20250528OBKT0",
       "standoutHitter": {
-        "name": "박준순",
-        "stat": "7.1%(5타수 0득점 1안타 1타점)",
+        "name": "김인태",
+        "stat": "8.2%(3타수 1득점 1안타 1타점)",
         "rank": 1
       },
       "standoutPitcher": {
         "name": "최민석",
-        "stat": "2회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률63.8% → 69.3%",
+        "stat": "5회말 우익수 플라이 아웃승리확률92.7% → 96.2%",
         "rank": 1
       }
     },
     {
-      "date": "2025-06-05",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "2-1",
-      "stadium": "잠실",
-      "winningPitcher": "김택연",
-      "losingPitcher": "정해영",
-      "savePitcher": "",
-      "gameId": "20250605HTOB0",
-      "standoutHitter": {
-        "name": "김민석",
-        "stat": "32.4%(5타수 0득점 2안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "김택연",
-        "stat": "10회초 삼진 아웃승리확률51.3% → 65.9%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-06-04",
+      "date": "2025-05-27",
       "result": "L",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "3-8",
-      "stadium": "잠실",
-      "winningPitcher": "네일",
-      "losingPitcher": "이영하",
-      "savePitcher": "",
-      "gameId": "20250604HTOB0",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "1-2",
+      "stadium": "수원",
+      "winningPitcher": "고영표",
+      "losingPitcher": "최승용",
+      "savePitcher": "박영현",
+      "gameId": "20250527OBKT0",
       "standoutHitter": {
-        "name": "양의지",
-        "stat": "25.9%(2타수 1득점 2안타 2타점)",
-        "rank": 2
+        "name": "김인태",
+        "stat": "2.7%(0타수 0득점 0안타 0타점)",
+        "rank": 4
       },
       "standoutPitcher": {
-        "name": "최민석",
-        "stat": "3회초 3루수 플라이 아웃승리확률36.4% → 41.6%",
-        "rank": 2
+        "name": "최승용",
+        "stat": "4회말 2루수 라인드라이브 아웃승리확률34.6% → 43.5%",
+        "rank": 1
       }
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 4,
-    "draws": 1
+    "wins": 3,
+    "losses": 7,
+    "draws": 0
   }
 }

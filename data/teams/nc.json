@@ -1,8 +1,30 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-03-22T01:07:49+09:00",
+  "updatedAt": "2026-03-23T01:08:03+09:00",
   "last10": [
+    {
+      "date": "2026-03-22",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "2-6",
+      "stadium": "수원",
+      "winningPitcher": "사우어",
+      "losingPitcher": "원종해",
+      "savePitcher": "",
+      "gameId": "20260322NCKT0",
+      "standoutHitter": {
+        "name": "최정원",
+        "stat": "16.6%(1타수 0득점 1안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "원종해",
+        "stat": "3회말 삼진 아웃승리확률17.3% → 21.2%",
+        "rank": 4
+      }
+    },
     {
       "date": "2026-03-21",
       "result": "L",

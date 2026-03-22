@@ -1,227 +1,235 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-03-22T01:07:51+09:00",
-  "gameDate": "2026-03-22",
-  "opponent": "KT",
-  "opponentSlug": "kt",
+  "updatedAt": "2026-03-23T01:08:05+09:00",
+  "gameDate": "2026-03-23",
+  "opponent": "한화",
+  "opponentSlug": "hanwha",
   "last10": [
     {
-      "date": "2026-03-21",
+      "date": "2025-09-03",
       "result": "L",
-      "opponent": "KT",
+      "opponent": "한화",
       "homeAway": "away",
-      "score": "2-8",
-      "stadium": "수원",
-      "winningPitcher": "소형준",
-      "losingPitcher": "라일리",
+      "score": "5-6",
+      "stadium": "대전",
+      "winningPitcher": "정우주",
+      "losingPitcher": "이준혁",
       "savePitcher": "",
-      "gameId": "20260321NCKT0",
+      "gameId": "20250903NCHH0",
       "standoutHitter": {
-        "name": "고준휘",
-        "stat": "4.7%(1타수 0득점 1안타 2타점)",
+        "name": "박건우",
+        "stat": "16.4%(1타수 0득점 1안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "배재환",
+        "stat": "7회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률35.6% → 47.7%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-08-17",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "home",
+      "score": "9-4",
+      "stadium": "창원",
+      "winningPitcher": "김녹원",
+      "losingPitcher": "황준서",
+      "savePitcher": "",
+      "gameId": "20250817HHNC0",
+      "standoutHitter": {
+        "name": "최원준",
+        "stat": "17.4%(3타수 2득점 1안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김녹원",
+        "stat": "2회초 유격수 플라이 아웃승리확률66.8% → 70%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-08-16",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "home",
+      "score": "9-6",
+      "stadium": "창원",
+      "winningPitcher": "김진호",
+      "losingPitcher": "주현상",
+      "savePitcher": "류진욱",
+      "gameId": "20250816HHNC0",
+      "standoutHitter": {
+        "name": "천재환",
+        "stat": "30.8%(1타수 1득점 1안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "김진호",
+        "stat": "8회초 우익수 플라이 아웃승리확률50% → 55.1%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-08-15",
+      "result": "L",
+      "opponent": "한화",
+      "homeAway": "home",
+      "score": "2-9",
+      "stadium": "창원",
+      "winningPitcher": "김종수",
+      "losingPitcher": "로건",
+      "savePitcher": "",
+      "gameId": "20250815HHNC0",
+      "standoutHitter": {
+        "name": "최원준",
+        "stat": "9.9%(3타수 1득점 1안타 1타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "로건",
+        "stat": "4회초 3루수 병살타 아웃 (3루수->1루수 송구아웃)승리확률50.5% → 67.5%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-07-03",
+      "result": "D",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "7-7",
+      "stadium": "대전",
+      "winningPitcher": "",
+      "losingPitcher": "",
+      "savePitcher": "",
+      "gameId": "20250703NCHH0",
+      "standoutHitter": {
+        "name": "권희동",
+        "stat": "24.5%(2타수 0득점 0안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "김녹원",
+        "stat": "11회말 중견수 플라이 아웃승리확률28.8% → 38.3%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-07-02",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "2-0",
+      "stadium": "대전",
+      "winningPitcher": "목지훈",
+      "losingPitcher": "문동주",
+      "savePitcher": "류진욱",
+      "gameId": "20250702NCHH0",
+      "standoutHitter": {
+        "name": "박민우",
+        "stat": "7.2%(4타수 0득점 1안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "류진욱",
+        "stat": "9회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률80.6% → 98.2%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-07-01",
+      "result": "L",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "4-8",
+      "stadium": "대전",
+      "winningPitcher": "김범수",
+      "losingPitcher": "김영규",
+      "savePitcher": "",
+      "gameId": "20250701NCHH0",
+      "standoutHitter": {
+        "name": "데이비슨",
+        "stat": "1",
         "rank": 4
       },
       "standoutPitcher": {
         "name": "라일리",
-        "stat": "2회말 유격수 라인드라이브 아웃승리확률24.8% → 31%",
-        "rank": 1
+        "stat": "6회말 삼진 아웃승리확률81.1% → 84.7%",
+        "rank": 3
       }
     },
     {
-      "date": "2025-09-30",
+      "date": "2025-06-01",
       "result": "W",
-      "opponent": "KT",
+      "opponent": "한화",
       "homeAway": "home",
-      "score": "9-4",
+      "score": "16-5",
       "stadium": "창원",
-      "winningPitcher": "구창모",
-      "losingPitcher": "고영표",
-      "savePitcher": "",
-      "gameId": "20250930KTNC0",
-      "standoutHitter": null,
-      "standoutPitcher": null
-    },
-    {
-      "date": "2025-09-02",
-      "result": "W",
-      "opponent": "KT",
-      "homeAway": "away",
-      "score": "9-4",
-      "stadium": "수원",
       "winningPitcher": "손주환",
-      "losingPitcher": "고영표",
+      "losingPitcher": "황준서",
       "savePitcher": "",
-      "gameId": "20250902NCKT0",
+      "gameId": "20250601HHNC0",
       "standoutHitter": {
-        "name": "김주원",
-        "stat": "19.8%(5타수 2득점 3안타 2타점)",
+        "name": "오영수",
+        "stat": "42.8%(1타수 1득점 1안타 4타점)",
         "rank": 1
       },
       "standoutPitcher": {
-        "name": "손주환",
-        "stat": "4회말 2루수 플라이 아웃승리확률33% → 37.8%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2025-08-03",
-      "result": "D",
-      "opponent": "KT",
-      "homeAway": "home",
-      "score": "1-1",
-      "stadium": "창원",
-      "winningPitcher": "",
-      "losingPitcher": "",
-      "savePitcher": "",
-      "gameId": "20250803KTNC0",
-      "standoutHitter": {
-        "name": "최정원",
-        "stat": "6.2%(0타수 0득점 0안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "로건",
-        "stat": "4회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률46.4% → 56.4%",
+        "name": "배재환",
+        "stat": "7회초 삼진 아웃승리확률75.2% → 82.8%",
         "rank": 1
       }
     },
     {
-      "date": "2025-08-02",
-      "result": "W",
-      "opponent": "KT",
-      "homeAway": "home",
-      "score": "7-6",
-      "stadium": "창원",
-      "winningPitcher": "김영규",
-      "losingPitcher": "박영현",
-      "savePitcher": "",
-      "gameId": "20250802KTNC0",
-      "standoutHitter": {
-        "name": "김주원",
-        "stat": "42.6%(5타수 1득점 3안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "류진욱",
-        "stat": "9회초 좌익수 플라이 아웃승리확률47.5% → 65.9%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-08-01",
-      "result": "W",
-      "opponent": "KT",
-      "homeAway": "home",
-      "score": "5-3",
-      "stadium": "창원",
-      "winningPitcher": "전사민",
-      "losingPitcher": "소형준",
-      "savePitcher": "류진욱",
-      "gameId": "20250801KTNC0",
-      "standoutHitter": {
-        "name": "이우성",
-        "stat": "8.2%(3타수 1득점 1안타 1타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "류진욱",
-        "stat": "8회초 삼진 아웃승리확률86% → 93%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-07-24",
+      "date": "2025-05-31",
       "result": "L",
-      "opponent": "KT",
+      "opponent": "한화",
       "homeAway": "home",
-      "score": "4-5",
+      "score": "6-9",
       "stadium": "창원",
-      "winningPitcher": "배제성",
-      "losingPitcher": "목지훈",
-      "savePitcher": "박영현",
-      "gameId": "20250724KTNC0",
+      "winningPitcher": "김서현",
+      "losingPitcher": "류진욱",
+      "savePitcher": "",
+      "gameId": "20250531HHNC0",
       "standoutHitter": {
-        "name": "박민우",
-        "stat": "12.3%(4타수 0득점 2안타 2타점)",
+        "name": "박영빈",
+        "stat": "27.8%(0타수 1득점 0안타 0타점)",
         "rank": 1
       },
       "standoutPitcher": {
-        "name": "류진욱",
-        "stat": "2",
-        "rank": 2
+        "name": "배재환",
+        "stat": "7회초 2루수 플라이 아웃승리확률31% → 39.4%",
+        "rank": 1
       }
     },
     {
-      "date": "2025-07-23",
+      "date": "2025-05-30",
       "result": "L",
-      "opponent": "KT",
+      "opponent": "한화",
       "homeAway": "home",
-      "score": "2-9",
+      "score": "1-7",
       "stadium": "창원",
-      "winningPitcher": "이상동",
-      "losingPitcher": "로건",
-      "savePitcher": "",
-      "gameId": "20250723KTNC0",
-      "standoutHitter": {
-        "name": "김휘집",
-        "stat": "1",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "로건",
-        "stat": "3회초 삼진 아웃승리확률32.3% → 37%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2025-07-22",
-      "result": "L",
-      "opponent": "KT",
-      "homeAway": "home",
-      "score": "0-7",
-      "stadium": "창원",
-      "winningPitcher": "고영표",
+      "winningPitcher": "류현진",
       "losingPitcher": "라일리",
       "savePitcher": "",
-      "gameId": "20250722KTNC0",
+      "gameId": "20250530HHNC0",
       "standoutHitter": {
-        "name": "김휘집",
-        "stat": "1",
-        "rank": 3
+        "name": "권희동",
+        "stat": "5.7%(3타수 1득점 1안타 0타점)",
+        "rank": 4
       },
       "standoutPitcher": {
         "name": "라일리",
-        "stat": "2회초 2루수 라인드라이브 아웃승리확률44.6% → 48.8%",
-        "rank": 3
-      }
-    },
-    {
-      "date": "2025-06-22",
-      "result": "W",
-      "opponent": "KT",
-      "homeAway": "away",
-      "score": "2-0",
-      "stadium": "수원",
-      "winningPitcher": "로건",
-      "losingPitcher": "쿠에바스",
-      "savePitcher": "류진욱",
-      "gameId": "20250622NCKT0",
-      "standoutHitter": {
-        "name": "최정원",
-        "stat": "21.2%(0타수 1득점 0안타 0타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "로건",
-        "stat": "5회말 좌익수 플라이 아웃승리확률40.8% → 50%",
+        "stat": "3회초 2루수 라인드라이브 아웃승리확률48.1% → 55.9%",
         "rank": 2
       }
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 4,
+    "wins": 4,
+    "losses": 5,
     "draws": 1
   }
 }

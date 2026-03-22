@@ -1,8 +1,30 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-03-22T01:07:33+09:00",
+  "updatedAt": "2026-03-23T01:07:42+09:00",
   "last10": [
+    {
+      "date": "2026-03-22",
+      "result": "D",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "0-0",
+      "stadium": "잠실",
+      "winningPitcher": "",
+      "losingPitcher": "",
+      "savePitcher": "",
+      "gameId": "20260322HTOB0",
+      "standoutHitter": {
+        "name": "김민석",
+        "stat": "5.1%(3타수 0득점 2안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김택연",
+        "stat": "9회초 삼진 아웃승리확률50% → 56.5%",
+        "rank": 4
+      }
+    },
     {
       "date": "2026-03-21",
       "result": "L",
