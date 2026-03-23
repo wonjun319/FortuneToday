@@ -1,8 +1,30 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-03-23T01:07:33+09:00",
+  "updatedAt": "2026-03-24T01:21:09+09:00",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "L",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "10-13",
+      "stadium": "잠실",
+      "winningPitcher": "하영민",
+      "losingPitcher": "웰스",
+      "savePitcher": "조영건",
+      "gameId": "20260323WOLG0",
+      "standoutHitter": {
+        "name": "송찬의",
+        "stat": "19.3%(1타수 1득점 1안타 4타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "웰스",
+        "stat": "3회초 1루수 병살타 아웃 (1루수->유격수->1루수 송구아웃)승리확률46.7% → 54.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "박시원",
         "stat": "8회말 1루수 라인드라이브 아웃승리확률61.9% → 71.6%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-12",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "11-6",
-      "stadium": "마산",
-      "winningPitcher": "치리노스",
-      "losingPitcher": "테일러",
-      "savePitcher": "",
-      "gameId": "20260312LGNC0",
-      "standoutHitter": {
-        "name": "송찬의",
-        "stat": "14.4%(3타수 2득점 1안타 0타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "치리노스",
-        "stat": "3회말 포수 파울플라이 아웃승리확률56.1% → 61.1%",
         "rank": 1
       }
     }

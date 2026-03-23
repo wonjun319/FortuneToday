@@ -1,8 +1,30 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-03-23T01:08:03+09:00",
+  "updatedAt": "2026-03-24T01:21:33+09:00",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "L",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "4-11",
+      "stadium": "대전",
+      "winningPitcher": "류현진",
+      "losingPitcher": "김태경",
+      "savePitcher": "왕옌청",
+      "gameId": "20260323NCHH0",
+      "standoutHitter": {
+        "name": "김주원",
+        "stat": "4.1%(3타수 0득점 0안타 0타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "김태경",
+        "stat": "2회말 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)승리확률39.2% → 43.4%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "원종해",
         "stat": "6회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률29.7% → 37.7%",
-        "rank": 3
-      }
-    },
-    {
-      "date": "2026-03-12",
-      "result": "L",
-      "opponent": "LG",
-      "homeAway": "home",
-      "score": "6-11",
-      "stadium": "마산",
-      "winningPitcher": "치리노스",
-      "losingPitcher": "테일러",
-      "savePitcher": "",
-      "gameId": "20260312LGNC0",
-      "standoutHitter": {
-        "name": "한재환",
-        "stat": "4.5%(2타수 1득점 1안타 4타점)",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "테일러",
-        "stat": "3회초 삼진 아웃승리확률40.1% → 42.9%",
         "rank": 3
       }
     }

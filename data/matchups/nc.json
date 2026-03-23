@@ -1,11 +1,33 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-03-23T01:08:05+09:00",
-  "gameDate": "2026-03-23",
+  "updatedAt": "2026-03-24T01:21:34+09:00",
+  "gameDate": "2026-03-24",
   "opponent": "한화",
   "opponentSlug": "hanwha",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "L",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "4-11",
+      "stadium": "대전",
+      "winningPitcher": "류현진",
+      "losingPitcher": "김태경",
+      "savePitcher": "왕옌청",
+      "gameId": "20260323NCHH0",
+      "standoutHitter": {
+        "name": "김주원",
+        "stat": "4.1%(3타수 0득점 0안타 0타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "김태경",
+        "stat": "2회말 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)승리확률39.2% → 43.4%",
+        "rank": 2
+      }
+    },
     {
       "date": "2025-09-03",
       "result": "L",
@@ -202,28 +224,6 @@
         "name": "배재환",
         "stat": "7회초 2루수 플라이 아웃승리확률31% → 39.4%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2025-05-30",
-      "result": "L",
-      "opponent": "한화",
-      "homeAway": "home",
-      "score": "1-7",
-      "stadium": "창원",
-      "winningPitcher": "류현진",
-      "losingPitcher": "라일리",
-      "savePitcher": "",
-      "gameId": "20250530HHNC0",
-      "standoutHitter": {
-        "name": "권희동",
-        "stat": "5.7%(3타수 1득점 1안타 0타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "라일리",
-        "stat": "3회초 2루수 라인드라이브 아웃승리확률48.1% → 55.9%",
-        "rank": 2
       }
     }
   ],

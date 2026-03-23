@@ -1,11 +1,33 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-03-23T01:08:10+09:00",
-  "gameDate": "2026-03-23",
+  "updatedAt": "2026-03-24T01:21:38+09:00",
+  "gameDate": "2026-03-24",
   "opponent": "LG",
   "opponentSlug": "lg",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "13-10",
+      "stadium": "잠실",
+      "winningPitcher": "하영민",
+      "losingPitcher": "웰스",
+      "savePitcher": "조영건",
+      "gameId": "20260323WOLG0",
+      "standoutHitter": {
+        "name": "이주형",
+        "stat": "25.6%(4타수 4득점 3안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "조영건",
+        "stat": "9회말 좌익수 플라이 아웃승리확률89.5% → 95.6%",
+        "rank": 3
+      }
+    },
     {
       "date": "2025-09-09",
       "result": "W",
@@ -201,28 +223,6 @@
       "standoutPitcher": {
         "name": "주승우",
         "stat": "9회초 1루수 라인드라이브 아웃 1루주자 박해민 : 태그아웃 (1루수 태그아웃)승리확률92.9% → 99.6%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-06-06",
-      "result": "W",
-      "opponent": "LG",
-      "homeAway": "home",
-      "score": "2-1",
-      "stadium": "고척",
-      "winningPitcher": "조영건",
-      "losingPitcher": "김영우",
-      "savePitcher": "",
-      "gameId": "20250606LGWO0",
-      "standoutHitter": {
-        "name": "이주형",
-        "stat": "35.6%(2타수 1득점 1안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "이준우",
-        "stat": "6회초 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률32.3% → 40.6%",
         "rank": 1
       }
     }

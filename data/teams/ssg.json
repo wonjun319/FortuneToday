@@ -1,8 +1,30 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-03-23T01:07:38+09:00",
+  "updatedAt": "2026-03-24T01:21:13+09:00",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "L",
+      "opponent": "롯데",
+      "homeAway": "home",
+      "score": "2-5",
+      "stadium": "문학",
+      "winningPitcher": "나균안",
+      "losingPitcher": "최민준",
+      "savePitcher": "정철원",
+      "gameId": "20260323LTSK0",
+      "standoutHitter": {
+        "name": "김민식",
+        "stat": "13.5%(2타수 0득점 2안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "최민준",
+        "stat": "3회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률28.3% → 34.2%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "이로운",
         "stat": "9회말 유격수 플라이 아웃승리확률88.8% → 100%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-12",
-      "result": "L",
-      "opponent": "KIA",
-      "homeAway": "away",
-      "score": "4-9",
-      "stadium": "광주",
-      "winningPitcher": "양현종",
-      "losingPitcher": "베니지아노",
-      "savePitcher": "",
-      "gameId": "20260312SKHT0",
-      "standoutHitter": {
-        "name": "에레디아",
-        "stat": "1",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "베니지아노",
-        "stat": "2회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률44.7% → 50%",
-        "rank": 2
       }
     }
   ]

@@ -1,8 +1,30 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-03-23T01:06:28+09:00",
+  "updatedAt": "2026-03-24T01:20:23+09:00",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "away",
+      "score": "1-7",
+      "stadium": "대구",
+      "winningPitcher": "양창섭",
+      "losingPitcher": "양현종",
+      "savePitcher": "",
+      "gameId": "20260323HTSS0",
+      "standoutHitter": {
+        "name": "김선빈",
+        "stat": "5.9%(1타수 0득점 0안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "김기훈",
+        "stat": "6회말 3루수 병살타 아웃 (3루수->1루수 송구아웃)승리확률12.3% → 18.4%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "D",
@@ -199,28 +221,6 @@
         "name": "김태형",
         "stat": "3",
         "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-12",
-      "result": "W",
-      "opponent": "SSG",
-      "homeAway": "home",
-      "score": "9-4",
-      "stadium": "광주",
-      "winningPitcher": "양현종",
-      "losingPitcher": "베니지아노",
-      "savePitcher": "",
-      "gameId": "20260312SKHT0",
-      "standoutHitter": {
-        "name": "김호령",
-        "stat": "7.4%(2타수 1득점 2안타 0타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "양현종",
-        "stat": "4회초 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률46.4% → 55%",
-        "rank": 1
       }
     }
   ]

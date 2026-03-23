@@ -1,8 +1,30 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-03-23T01:07:59+09:00",
+  "updatedAt": "2026-03-24T01:21:30+09:00",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "7-12",
+      "stadium": "수원",
+      "winningPitcher": "곽빈",
+      "losingPitcher": "문용익",
+      "savePitcher": "",
+      "gameId": "20260323OBKT0",
+      "standoutHitter": {
+        "name": "유준규",
+        "stat": "3",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "문용익",
+        "stat": "1회초 삼진 아웃승리확률29% → 33.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "한승혁",
         "stat": "7회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률40.7% → 50%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-12",
-      "result": "L",
-      "opponent": "롯데",
-      "homeAway": "away",
-      "score": "3-4",
-      "stadium": "사직",
-      "winningPitcher": "홍민기",
-      "losingPitcher": "김민수",
-      "savePitcher": "윤성빈",
-      "gameId": "20260312KTLT0",
-      "standoutHitter": {
-        "name": "유준규",
-        "stat": "12.5%(2타수 0득점 2안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "김민수",
-        "stat": "5회말 삼진 아웃승리확률32.4% → 40.8%",
         "rank": 2
       }
     }

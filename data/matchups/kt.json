@@ -1,11 +1,33 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-03-23T01:08:01+09:00",
-  "gameDate": "2026-03-23",
+  "updatedAt": "2026-03-24T01:21:31+09:00",
+  "gameDate": "2026-03-24",
   "opponent": "두산",
   "opponentSlug": "doosan",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "7-12",
+      "stadium": "수원",
+      "winningPitcher": "곽빈",
+      "losingPitcher": "문용익",
+      "savePitcher": "",
+      "gameId": "20260323OBKT0",
+      "standoutHitter": {
+        "name": "유준규",
+        "stat": "3",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "문용익",
+        "stat": "1회초 삼진 아웃승리확률29% → 33.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2025-09-09",
       "result": "W",
@@ -203,33 +225,11 @@
         "stat": "7",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-05-27",
-      "result": "W",
-      "opponent": "두산",
-      "homeAway": "home",
-      "score": "2-1",
-      "stadium": "수원",
-      "winningPitcher": "고영표",
-      "losingPitcher": "최승용",
-      "savePitcher": "박영현",
-      "gameId": "20250527OBKT0",
-      "standoutHitter": {
-        "name": "김상수",
-        "stat": "11.1%(3타수 0득점 2안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "박영현",
-        "stat": "9회초 3루수 플라이 아웃승리확률81.5% → 89.7%",
-        "rank": 2
-      }
     }
   ],
   "summary": {
-    "wins": 7,
-    "losses": 3,
+    "wins": 6,
+    "losses": 4,
     "draws": 0
   }
 }

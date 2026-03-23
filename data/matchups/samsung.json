@@ -1,11 +1,33 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-03-23T01:07:48+09:00",
-  "gameDate": "2026-03-23",
+  "updatedAt": "2026-03-24T01:21:22+09:00",
+  "gameDate": "2026-03-24",
   "opponent": "KIA",
   "opponentSlug": "kia",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "7-1",
+      "stadium": "대구",
+      "winningPitcher": "양창섭",
+      "losingPitcher": "양현종",
+      "savePitcher": "",
+      "gameId": "20260323HTSS0",
+      "standoutHitter": {
+        "name": "김영웅",
+        "stat": "23.2%(2타수 2득점 2안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "양창섭",
+        "stat": "3회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률56.5% → 65.9%",
+        "rank": 1
+      }
+    },
     {
       "date": "2025-10-04",
       "result": "L",
@@ -194,28 +216,6 @@
         "name": "최원태",
         "stat": "5회말 우익수 플라이 아웃승리확률64% → 68.4%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2025-05-25",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "3-2",
-      "stadium": "대구",
-      "winningPitcher": "이호성",
-      "losingPitcher": "조상우",
-      "savePitcher": "",
-      "gameId": "20250525HTSS0",
-      "standoutHitter": {
-        "name": "디아즈",
-        "stat": "48.1%(4타수 2득점 2안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "원태인",
-        "stat": "5회초 삼진 아웃승리확률59.7% → 69.7%",
-        "rank": 1
       }
     }
   ],

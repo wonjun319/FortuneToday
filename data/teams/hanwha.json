@@ -1,8 +1,30 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-03-23T01:07:54+09:00",
+  "updatedAt": "2026-03-24T01:21:26+09:00",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "home",
+      "score": "11-4",
+      "stadium": "대전",
+      "winningPitcher": "류현진",
+      "losingPitcher": "김태경",
+      "savePitcher": "왕옌청",
+      "gameId": "20260323NCHH0",
+      "standoutHitter": {
+        "name": "최재훈",
+        "stat": "36.3%(4타수 2득점 3안타 7타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "류현진",
+        "stat": "3회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률66.9% → 73.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "김서현",
         "stat": "9회초 삼진 아웃승리확률81.5% → 89.7%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-12",
-      "result": "L",
-      "opponent": "삼성",
-      "homeAway": "home",
-      "score": "3-12",
-      "stadium": "대전",
-      "winningPitcher": "양창섭",
-      "losingPitcher": "왕옌청",
-      "savePitcher": "",
-      "gameId": "20260312SSHH0",
-      "standoutHitter": {
-        "name": "심우준",
-        "stat": "4.7%(2타수 0득점 0안타 0타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "왕옌청",
-        "stat": "3회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률21% → 25.7%",
-        "rank": 2
       }
     }
   ]

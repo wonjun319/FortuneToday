@@ -1,11 +1,33 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-03-23T01:07:56+09:00",
-  "gameDate": "2026-03-23",
+  "updatedAt": "2026-03-24T01:21:28+09:00",
+  "gameDate": "2026-03-24",
   "opponent": "NC",
   "opponentSlug": "nc",
   "last10": [
+    {
+      "date": "2026-03-23",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "home",
+      "score": "11-4",
+      "stadium": "대전",
+      "winningPitcher": "류현진",
+      "losingPitcher": "김태경",
+      "savePitcher": "왕옌청",
+      "gameId": "20260323NCHH0",
+      "standoutHitter": {
+        "name": "최재훈",
+        "stat": "36.3%(4타수 2득점 3안타 7타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "류현진",
+        "stat": "3회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률66.9% → 73.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2025-09-03",
       "result": "W",
@@ -202,28 +224,6 @@
         "name": "엄상백",
         "stat": "4회말 중견수 플라이 아웃승리확률41.7% → 50%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2025-05-30",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "7-1",
-      "stadium": "창원",
-      "winningPitcher": "류현진",
-      "losingPitcher": "라일리",
-      "savePitcher": "",
-      "gameId": "20250530HHNC0",
-      "standoutHitter": {
-        "name": "하주석",
-        "stat": "20.1%(4타수 1득점 2안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "류현진",
-        "stat": "6회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률77% → 86.2%",
-        "rank": 1
       }
     }
   ],
