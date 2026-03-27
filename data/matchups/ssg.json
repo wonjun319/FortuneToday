@@ -1,14 +1,235 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-03-27T01:27:11+09:00",
-  "gameDate": "2026-03-27",
-  "opponent": null,
-  "opponentSlug": null,
-  "last10": [],
+  "updatedAt": "2026-03-28T01:19:42+09:00",
+  "gameDate": "2026-03-28",
+  "opponent": "KIA",
+  "opponentSlug": "kia",
+  "last10": [
+    {
+      "date": "2026-03-13",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "3-2",
+      "stadium": "광주",
+      "winningPitcher": "타케다",
+      "losingPitcher": "김태형",
+      "savePitcher": "이로운",
+      "gameId": "20260313SKHT0",
+      "standoutHitter": {
+        "name": "에레디아",
+        "stat": "9.4%(3타수 0득점 2안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "이로운",
+        "stat": "9회말 유격수 플라이 아웃승리확률88.8% → 100%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "4-9",
+      "stadium": "광주",
+      "winningPitcher": "양현종",
+      "losingPitcher": "베니지아노",
+      "savePitcher": "",
+      "gameId": "20260312SKHT0",
+      "standoutHitter": {
+        "name": "에레디아",
+        "stat": "1",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "베니지아노",
+        "stat": "2회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률44.7% → 50%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-10-02",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "2-7",
+      "stadium": "광주",
+      "winningPitcher": "이도현",
+      "losingPitcher": "송영진",
+      "savePitcher": "",
+      "gameId": "20251002SKHT0",
+      "standoutHitter": {
+        "name": "고명준",
+        "stat": "7%(2타수 0득점 2안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "송영진",
+        "stat": "4",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-09-23",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "5-0",
+      "stadium": "문학",
+      "winningPitcher": "김건우",
+      "losingPitcher": "김태형",
+      "savePitcher": "",
+      "gameId": "20250923HTSK0",
+      "standoutHitter": {
+        "name": "에레디아",
+        "stat": "31.2%(3타수 1득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "이로운",
+        "stat": "6회초 좌익수 플라이 아웃승리확률74.4% → 78.9%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-09-03",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "2-1",
+      "stadium": "광주",
+      "winningPitcher": "박시후",
+      "losingPitcher": "네일",
+      "savePitcher": "조병현",
+      "gameId": "20250903SKHT0",
+      "standoutHitter": {
+        "name": "조형우",
+        "stat": "18.6%(5타수 0득점 3안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "조병현",
+        "stat": "9회말 삼진 아웃승리확률81.4% → 100%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-08-28",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "6-10",
+      "stadium": "문학",
+      "winningPitcher": "성영탁",
+      "losingPitcher": "최민준",
+      "savePitcher": "",
+      "gameId": "20250828HTSK0",
+      "standoutHitter": {
+        "name": "고명준",
+        "stat": "10%(4타수 1득점 1안타 3타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "박기호",
+        "stat": "6회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률17.7% → 29%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-08-27",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "2-4",
+      "stadium": "문학",
+      "winningPitcher": "전상현",
+      "losingPitcher": "전영준",
+      "savePitcher": "조상우",
+      "gameId": "20250827HTSK0",
+      "standoutHitter": {
+        "name": "오태곤",
+        "stat": "5.4%(0타수 1득점 0안타 0타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "조병현",
+        "stat": "9회초 1루수 병살타 아웃 (1루수 1루 터치아웃) 1루주자 박찬호 : 태그아웃 (1루수->유격수 태그아웃)승리확률50.6% → 65.9%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-08-26",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "9-5",
+      "stadium": "문학",
+      "winningPitcher": "김민",
+      "losingPitcher": "김기훈",
+      "savePitcher": "",
+      "gameId": "20250826HTSK0",
+      "standoutHitter": {
+        "name": "박성한",
+        "stat": "21.4%(4타수 1득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "노경은",
+        "stat": "8회초 중견수 플라이 아웃승리확률87.4% → 92.5%",
+        "rank": 5
+      }
+    },
+    {
+      "date": "2025-07-03",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "2-3",
+      "stadium": "광주",
+      "winningPitcher": "전상현",
+      "losingPitcher": "전영준",
+      "savePitcher": "정해영",
+      "gameId": "20250703SKHT0",
+      "standoutHitter": {
+        "name": "최정",
+        "stat": "7.7%(3타수 0득점 1안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "박시후",
+        "stat": "7회말 유격수 플라이 아웃승리확률21.3% → 27.7%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-07-02",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "8-5",
+      "stadium": "광주",
+      "winningPitcher": "김광현",
+      "losingPitcher": "이도현",
+      "savePitcher": "조병현",
+      "gameId": "20250702SKHT0",
+      "standoutHitter": {
+        "name": "한유섬",
+        "stat": "17.5%(2타수 2득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "조병현",
+        "stat": "9회말 삼진 아웃승리확률90.3% → 100%",
+        "rank": 1
+      }
+    }
+  ],
   "summary": {
-    "wins": 0,
-    "losses": 0,
+    "wins": 5,
+    "losses": 5,
     "draws": 0
   }
 }
