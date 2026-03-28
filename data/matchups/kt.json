@@ -1,11 +1,33 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-03-28T01:20:17+09:00",
-  "gameDate": "2026-03-28",
+  "updatedAt": "2026-03-29T01:09:23+09:00",
+  "gameDate": "2026-03-29",
   "opponent": "LG",
   "opponentSlug": "lg",
   "last10": [
+    {
+      "date": "2026-03-28",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "11-7",
+      "stadium": "잠실",
+      "winningPitcher": "사우어",
+      "losingPitcher": "치리노스",
+      "savePitcher": "박영현",
+      "gameId": "20260328KTLG0",
+      "standoutHitter": {
+        "name": "이정훈",
+        "stat": "12.3%(3타수 1득점 2안타 2타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "사우어",
+        "stat": "5회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률88.2% → 93.1%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-17",
       "result": "W",
@@ -199,33 +221,11 @@
         "stat": "1회말 투수 병살타 아웃 (투수->유격수->1루수 송구아웃)승리확률42.1% → 48.9%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-07-30",
-      "result": "L",
-      "opponent": "LG",
-      "homeAway": "away",
-      "score": "0-5",
-      "stadium": "잠실",
-      "winningPitcher": "손주영",
-      "losingPitcher": "패트릭",
-      "savePitcher": "",
-      "gameId": "20250730KTLG0",
-      "standoutHitter": {
-        "name": "허경민",
-        "stat": "1.8%(3타수 0득점 1안타 0타점)",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "패트릭",
-        "stat": "1회말 삼진 아웃승리확률43.3% → 50%",
-        "rank": 3
-      }
     }
   ],
   "summary": {
-    "wins": 2,
-    "losses": 8,
+    "wins": 3,
+    "losses": 7,
     "draws": 0
   }
 }

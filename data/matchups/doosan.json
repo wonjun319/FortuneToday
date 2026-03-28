@@ -1,11 +1,33 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-03-28T01:19:47+09:00",
-  "gameDate": "2026-03-28",
+  "updatedAt": "2026-03-29T01:08:59+09:00",
+  "gameDate": "2026-03-29",
   "opponent": "NC",
   "opponentSlug": "nc",
   "last10": [
+    {
+      "date": "2026-03-28",
+      "result": "L",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "0-6",
+      "stadium": "창원",
+      "winningPitcher": "구창모",
+      "losingPitcher": "플렉센",
+      "savePitcher": "",
+      "gameId": "20260328OBNC0",
+      "standoutHitter": {
+        "name": "카메론",
+        "stat": "2.2%(2타수 0득점 1안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "플렉센",
+        "stat": "2회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률41.6% → 48.8%",
+        "rank": 1
+      }
+    },
     {
       "date": "2025-09-26",
       "result": "L",
@@ -201,28 +223,6 @@
       "standoutPitcher": {
         "name": "잭로그",
         "stat": "5회말 1루수 병살타 아웃 (1루수->유격수->1루수 송구아웃)승리확률24.8% → 35.8%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-06-27",
-      "result": "L",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "9-10",
-      "stadium": "창원",
-      "winningPitcher": "배재환",
-      "losingPitcher": "김택연",
-      "savePitcher": "류진욱",
-      "gameId": "20250627OBNC0",
-      "standoutHitter": {
-        "name": "정수빈",
-        "stat": "21.3%(6타수 2득점 2안타 4타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "김택연",
-        "stat": "8회말 1루수 인필드플라이 아웃승리확률43.8% → 61.5%",
         "rank": 1
       }
     }

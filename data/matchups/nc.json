@@ -1,11 +1,33 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-03-28T01:20:23+09:00",
-  "gameDate": "2026-03-28",
+  "updatedAt": "2026-03-29T01:09:27+09:00",
+  "gameDate": "2026-03-29",
   "opponent": "두산",
   "opponentSlug": "doosan",
   "last10": [
+    {
+      "date": "2026-03-28",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "6-0",
+      "stadium": "창원",
+      "winningPitcher": "구창모",
+      "losingPitcher": "플렉센",
+      "savePitcher": "",
+      "gameId": "20260328OBNC0",
+      "standoutHitter": {
+        "name": "박건우",
+        "stat": "16.6%(4타수 1득점 2안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "구창모",
+        "stat": "4회초 중견수 플라이 아웃승리확률73.9% → 78.1%",
+        "rank": 3
+      }
+    },
     {
       "date": "2025-09-26",
       "result": "W",
@@ -202,28 +224,6 @@
         "name": "로건",
         "stat": "2회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률50.1% → 55.4%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2025-06-27",
-      "result": "W",
-      "opponent": "두산",
-      "homeAway": "home",
-      "score": "10-9",
-      "stadium": "창원",
-      "winningPitcher": "배재환",
-      "losingPitcher": "김택연",
-      "savePitcher": "류진욱",
-      "gameId": "20250627OBNC0",
-      "standoutHitter": {
-        "name": "안중열",
-        "stat": "36.8%(3타수 0득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "신민혁",
-        "stat": "4회초 1루수 병살타 아웃 (1루수 1루 터치아웃) 1루주자 이유찬 : 태그아웃 (1루수->유격수->투수 태그아웃)승리확률75.8% → 83%",
-        "rank": 4
       }
     }
   ],

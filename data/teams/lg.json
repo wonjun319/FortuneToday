@@ -1,8 +1,30 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-03-28T01:19:35+09:00",
+  "updatedAt": "2026-03-29T01:08:48+09:00",
   "last10": [
+    {
+      "date": "2026-03-28",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "home",
+      "score": "7-11",
+      "stadium": "잠실",
+      "winningPitcher": "사우어",
+      "losingPitcher": "치리노스",
+      "savePitcher": "박영현",
+      "gameId": "20260328KTLG0",
+      "standoutHitter": {
+        "name": "박동원",
+        "stat": "12.6%(3타수 1득점 3안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "배재준",
+        "stat": "2회초 중견수 플라이 아웃승리확률7.7% → 10.9%",
+        "rank": 4
+      }
+    },
     {
       "date": "2026-03-24",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "배재준",
         "stat": "7회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률69% → 84.3%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-14",
-      "result": "L",
-      "opponent": "롯데",
-      "homeAway": "away",
-      "score": "3-5",
-      "stadium": "사직",
-      "winningPitcher": "박준우",
-      "losingPitcher": "장현식",
-      "savePitcher": "박정민",
-      "gameId": "20260314LGLT0",
-      "standoutHitter": {
-        "name": "오스틴",
-        "stat": "5.8%(3타수 2득점 2안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "우강훈",
-        "stat": "7회말 삼진 아웃승리확률17.1% → 23%",
-        "rank": 2
       }
     }
   ]

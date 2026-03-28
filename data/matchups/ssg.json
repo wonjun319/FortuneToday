@@ -1,11 +1,33 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-03-28T01:19:42+09:00",
-  "gameDate": "2026-03-28",
+  "updatedAt": "2026-03-29T01:08:54+09:00",
+  "gameDate": "2026-03-29",
   "opponent": "KIA",
   "opponentSlug": "kia",
   "last10": [
+    {
+      "date": "2026-03-28",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "7-6",
+      "stadium": "문학",
+      "winningPitcher": "김민",
+      "losingPitcher": "조상우",
+      "savePitcher": "",
+      "gameId": "20260328HTSK0",
+      "standoutHitter": {
+        "name": "에레디아",
+        "stat": "39.5%(5타수 0득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "화이트",
+        "stat": "1회초 2루수 플라이 아웃승리확률38.1% → 42.7%",
+        "rank": 4
+      }
+    },
     {
       "date": "2026-03-13",
       "result": "W",
@@ -202,28 +224,6 @@
         "name": "박시후",
         "stat": "7회말 유격수 플라이 아웃승리확률21.3% → 27.7%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2025-07-02",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "away",
-      "score": "8-5",
-      "stadium": "광주",
-      "winningPitcher": "김광현",
-      "losingPitcher": "이도현",
-      "savePitcher": "조병현",
-      "gameId": "20250702SKHT0",
-      "standoutHitter": {
-        "name": "한유섬",
-        "stat": "17.5%(2타수 2득점 2안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "조병현",
-        "stat": "9회말 삼진 아웃승리확률90.3% → 100%",
-        "rank": 1
       }
     }
   ],

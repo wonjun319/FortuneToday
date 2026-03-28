@@ -1,11 +1,33 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-03-28T01:19:59+09:00",
-  "gameDate": "2026-03-28",
+  "updatedAt": "2026-03-29T01:09:11+09:00",
+  "gameDate": "2026-03-29",
   "opponent": "롯데",
   "opponentSlug": "lotte",
   "last10": [
+    {
+      "date": "2026-03-28",
+      "result": "L",
+      "opponent": "롯데",
+      "homeAway": "home",
+      "score": "3-6",
+      "stadium": "대구",
+      "winningPitcher": "로드리게스",
+      "losingPitcher": "후라도",
+      "savePitcher": "박정민",
+      "gameId": "20260328LTSS0",
+      "standoutHitter": {
+        "name": "전병우",
+        "stat": "5.9%(0타수 0득점 0안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "육선엽",
+        "stat": "2",
+        "rank": 2
+      }
+    },
     {
       "date": "2025-09-26",
       "result": "L",
@@ -203,33 +225,11 @@
         "stat": "6회초 3루수 파울플라이 아웃승리확률65% → 75.2%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-05-27",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "home",
-      "score": "7-3",
-      "stadium": "대구",
-      "winningPitcher": "후라도",
-      "losingPitcher": "감보아",
-      "savePitcher": "",
-      "gameId": "20250527LTSS0",
-      "standoutHitter": {
-        "name": "김지찬",
-        "stat": "24.7%(5타수 2득점 2안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "김태훈",
-        "stat": "7회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률83.9% → 92%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 6,
-    "losses": 3,
+    "wins": 5,
+    "losses": 4,
     "draws": 1
   }
 }

@@ -1,8 +1,30 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-03-28T01:20:20+09:00",
+  "updatedAt": "2026-03-29T01:09:25+09:00",
   "last10": [
+    {
+      "date": "2026-03-28",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "6-0",
+      "stadium": "창원",
+      "winningPitcher": "구창모",
+      "losingPitcher": "플렉센",
+      "savePitcher": "",
+      "gameId": "20260328OBNC0",
+      "standoutHitter": {
+        "name": "박건우",
+        "stat": "16.6%(4타수 1득점 2안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "구창모",
+        "stat": "4회초 중견수 플라이 아웃승리확률73.9% → 78.1%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-03-24",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "라일리",
         "stat": "3",
         "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-14",
-      "result": "W",
-      "opponent": "키움",
-      "homeAway": "home",
-      "score": "8-6",
-      "stadium": "마산",
-      "winningPitcher": "김녹원",
-      "losingPitcher": "박지성",
-      "savePitcher": "배재환",
-      "gameId": "20260314WONC0",
-      "standoutHitter": {
-        "name": "서호철",
-        "stat": "13.7%(2타수 0득점 1안타 3타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "정구범",
-        "stat": "7회초 삼진 아웃승리확률75.8% → 87.3%",
-        "rank": 1
       }
     }
   ]
