@@ -1,8 +1,30 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-03-29T01:08:56+09:00",
+  "updatedAt": "2026-03-30T01:08:33+09:00",
   "last10": [
+    {
+      "date": "2026-03-29",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "9-6",
+      "stadium": "창원",
+      "winningPitcher": "타무라",
+      "losingPitcher": "김진호",
+      "savePitcher": "김택연",
+      "gameId": "20260329OBNC0",
+      "standoutHitter": {
+        "name": "카메론",
+        "stat": "29.2%(1타수 1득점 1안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "곽빈",
+        "stat": "5",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-03-28",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "최민석",
         "stat": "2회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률30.5% → 40.1%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2026-03-15",
-      "result": "W",
-      "opponent": "삼성",
-      "homeAway": "home",
-      "score": "8-2",
-      "stadium": "이천(두산)",
-      "winningPitcher": "최승용",
-      "losingPitcher": "임기영",
-      "savePitcher": "",
-      "gameId": "20260315SSOB0",
-      "standoutHitter": {
-        "name": "박찬호",
-        "stat": "27%(3타수 2득점 2안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "이교훈",
-        "stat": "7회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률90.9% → 97.9%",
-        "rank": 1
       }
     }
   ]

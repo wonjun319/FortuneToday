@@ -1,8 +1,30 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-03-29T01:08:52+09:00",
+  "updatedAt": "2026-03-30T01:08:30+09:00",
   "last10": [
+    {
+      "date": "2026-03-29",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "11-6",
+      "stadium": "문학",
+      "winningPitcher": "김건우",
+      "losingPitcher": "이의리",
+      "savePitcher": "",
+      "gameId": "20260329HTSK0",
+      "standoutHitter": {
+        "name": "조형우",
+        "stat": "16.9%(4타수 2득점 2안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김건우",
+        "stat": "3회초 중견수 플라이 아웃승리확률81.6% → 87.4%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-28",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "전영준",
         "stat": "3회초 삼진 아웃승리확률39.9% → 42.3%",
         "rank": 5
-      }
-    },
-    {
-      "date": "2026-03-15",
-      "result": "L",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "0-8",
-      "stadium": "대전",
-      "winningPitcher": "문동주",
-      "losingPitcher": "김건우",
-      "savePitcher": "",
-      "gameId": "20260315SKHH0",
-      "standoutHitter": {
-        "name": "김성욱",
-        "stat": "4.8%(3타수 0득점 2안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "김건우",
-        "stat": "1회말 중견수 플라이 아웃승리확률44.8% → 50%",
-        "rank": 1
       }
     }
   ]

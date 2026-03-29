@@ -1,8 +1,30 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-03-29T01:09:29+09:00",
+  "updatedAt": "2026-03-30T01:08:48+09:00",
   "last10": [
+    {
+      "date": "2026-03-29",
+      "result": "L",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "4-10",
+      "stadium": "대전",
+      "winningPitcher": "왕옌청",
+      "losingPitcher": "하영민",
+      "savePitcher": "",
+      "gameId": "20260329WOHH0",
+      "standoutHitter": {
+        "name": "최재영",
+        "stat": "15.4%(4타수 0득점 1안타 2타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "하영민",
+        "stat": "2회말 2루수 라인드라이브 아웃승리확률35.2% → 40.1%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-28",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "와일스",
         "stat": "1회말 삼진 아웃승리확률39.9% → 43.9%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2026-03-15",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "8-1",
-      "stadium": "마산",
-      "winningPitcher": "알칸타라",
-      "losingPitcher": "라일리",
-      "savePitcher": "",
-      "gameId": "20260315WONC0",
-      "standoutHitter": {
-        "name": "어준서",
-        "stat": "15.9%(3타수 2득점 2안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "알칸타라",
-        "stat": "1회말 3루수 라인드라이브 아웃승리확률46% → 50%",
-        "rank": 1
       }
     }
   ]

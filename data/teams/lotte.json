@@ -1,8 +1,30 @@
 {
   "team": "Lotte Giants",
   "slug": "lotte",
-  "updatedAt": "2026-03-29T01:09:13+09:00",
+  "updatedAt": "2026-03-30T01:08:38+09:00",
   "last10": [
+    {
+      "date": "2026-03-29",
+      "result": "W",
+      "opponent": "삼성",
+      "homeAway": "away",
+      "score": "6-2",
+      "stadium": "대구",
+      "winningPitcher": "비슬리",
+      "losingPitcher": "최원태",
+      "savePitcher": "",
+      "gameId": "20260329LTSS0",
+      "standoutHitter": {
+        "name": "레이예스",
+        "stat": "28.8%(2타수 1득점 1안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "비슬리",
+        "stat": "5회말 중견수 플라이 아웃승리확률53.8% → 64.3%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-28",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "나균안",
         "stat": "2회초 2루수 플라이 아웃승리확률51.3% → 59%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-15",
-      "result": "W",
-      "opponent": "LG",
-      "homeAway": "home",
-      "score": "7-4",
-      "stadium": "사직",
-      "winningPitcher": "김태균",
-      "losingPitcher": "이정용",
-      "savePitcher": "윤성빈",
-      "gameId": "20260315LGLT0",
-      "standoutHitter": {
-        "name": "손성빈",
-        "stat": "16.3%(1타수 1득점 0안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "비슬리",
-        "stat": "3회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률46.7% → 54.6%",
-        "rank": 3
       }
     }
   ]
