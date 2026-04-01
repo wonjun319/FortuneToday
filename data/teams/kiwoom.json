@@ -1,8 +1,30 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-01T01:25:10+09:00",
+  "updatedAt": "2026-04-02T01:22:02+09:00",
   "last10": [
+    {
+      "date": "2026-04-01",
+      "result": "W",
+      "opponent": "SSG",
+      "homeAway": "away",
+      "score": "11-2",
+      "stadium": "문학",
+      "winningPitcher": "배동현",
+      "losingPitcher": "타케다",
+      "savePitcher": "",
+      "gameId": "20260401WOSK0",
+      "standoutHitter": {
+        "name": "이주형",
+        "stat": "10.3%(6타수 3득점 3안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "배동현",
+        "stat": "3회말 1루수 플라이 아웃승리확률70.3% → 75.8%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-31",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "김윤하",
         "stat": "3회말 삼진 아웃승리확률42.3% → 50%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-17",
-      "result": "D",
-      "opponent": "롯데",
-      "homeAway": "away",
-      "score": "4-4",
-      "stadium": "사직",
-      "winningPitcher": "",
-      "losingPitcher": "",
-      "savePitcher": "",
-      "gameId": "20260317WOLT0",
-      "standoutHitter": {
-        "name": "김건희",
-        "stat": "23.9%(1타수 0득점 1안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "박진형",
-        "stat": "9회말 좌익수 플라이 아웃승리확률38.3% → 50%",
-        "rank": 3
       }
     }
   ]

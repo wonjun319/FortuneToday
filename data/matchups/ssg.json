@@ -1,11 +1,33 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-01T01:24:35+09:00",
-  "gameDate": "2026-04-01",
+  "updatedAt": "2026-04-02T01:21:36+09:00",
+  "gameDate": "2026-04-02",
   "opponent": "키움",
   "opponentSlug": "kiwoom",
   "last10": [
+    {
+      "date": "2026-04-01",
+      "result": "L",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "2-11",
+      "stadium": "문학",
+      "winningPitcher": "배동현",
+      "losingPitcher": "타케다",
+      "savePitcher": "",
+      "gameId": "20260401WOSK0",
+      "standoutHitter": {
+        "name": "안상현",
+        "stat": "1",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "타케다",
+        "stat": "1회초 삼진 아웃승리확률36.6% → 40.3%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-03-31",
       "result": "W",
@@ -195,33 +217,11 @@
         "stat": "9회초 삼진 아웃승리확률50.6% → 58.6%",
         "rank": 3
       }
-    },
-    {
-      "date": "2025-07-29",
-      "result": "W",
-      "opponent": "키움",
-      "homeAway": "home",
-      "score": "9-3",
-      "stadium": "문학",
-      "winningPitcher": "전영준",
-      "losingPitcher": "하영민",
-      "savePitcher": "",
-      "gameId": "20250729WOSK0",
-      "standoutHitter": {
-        "name": "이지영",
-        "stat": "26.4%(4타수 1득점 2안타 4타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "전영준",
-        "stat": "4회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률57.2% → 66.1%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 7,
-    "losses": 2,
+    "wins": 6,
+    "losses": 3,
     "draws": 1
   }
 }

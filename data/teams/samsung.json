@@ -1,8 +1,30 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-01T01:24:42+09:00",
+  "updatedAt": "2026-04-02T01:21:45+09:00",
   "last10": [
+    {
+      "date": "2026-04-01",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "13-3",
+      "stadium": "대구",
+      "winningPitcher": "양창섭",
+      "losingPitcher": "최승용",
+      "savePitcher": "",
+      "gameId": "20260401OBSS0",
+      "standoutHitter": {
+        "name": "김성윤",
+        "stat": "14.7%(5타수 3득점 4안타 4타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "양창섭",
+        "stat": "5회초 중견수 플라이 아웃승리확률90.8% → 93.8%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-31",
       "result": "D",
@@ -199,28 +221,6 @@
         "name": "이승현",
         "stat": "2회말 2루수 병살타 아웃 (2루수->1루수 송구아웃)승리확률21.3% → 28.3%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-17",
-      "result": "L",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "4-8",
-      "stadium": "문학",
-      "winningPitcher": "베니지아노",
-      "losingPitcher": "이승민",
-      "savePitcher": "김민",
-      "gameId": "20260317SSSK0",
-      "standoutHitter": {
-        "name": "전병우",
-        "stat": "12.7%(1타수 0득점 1안타 2타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "김태훈",
-        "stat": "1",
-        "rank": 3
       }
     }
   ]

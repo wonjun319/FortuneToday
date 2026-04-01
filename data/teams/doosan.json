@@ -1,8 +1,30 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-04-01T01:24:38+09:00",
+  "updatedAt": "2026-04-02T01:21:38+09:00",
   "last10": [
+    {
+      "date": "2026-04-01",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "away",
+      "score": "3-13",
+      "stadium": "대구",
+      "winningPitcher": "양창섭",
+      "losingPitcher": "최승용",
+      "savePitcher": "",
+      "gameId": "20260401OBSS0",
+      "standoutHitter": {
+        "name": "박지훈",
+        "stat": "1",
+        "rank": 5
+      },
+      "standoutPitcher": {
+        "name": "최승용",
+        "stat": "1회말 삼진 아웃승리확률28.5% → 30.6%",
+        "rank": 5
+      }
+    },
     {
       "date": "2026-03-31",
       "result": "D",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "잭로그",
         "stat": "2회말 삼진 아웃승리확률17.5% → 21%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-17",
-      "result": "W",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "3-2",
-      "stadium": "대전",
-      "winningPitcher": "박치국",
-      "losingPitcher": "박준영",
-      "savePitcher": "김명신",
-      "gameId": "20260317OBHH0",
-      "standoutHitter": {
-        "name": "조수행",
-        "stat": "27.2%(1타수 0득점 0안타 0타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "박치국",
-        "stat": "8회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률32.8% → 50%",
         "rank": 1
       }
     }

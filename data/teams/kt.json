@@ -1,8 +1,30 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-01T01:25:01+09:00",
+  "updatedAt": "2026-04-02T01:21:56+09:00",
   "last10": [
+    {
+      "date": "2026-04-01",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "14-11",
+      "stadium": "대전",
+      "winningPitcher": "박영현",
+      "losingPitcher": "김도빈",
+      "savePitcher": "김민수",
+      "gameId": "20260401KTHH0",
+      "standoutHitter": {
+        "name": "김현수",
+        "stat": "59.6%(6타수 1득점 3안타 4타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "박영현",
+        "stat": "8회말 좌익수 파울플라이 아웃승리확률40.6% → 50%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-03-31",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "보쉴리",
         "stat": "1회초 우익수 플라이 아웃 2루주자 이주형 : 태그아웃 (우익수->3루수 태그아웃)승리확률44.9% → 54%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-17",
-      "result": "W",
-      "opponent": "LG",
-      "homeAway": "home",
-      "score": "8-5",
-      "stadium": "수원",
-      "winningPitcher": "오원석",
-      "losingPitcher": "김진수",
-      "savePitcher": "",
-      "gameId": "20260317LGKT0",
-      "standoutHitter": {
-        "name": "장성우",
-        "stat": "14%(1타수 1득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "오원석",
-        "stat": "1회초 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률38.7% → 46.1%",
         "rank": 1
       }
     }

@@ -1,11 +1,33 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-01T01:24:44+09:00",
-  "gameDate": "2026-04-01",
+  "updatedAt": "2026-04-02T01:21:47+09:00",
+  "gameDate": "2026-04-02",
   "opponent": "두산",
   "opponentSlug": "doosan",
   "last10": [
+    {
+      "date": "2026-04-01",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "13-3",
+      "stadium": "대구",
+      "winningPitcher": "양창섭",
+      "losingPitcher": "최승용",
+      "savePitcher": "",
+      "gameId": "20260401OBSS0",
+      "standoutHitter": {
+        "name": "김성윤",
+        "stat": "14.7%(5타수 3득점 4안타 4타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "양창섭",
+        "stat": "5회초 중견수 플라이 아웃승리확률90.8% → 93.8%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-31",
       "result": "D",
@@ -202,28 +224,6 @@
         "name": "가라비토",
         "stat": "2회말 삼진 아웃승리확률36.9% → 44.5%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2025-07-01",
-      "result": "W",
-      "opponent": "두산",
-      "homeAway": "away",
-      "score": "4-1",
-      "stadium": "잠실",
-      "winningPitcher": "후라도",
-      "losingPitcher": "최민석",
-      "savePitcher": "",
-      "gameId": "20250701SSOB0",
-      "standoutHitter": {
-        "name": "강민호",
-        "stat": "4.9%(4타수 1득점 1안타 2타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "이호성",
-        "stat": "9회말 3루수 파울플라이 아웃승리확률90.3% → 100%",
-        "rank": 1
       }
     }
   ],

@@ -1,11 +1,33 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-04-01T01:25:07+09:00",
-  "gameDate": "2026-04-01",
+  "updatedAt": "2026-04-02T01:22:00+09:00",
+  "gameDate": "2026-04-02",
   "opponent": "롯데",
   "opponentSlug": "lotte",
   "last10": [
+    {
+      "date": "2026-04-01",
+      "result": "W",
+      "opponent": "롯데",
+      "homeAway": "home",
+      "score": "5-4",
+      "stadium": "창원",
+      "winningPitcher": "류진욱",
+      "losingPitcher": "김원중",
+      "savePitcher": "",
+      "gameId": "20260401LTNC0",
+      "standoutHitter": {
+        "name": "박민우",
+        "stat": "45.7%(5타수 2득점 3안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "신민혁",
+        "stat": "5회초 유격수 라인드라이브 아웃승리확률34.4% → 43.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-31",
       "result": "W",
@@ -203,33 +225,11 @@
         "stat": "1회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률42.1% → 50%",
         "rank": 2
       }
-    },
-    {
-      "date": "2025-06-26",
-      "result": "L",
-      "opponent": "롯데",
-      "homeAway": "home",
-      "score": "6-7",
-      "stadium": "창원",
-      "winningPitcher": "감보아",
-      "losingPitcher": "이준혁",
-      "savePitcher": "김원중",
-      "gameId": "20250626LTNC0",
-      "standoutHitter": {
-        "name": "서호철",
-        "stat": "12.1%(3타수 1득점 0안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "전사민",
-        "stat": "6회초 투수 병살타 아웃 (투수->포수->1루수 송구아웃)승리확률13.2% → 24.3%",
-        "rank": 2
-      }
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 5,
+    "wins": 6,
+    "losses": 4,
     "draws": 0
   }
 }

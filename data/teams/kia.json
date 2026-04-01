@@ -1,8 +1,30 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-01T01:23:27+09:00",
+  "updatedAt": "2026-04-02T01:20:49+09:00",
   "last10": [
+    {
+      "date": "2026-04-01",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "2-7",
+      "stadium": "잠실",
+      "winningPitcher": "김진성",
+      "losingPitcher": "양현종",
+      "savePitcher": "유영찬",
+      "gameId": "20260401HTLG0",
+      "standoutHitter": {
+        "name": "김호령",
+        "stat": "8.6%(4타수 0득점 3안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "양현종",
+        "stat": "4",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-31",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "홍건희",
         "stat": "7회말 포수 스트라이크 낫 아웃 (포수 태그아웃)승리확률60.6% → 65.8%",
         "rank": 4
-      }
-    },
-    {
-      "date": "2026-03-17",
-      "result": "L",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "2-3",
-      "stadium": "창원",
-      "winningPitcher": "원종해",
-      "losingPitcher": "올러",
-      "savePitcher": "임지민",
-      "gameId": "20260317HTNC0",
-      "standoutHitter": {
-        "name": "오선우",
-        "stat": "18.8%(2타수 0득점 1안타 0타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "올러",
-        "stat": "5",
-        "rank": 1
       }
     }
   ]

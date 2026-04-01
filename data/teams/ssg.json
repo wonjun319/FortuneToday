@@ -1,8 +1,30 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-01T01:24:33+09:00",
+  "updatedAt": "2026-04-02T01:21:34+09:00",
   "last10": [
+    {
+      "date": "2026-04-01",
+      "result": "L",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "2-11",
+      "stadium": "문학",
+      "winningPitcher": "배동현",
+      "losingPitcher": "타케다",
+      "savePitcher": "",
+      "gameId": "20260401WOSK0",
+      "standoutHitter": {
+        "name": "안상현",
+        "stat": "1",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "타케다",
+        "stat": "1회초 삼진 아웃승리확률36.6% → 40.3%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-03-31",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "타케다",
         "stat": "1회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률42.3% → 51.8%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-17",
-      "result": "W",
-      "opponent": "삼성",
-      "homeAway": "home",
-      "score": "8-4",
-      "stadium": "문학",
-      "winningPitcher": "베니지아노",
-      "losingPitcher": "이승민",
-      "savePitcher": "김민",
-      "gameId": "20260317SSSK0",
-      "standoutHitter": {
-        "name": "최정",
-        "stat": "26.6%(2타수 1득점 2안타 4타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "김민",
-        "stat": "8회초 좌익수 플라이 아웃승리확률78.2% → 86%",
         "rank": 1
       }
     }
