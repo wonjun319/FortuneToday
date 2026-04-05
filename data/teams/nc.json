@@ -1,8 +1,30 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-04-05T01:09:40+09:00",
+  "updatedAt": "2026-04-06T01:09:34+09:00",
   "last10": [
+    {
+      "date": "2026-04-05",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "0-3",
+      "stadium": "광주",
+      "winningPitcher": "올러",
+      "losingPitcher": "토다",
+      "savePitcher": "정해영",
+      "gameId": "20260405NCHT0",
+      "standoutHitter": {
+        "name": "신재인",
+        "stat": "5.5%(1타수 0득점 1안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "토다",
+        "stat": "4회말 2루수 라인드라이브 아웃승리확률23.1% → 27.2%",
+        "rank": 4
+      }
+    },
     {
       "date": "2026-04-04",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "김태경",
         "stat": "2회말 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)승리확률39.2% → 43.4%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-22",
-      "result": "L",
-      "opponent": "KT",
-      "homeAway": "away",
-      "score": "2-6",
-      "stadium": "수원",
-      "winningPitcher": "사우어",
-      "losingPitcher": "원종해",
-      "savePitcher": "",
-      "gameId": "20260322NCKT0",
-      "standoutHitter": {
-        "name": "최정원",
-        "stat": "16.6%(1타수 0득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "원종해",
-        "stat": "3회말 삼진 아웃승리확률17.3% → 21.2%",
-        "rank": 4
       }
     }
   ]

@@ -1,8 +1,30 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-05T01:09:25+09:00",
+  "updatedAt": "2026-04-06T01:09:26+09:00",
   "last10": [
+    {
+      "date": "2026-04-05",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "0-2",
+      "stadium": "수원",
+      "winningPitcher": "보쉴리",
+      "losingPitcher": "오러클린",
+      "savePitcher": "박영현",
+      "gameId": "20260405SSKT0",
+      "standoutHitter": {
+        "name": "구자욱",
+        "stat": "6%(2타수 0득점 0안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "오러클린",
+        "stat": "5",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-04",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "양창섭",
         "stat": "3회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률56.5% → 65.9%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-22",
-      "result": "L",
-      "opponent": "LG",
-      "homeAway": "home",
-      "score": "13-14",
-      "stadium": "대구",
-      "winningPitcher": "임찬규",
-      "losingPitcher": "최원태",
-      "savePitcher": "",
-      "gameId": "20260322LGSS0",
-      "standoutHitter": {
-        "name": "구자욱",
-        "stat": "21.9%(3타수 0득점 2안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "최원태",
-        "stat": "4",
         "rank": 1
       }
     }

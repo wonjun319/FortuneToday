@@ -1,8 +1,30 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-05T01:09:36+09:00",
+  "updatedAt": "2026-04-06T01:09:32+09:00",
   "last10": [
+    {
+      "date": "2026-04-05",
+      "result": "W",
+      "opponent": "삼성",
+      "homeAway": "home",
+      "score": "2-0",
+      "stadium": "수원",
+      "winningPitcher": "보쉴리",
+      "losingPitcher": "오러클린",
+      "savePitcher": "박영현",
+      "gameId": "20260405SSKT0",
+      "standoutHitter": {
+        "name": "오윤석",
+        "stat": "6.9%(3타수 0득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "보쉴리",
+        "stat": "6회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률68.6% → 82.9%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-04",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "문용익",
         "stat": "1회초 삼진 아웃승리확률29% → 33.6%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-22",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "home",
-      "score": "6-2",
-      "stadium": "수원",
-      "winningPitcher": "사우어",
-      "losingPitcher": "원종해",
-      "savePitcher": "",
-      "gameId": "20260322NCKT0",
-      "standoutHitter": {
-        "name": "김현수",
-        "stat": "16.5%(3타수 1득점 1안타 2타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "박지훈",
-        "stat": "7회초 좌익수 플라이 아웃승리확률90.6% → 96.2%",
         "rank": 1
       }
     }

@@ -1,8 +1,30 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-05T01:09:12+09:00",
+  "updatedAt": "2026-04-06T01:09:22+09:00",
   "last10": [
+    {
+      "date": "2026-04-05",
+      "result": "W",
+      "opponent": "롯데",
+      "homeAway": "away",
+      "score": "4-3",
+      "stadium": "사직",
+      "winningPitcher": "김민",
+      "losingPitcher": "최준용",
+      "savePitcher": "조병현",
+      "gameId": "20260405SKLT0",
+      "standoutHitter": {
+        "name": "최정",
+        "stat": "17%(1타수 1득점 1안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "베니지아노",
+        "stat": "5회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률39.1% → 48.4%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-04",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "최민준",
         "stat": "3회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률28.3% → 34.2%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-22",
-      "result": "W",
-      "opponent": "키움",
-      "homeAway": "home",
-      "score": "4-3",
-      "stadium": "문학",
-      "winningPitcher": "김건우",
-      "losingPitcher": "박진형",
-      "savePitcher": "박시후",
-      "gameId": "20260322WOSK0",
-      "standoutHitter": {
-        "name": "최지훈",
-        "stat": "12.1%(2타수 1득점 1안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "박시후",
-        "stat": "9회초 삼진 아웃승리확률91.4% → 100%",
         "rank": 1
       }
     }
