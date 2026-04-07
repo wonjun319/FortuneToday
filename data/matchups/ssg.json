@@ -1,11 +1,33 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-07T01:18:13+09:00",
-  "gameDate": "2026-04-07",
+  "updatedAt": "2026-04-08T01:25:11+09:00",
+  "gameDate": "2026-04-08",
   "opponent": "한화",
   "opponentSlug": "hanwha",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "L",
+      "opponent": "한화",
+      "homeAway": "home",
+      "score": "2-6",
+      "stadium": "문학",
+      "winningPitcher": "류현진",
+      "losingPitcher": "타케다",
+      "savePitcher": "",
+      "gameId": "20260407HHSK0",
+      "standoutHitter": {
+        "name": "최정",
+        "stat": "6.6%(4타수 1득점 1안타 2타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "타케다",
+        "stat": "3회초 3루수 파울플라이 아웃승리확률40.8% → 48.1%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-03-15",
       "result": "L",
@@ -203,33 +225,11 @@
         "stat": "3회말 삼진 아웃승리확률25.2% → 29.3%",
         "rank": 2
       }
-    },
-    {
-      "date": "2025-06-29",
-      "result": "W",
-      "opponent": "한화",
-      "homeAway": "home",
-      "score": "2-0",
-      "stadium": "문학",
-      "winningPitcher": "화이트",
-      "losingPitcher": "류현진",
-      "savePitcher": "조병현",
-      "gameId": "20250629HHSK0",
-      "standoutHitter": {
-        "name": "에레디아",
-        "stat": "10.4%(4타수 1득점 2안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "화이트",
-        "stat": "5회초 삼진 아웃승리확률62% → 69.7%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 6,
-    "losses": 4,
+    "wins": 5,
+    "losses": 5,
     "draws": 0
   }
 }

@@ -1,8 +1,30 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-07T01:18:47+09:00",
+  "updatedAt": "2026-04-08T01:25:43+09:00",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "5-2",
+      "stadium": "잠실",
+      "winningPitcher": "배동현",
+      "losingPitcher": "양재훈",
+      "savePitcher": "김재웅",
+      "gameId": "20260407WOOB0",
+      "standoutHitter": {
+        "name": "이주형",
+        "stat": "28.7%(4타수 1득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "유토",
+        "stat": "6회말 삼진 아웃승리확률44.6% → 57.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-05",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "박정훈",
         "stat": "9회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률80.6% → 100%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-23",
-      "result": "W",
-      "opponent": "LG",
-      "homeAway": "away",
-      "score": "13-10",
-      "stadium": "잠실",
-      "winningPitcher": "하영민",
-      "losingPitcher": "웰스",
-      "savePitcher": "조영건",
-      "gameId": "20260323WOLG0",
-      "standoutHitter": {
-        "name": "이주형",
-        "stat": "25.6%(4타수 4득점 3안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "조영건",
-        "stat": "9회말 좌익수 플라이 아웃승리확률89.5% → 95.6%",
-        "rank": 3
       }
     }
   ]

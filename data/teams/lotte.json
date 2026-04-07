@@ -1,8 +1,30 @@
 {
   "team": "Lotte Giants",
   "slug": "lotte",
-  "updatedAt": "2026-04-07T01:18:26+09:00",
+  "updatedAt": "2026-04-08T01:25:24+09:00",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "home",
+      "score": "3-7",
+      "stadium": "사직",
+      "winningPitcher": "고영표",
+      "losingPitcher": "나균안",
+      "savePitcher": "박영현",
+      "gameId": "20260407KTLT0",
+      "standoutHitter": {
+        "name": "노진혁",
+        "stat": "11.8%(4타수 0득점 2안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "나균안",
+        "stat": "6",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-05",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "박세웅",
         "stat": "4회말 삼진 아웃승리확률48.5% → 53.9%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-23",
-      "result": "W",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "5-2",
-      "stadium": "문학",
-      "winningPitcher": "나균안",
-      "losingPitcher": "최민준",
-      "savePitcher": "정철원",
-      "gameId": "20260323LTSK0",
-      "standoutHitter": {
-        "name": "김민성",
-        "stat": "15%(4타수 0득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "쿄야마",
-        "stat": "6회말 투수 스트라이크 낫 아웃 (투수->1루수 1루 터치아웃)승리확률71% → 75%",
-        "rank": 2
       }
     }
   ]

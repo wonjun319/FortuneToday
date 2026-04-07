@@ -1,11 +1,33 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-07T01:18:07+09:00",
-  "gameDate": "2026-04-07",
+  "updatedAt": "2026-04-08T01:25:06+09:00",
+  "gameDate": "2026-04-08",
   "opponent": "NC",
   "opponentSlug": "nc",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "2-0",
+      "stadium": "창원",
+      "winningPitcher": "송승기",
+      "losingPitcher": "신영우",
+      "savePitcher": "유영찬",
+      "gameId": "20260407LGNC0",
+      "standoutHitter": {
+        "name": "구본혁",
+        "stat": "16.9%(1타수 0득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "우강훈",
+        "stat": "8회말 삼진 아웃승리확률73.3% → 82.5%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-13",
       "result": "D",
@@ -203,33 +225,11 @@
         "stat": "7회초 삼진 아웃승리확률69.3% → 77.5%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-06-17",
-      "result": "L",
-      "opponent": "NC",
-      "homeAway": "home",
-      "score": "2-6",
-      "stadium": "잠실",
-      "winningPitcher": "라일리",
-      "losingPitcher": "에르난데스",
-      "savePitcher": "",
-      "gameId": "20250617NCLG0",
-      "standoutHitter": {
-        "name": "김현수",
-        "stat": "10.3%(3타수 1득점 1안타 2타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "김영우",
-        "stat": "3회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률32.3% → 41.7%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 4,
-    "losses": 5,
+    "wins": 5,
+    "losses": 4,
     "draws": 1
   }
 }

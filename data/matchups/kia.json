@@ -1,11 +1,33 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-07T01:18:02+09:00",
-  "gameDate": "2026-04-07",
+  "updatedAt": "2026-04-08T01:25:02+09:00",
+  "gameDate": "2026-04-08",
   "opponent": "삼성",
   "opponentSlug": "samsung",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "home",
+      "score": "3-10",
+      "stadium": "광주",
+      "winningPitcher": "배찬승",
+      "losingPitcher": "전상현",
+      "savePitcher": "",
+      "gameId": "20260407SSHT0",
+      "standoutHitter": {
+        "name": "김호령",
+        "stat": "12.8%(3타수 0득점 2안타 1타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "전상현",
+        "stat": "8회초 중견수 플라이 아웃승리확률76.3% → 83.2%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-24",
       "result": "W",
@@ -195,33 +217,11 @@
         "stat": "6",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-06-11",
-      "result": "W",
-      "opponent": "삼성",
-      "homeAway": "home",
-      "score": "6-3",
-      "stadium": "광주",
-      "winningPitcher": "이준영",
-      "losingPitcher": "김재윤",
-      "savePitcher": "",
-      "gameId": "20250611SSHT0",
-      "standoutHitter": {
-        "name": "김태군",
-        "stat": "23.5%(2타수 1득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "김도현",
-        "stat": "3회초 3루수 라인드라이브 아웃승리확률38.3% → 45.3%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 7,
-    "losses": 3,
+    "wins": 6,
+    "losses": 4,
     "draws": 0
   }
 }

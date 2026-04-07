@@ -1,8 +1,30 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-07T01:18:05+09:00",
+  "updatedAt": "2026-04-08T01:25:04+09:00",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "2-0",
+      "stadium": "창원",
+      "winningPitcher": "송승기",
+      "losingPitcher": "신영우",
+      "savePitcher": "유영찬",
+      "gameId": "20260407LGNC0",
+      "standoutHitter": {
+        "name": "구본혁",
+        "stat": "16.9%(1타수 0득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "우강훈",
+        "stat": "8회말 삼진 아웃승리확률73.3% → 82.5%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-05",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "손주영",
         "stat": "1회초 1루수 병살타 아웃 (1루수->유격수->투수 송구아웃)승리확률30.9% → 36.4%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2026-03-23",
-      "result": "L",
-      "opponent": "키움",
-      "homeAway": "home",
-      "score": "10-13",
-      "stadium": "잠실",
-      "winningPitcher": "하영민",
-      "losingPitcher": "웰스",
-      "savePitcher": "조영건",
-      "gameId": "20260323WOLG0",
-      "standoutHitter": {
-        "name": "송찬의",
-        "stat": "19.3%(1타수 1득점 1안타 4타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "웰스",
-        "stat": "3회초 1루수 병살타 아웃 (1루수->유격수->1루수 송구아웃)승리확률46.7% → 54.6%",
-        "rank": 1
       }
     }
   ]

@@ -1,8 +1,30 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-07T01:18:10+09:00",
+  "updatedAt": "2026-04-08T01:25:09+09:00",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "L",
+      "opponent": "한화",
+      "homeAway": "home",
+      "score": "2-6",
+      "stadium": "문학",
+      "winningPitcher": "류현진",
+      "losingPitcher": "타케다",
+      "savePitcher": "",
+      "gameId": "20260407HHSK0",
+      "standoutHitter": {
+        "name": "최정",
+        "stat": "6.6%(4타수 1득점 1안타 2타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "타케다",
+        "stat": "3회초 3루수 파울플라이 아웃승리확률40.8% → 48.1%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-05",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "박시후",
         "stat": "8회초 포수 스트라이크 낫 아웃 (포수 태그아웃)승리확률92.2% → 96.6%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-23",
-      "result": "L",
-      "opponent": "롯데",
-      "homeAway": "home",
-      "score": "2-5",
-      "stadium": "문학",
-      "winningPitcher": "나균안",
-      "losingPitcher": "최민준",
-      "savePitcher": "정철원",
-      "gameId": "20260323LTSK0",
-      "standoutHitter": {
-        "name": "김민식",
-        "stat": "13.5%(2타수 0득점 2안타 1타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "최민준",
-        "stat": "3회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률28.3% → 34.2%",
-        "rank": 1
       }
     }
   ]

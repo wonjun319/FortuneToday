@@ -1,11 +1,33 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-07T01:18:50+09:00",
-  "gameDate": "2026-04-07",
+  "updatedAt": "2026-04-08T01:25:46+09:00",
+  "gameDate": "2026-04-08",
   "opponent": "두산",
   "opponentSlug": "doosan",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "5-2",
+      "stadium": "잠실",
+      "winningPitcher": "배동현",
+      "losingPitcher": "양재훈",
+      "savePitcher": "김재웅",
+      "gameId": "20260407WOOB0",
+      "standoutHitter": {
+        "name": "이주형",
+        "stat": "28.7%(4타수 1득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "유토",
+        "stat": "6회말 삼진 아웃승리확률44.6% → 57.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-13",
       "result": "L",
@@ -203,33 +225,11 @@
         "stat": "1회말 유격수 병살타 아웃 (유격수->1루수 송구아웃)승리확률42.1% → 48.9%",
         "rank": 4
       }
-    },
-    {
-      "date": "2025-06-14",
-      "result": "L",
-      "opponent": "두산",
-      "homeAway": "away",
-      "score": "1-4",
-      "stadium": "잠실",
-      "winningPitcher": "최승용",
-      "losingPitcher": "알칸타라",
-      "savePitcher": "김택연",
-      "gameId": "20250614WOOB0",
-      "standoutHitter": {
-        "name": "이주형",
-        "stat": "3.1%(2타수 0득점 0안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "알칸타라",
-        "stat": "5",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 3,
-    "losses": 7,
+    "wins": 4,
+    "losses": 6,
     "draws": 0
   }
 }

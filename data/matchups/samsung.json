@@ -1,11 +1,33 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-07T01:18:24+09:00",
-  "gameDate": "2026-04-07",
+  "updatedAt": "2026-04-08T01:25:21+09:00",
+  "gameDate": "2026-04-08",
   "opponent": "KIA",
   "opponentSlug": "kia",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "10-3",
+      "stadium": "광주",
+      "winningPitcher": "배찬승",
+      "losingPitcher": "전상현",
+      "savePitcher": "",
+      "gameId": "20260407SSHT0",
+      "standoutHitter": {
+        "name": "최형우",
+        "stat": "28.8%(3타수 1득점 2안타 4타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "양창섭",
+        "stat": "3회말 삼진 아웃승리확률30.2% → 35.7%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-03-24",
       "result": "L",
@@ -195,33 +217,11 @@
         "stat": "8회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률57.5% → 77.9%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-06-11",
-      "result": "L",
-      "opponent": "KIA",
-      "homeAway": "away",
-      "score": "3-6",
-      "stadium": "광주",
-      "winningPitcher": "이준영",
-      "losingPitcher": "김재윤",
-      "savePitcher": "",
-      "gameId": "20250611SSHT0",
-      "standoutHitter": {
-        "name": "구자욱",
-        "stat": "15%(5타수 1득점 4안타 1타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "김재윤",
-        "stat": "6회말 3루수 파울플라이 아웃승리확률52.8% → 58.1%",
-        "rank": 5
-      }
     }
   ],
   "summary": {
-    "wins": 3,
-    "losses": 7,
+    "wins": 4,
+    "losses": 6,
     "draws": 0
   }
 }

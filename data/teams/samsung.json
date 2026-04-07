@@ -1,8 +1,30 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-07T01:18:21+09:00",
+  "updatedAt": "2026-04-08T01:25:19+09:00",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "10-3",
+      "stadium": "광주",
+      "winningPitcher": "배찬승",
+      "losingPitcher": "전상현",
+      "savePitcher": "",
+      "gameId": "20260407SSHT0",
+      "standoutHitter": {
+        "name": "최형우",
+        "stat": "28.8%(3타수 1득점 2안타 4타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "양창섭",
+        "stat": "3회말 삼진 아웃승리확률30.2% → 35.7%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-04-05",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "오러클린",
         "stat": "4",
         "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-23",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "7-1",
-      "stadium": "대구",
-      "winningPitcher": "양창섭",
-      "losingPitcher": "양현종",
-      "savePitcher": "",
-      "gameId": "20260323HTSS0",
-      "standoutHitter": {
-        "name": "김영웅",
-        "stat": "23.2%(2타수 2득점 2안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "양창섭",
-        "stat": "3회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률56.5% → 65.9%",
-        "rank": 1
       }
     }
   ]

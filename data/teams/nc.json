@@ -1,8 +1,30 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-04-07T01:18:42+09:00",
+  "updatedAt": "2026-04-08T01:25:39+09:00",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "0-2",
+      "stadium": "창원",
+      "winningPitcher": "송승기",
+      "losingPitcher": "신영우",
+      "savePitcher": "유영찬",
+      "gameId": "20260407LGNC0",
+      "standoutHitter": {
+        "name": "김휘집",
+        "stat": "4.6%(4타수 0득점 3안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "버하겐",
+        "stat": "4",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-05",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "원종해",
         "stat": "8회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률57.5% → 77.9%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-23",
-      "result": "L",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "4-11",
-      "stadium": "대전",
-      "winningPitcher": "류현진",
-      "losingPitcher": "김태경",
-      "savePitcher": "왕옌청",
-      "gameId": "20260323NCHH0",
-      "standoutHitter": {
-        "name": "김주원",
-        "stat": "4.1%(3타수 0득점 0안타 0타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "김태경",
-        "stat": "2회말 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)승리확률39.2% → 43.4%",
-        "rank": 2
       }
     }
   ]

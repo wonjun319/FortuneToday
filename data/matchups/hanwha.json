@@ -1,11 +1,33 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-04-07T01:18:34+09:00",
-  "gameDate": "2026-04-07",
+  "updatedAt": "2026-04-08T01:25:31+09:00",
+  "gameDate": "2026-04-08",
   "opponent": "SSG",
   "opponentSlug": "ssg",
   "last10": [
+    {
+      "date": "2026-04-07",
+      "result": "W",
+      "opponent": "SSG",
+      "homeAway": "away",
+      "score": "6-2",
+      "stadium": "문학",
+      "winningPitcher": "류현진",
+      "losingPitcher": "타케다",
+      "savePitcher": "",
+      "gameId": "20260407HHSK0",
+      "standoutHitter": {
+        "name": "하주석",
+        "stat": "14.3%(4타수 0득점 1안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "류현진",
+        "stat": "4회말 1루수 라인드라이브 아웃승리확률56.7% → 66.1%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-15",
       "result": "W",
@@ -84,8 +106,8 @@
       "savePitcher": "김서현",
       "gameId": "20250824SKHH0",
       "standoutHitter": {
-        "name": "이원석",
-        "stat": "16.5%(3타수 1득점 2안타 1타점)",
+        "name": "노시환",
+        "stat": "16.5%(4타수 1득점 1안타 2타점)",
         "rank": 2
       },
       "standoutPitcher": {
@@ -203,33 +225,11 @@
         "stat": "4회초 2루수 병살타 아웃 (2루수->1루수 송구아웃)승리확률70.9% → 76.8%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-06-29",
-      "result": "L",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "0-2",
-      "stadium": "문학",
-      "winningPitcher": "화이트",
-      "losingPitcher": "류현진",
-      "savePitcher": "조병현",
-      "gameId": "20250629HHSK0",
-      "standoutHitter": {
-        "name": "유로결",
-        "stat": "1.1%(0타수 0득점 0안타 0타점)",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "류현진",
-        "stat": "4회말 삼진 아웃승리확률24.7% → 31%",
-        "rank": 3
-      }
     }
   ],
   "summary": {
-    "wins": 4,
-    "losses": 6,
+    "wins": 5,
+    "losses": 5,
     "draws": 0
   }
 }
