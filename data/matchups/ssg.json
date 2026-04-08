@@ -1,11 +1,33 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-08T01:25:11+09:00",
-  "gameDate": "2026-04-08",
+  "updatedAt": "2026-04-09T01:28:27+09:00",
+  "gameDate": "2026-04-09",
   "opponent": "한화",
   "opponentSlug": "hanwha",
   "last10": [
+    {
+      "date": "2026-04-08",
+      "result": "L",
+      "opponent": "한화",
+      "homeAway": "home",
+      "score": "3-4",
+      "stadium": "문학",
+      "winningPitcher": "문동주",
+      "losingPitcher": "최민준",
+      "savePitcher": "김서현",
+      "gameId": "20260408HHSK0",
+      "standoutHitter": {
+        "name": "박성한",
+        "stat": "24.5%(3타수 0득점 1안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "최민준",
+        "stat": "1회초 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률47.1% → 55.1%",
+        "rank": 5
+      }
+    },
     {
       "date": "2026-04-07",
       "result": "L",
@@ -202,28 +224,6 @@
         "name": "김광현",
         "stat": "4회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률86.1% → 91.2%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2025-07-25",
-      "result": "L",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "0-4",
-      "stadium": "대전",
-      "winningPitcher": "와이스",
-      "losingPitcher": "앤더슨",
-      "savePitcher": "",
-      "gameId": "20250725SKHH0",
-      "standoutHitter": {
-        "name": "에레디아",
-        "stat": "2",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "앤더슨",
-        "stat": "3회말 삼진 아웃승리확률25.2% → 29.3%",
-        "rank": 2
       }
     }
   ],

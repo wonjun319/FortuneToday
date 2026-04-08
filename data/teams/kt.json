@@ -1,8 +1,30 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-08T01:25:34+09:00",
+  "updatedAt": "2026-04-09T01:28:48+09:00",
   "last10": [
+    {
+      "date": "2026-04-08",
+      "result": "L",
+      "opponent": "롯데",
+      "homeAway": "away",
+      "score": "1-6",
+      "stadium": "사직",
+      "winningPitcher": "김진욱",
+      "losingPitcher": "오원석",
+      "savePitcher": "",
+      "gameId": "20260408KTLT0",
+      "standoutHitter": {
+        "name": "힐리어드",
+        "stat": "5.1%(3타수 1득점 1안타 1타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "오원석",
+        "stat": "2회말 중견수 플라이 아웃승리확률45.2% → 50%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-07",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "사우어",
         "stat": "5회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률88.2% → 93.1%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-24",
-      "result": "W",
-      "opponent": "두산",
-      "homeAway": "home",
-      "score": "7-3",
-      "stadium": "수원",
-      "winningPitcher": "보쉴리",
-      "losingPitcher": "잭로그",
-      "savePitcher": "",
-      "gameId": "20260324OBKT0",
-      "standoutHitter": {
-        "name": "한승택",
-        "stat": "16.8%(3타수 1득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "보쉴리",
-        "stat": "2회초 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률37.9% → 44.6%",
         "rank": 1
       }
     }

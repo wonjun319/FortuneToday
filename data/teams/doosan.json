@@ -1,8 +1,30 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-04-08T01:25:14+09:00",
+  "updatedAt": "2026-04-09T01:28:30+09:00",
   "last10": [
+    {
+      "date": "2026-04-08",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "7-3",
+      "stadium": "잠실",
+      "winningPitcher": "최민석",
+      "losingPitcher": "정세영",
+      "savePitcher": "",
+      "gameId": "20260408WOOB0",
+      "standoutHitter": {
+        "name": "양의지",
+        "stat": "9.3%(2타수 0득점 1안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "최민석",
+        "stat": "5회초 삼진 아웃승리확률85.6% → 91.5%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-07",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "플렉센",
         "stat": "2회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률41.6% → 48.8%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-24",
-      "result": "L",
-      "opponent": "KT",
-      "homeAway": "away",
-      "score": "3-7",
-      "stadium": "수원",
-      "winningPitcher": "보쉴리",
-      "losingPitcher": "잭로그",
-      "savePitcher": "",
-      "gameId": "20260324OBKT0",
-      "standoutHitter": {
-        "name": "정수빈",
-        "stat": "6.9%(4타수 1득점 3안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "잭로그",
-        "stat": "1회말 우익수 플라이 아웃승리확률48.7% → 52.9%",
-        "rank": 3
       }
     }
   ]

@@ -1,8 +1,30 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-04-08T01:25:29+09:00",
+  "updatedAt": "2026-04-09T01:28:44+09:00",
   "last10": [
+    {
+      "date": "2026-04-08",
+      "result": "W",
+      "opponent": "SSG",
+      "homeAway": "away",
+      "score": "4-3",
+      "stadium": "문학",
+      "winningPitcher": "문동주",
+      "losingPitcher": "최민준",
+      "savePitcher": "김서현",
+      "gameId": "20260408HHSK0",
+      "standoutHitter": {
+        "name": "강백호",
+        "stat": "15.7%(4타수 1득점 1안타 3타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "정우주",
+        "stat": "8회말 삼진 아웃승리확률61.5% → 81.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-07",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "강재민",
         "stat": "11회초 삼진 아웃승리확률29.9% → 47.5%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-24",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "home",
-      "score": "9-8",
-      "stadium": "대전",
-      "winningPitcher": "김서현",
-      "losingPitcher": "류진욱",
-      "savePitcher": "",
-      "gameId": "20260324NCHH0",
-      "standoutHitter": {
-        "name": "김태연",
-        "stat": "74.3%(2타수 2득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "김도빈",
-        "stat": "7회초 유격수 플라이 아웃승리확률52.5% → 66.8%",
-        "rank": 2
       }
     }
   ]

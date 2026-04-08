@@ -1,11 +1,33 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-08T01:25:06+09:00",
-  "gameDate": "2026-04-08",
+  "updatedAt": "2026-04-09T01:28:23+09:00",
+  "gameDate": "2026-04-09",
   "opponent": "NC",
   "opponentSlug": "nc",
   "last10": [
+    {
+      "date": "2026-04-08",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "5-4",
+      "stadium": "창원",
+      "winningPitcher": "김진성",
+      "losingPitcher": "류진욱",
+      "savePitcher": "유영찬",
+      "gameId": "20260408LGNC0",
+      "standoutHitter": {
+        "name": "오지환",
+        "stat": "45.2%(4타수 1득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "장현식",
+        "stat": "8회말 2루수 플라이 아웃승리확률61.9% → 71.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-07",
       "result": "W",
@@ -201,28 +223,6 @@
       "standoutPitcher": {
         "name": "이지강",
         "stat": "6회초 삼진 아웃승리확률34% → 42.1%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-06-18",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "home",
-      "score": "9-8",
-      "stadium": "잠실",
-      "winningPitcher": "유영찬",
-      "losingPitcher": "류진욱",
-      "savePitcher": "",
-      "gameId": "20250618NCLG0",
-      "standoutHitter": {
-        "name": "신민재",
-        "stat": "43.2%(3타수 3득점 3안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "이정용",
-        "stat": "7회초 삼진 아웃승리확률69.3% → 77.5%",
         "rank": 1
       }
     }

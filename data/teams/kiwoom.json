@@ -1,8 +1,30 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-08T01:25:43+09:00",
+  "updatedAt": "2026-04-09T01:28:57+09:00",
   "last10": [
+    {
+      "date": "2026-04-08",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "3-7",
+      "stadium": "잠실",
+      "winningPitcher": "최민석",
+      "losingPitcher": "정세영",
+      "savePitcher": "",
+      "gameId": "20260408WOOB0",
+      "standoutHitter": {
+        "name": "박한결",
+        "stat": "3.9%(3타수 0득점 2안타 0타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "오석주",
+        "stat": "1",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-04-07",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "김성진",
         "stat": "6회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률58.1% → 67.3%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2026-03-24",
-      "result": "W",
-      "opponent": "LG",
-      "homeAway": "away",
-      "score": "5-2",
-      "stadium": "잠실",
-      "winningPitcher": "와일스",
-      "losingPitcher": "손주영",
-      "savePitcher": "박정훈",
-      "gameId": "20260324WOLG0",
-      "standoutHitter": {
-        "name": "안치홍",
-        "stat": "19.9%(4타수 1득점 2안타 4타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "박정훈",
-        "stat": "9회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률80.6% → 100%",
-        "rank": 1
       }
     }
   ]
