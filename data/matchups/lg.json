@@ -1,235 +1,235 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-09T01:28:23+09:00",
-  "gameDate": "2026-04-09",
-  "opponent": "NC",
-  "opponentSlug": "nc",
+  "updatedAt": "2026-04-10T01:31:31+09:00",
+  "gameDate": "2026-04-10",
+  "opponent": "SSG",
+  "opponentSlug": "ssg",
   "last10": [
     {
-      "date": "2026-04-08",
+      "date": "2026-03-20",
       "result": "W",
-      "opponent": "NC",
+      "opponent": "SSG",
       "homeAway": "away",
-      "score": "5-4",
-      "stadium": "창원",
-      "winningPitcher": "김진성",
-      "losingPitcher": "류진욱",
-      "savePitcher": "유영찬",
-      "gameId": "20260408LGNC0",
+      "score": "9-7",
+      "stadium": "문학",
+      "winningPitcher": "백승현",
+      "losingPitcher": "김현재",
+      "savePitcher": "우강훈",
+      "gameId": "20260320LGSK0",
       "standoutHitter": {
-        "name": "오지환",
-        "stat": "45.2%(4타수 1득점 2안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "장현식",
-        "stat": "8회말 2루수 플라이 아웃승리확률61.9% → 71.6%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-07",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "2-0",
-      "stadium": "창원",
-      "winningPitcher": "송승기",
-      "losingPitcher": "신영우",
-      "savePitcher": "유영찬",
-      "gameId": "20260407LGNC0",
-      "standoutHitter": {
-        "name": "구본혁",
-        "stat": "16.9%(1타수 0득점 1안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "우강훈",
-        "stat": "8회말 삼진 아웃승리확률73.3% → 82.5%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-13",
-      "result": "D",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "5-5",
-      "stadium": "마산",
-      "winningPitcher": "",
-      "losingPitcher": "",
-      "savePitcher": "",
-      "gameId": "20260313LGNC0",
-      "standoutHitter": {
-        "name": "천성호",
-        "stat": "12.1%(5타수 1득점 2안타 2타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "박시원",
-        "stat": "8회말 1루수 라인드라이브 아웃승리확률61.9% → 71.6%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-12",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "11-6",
-      "stadium": "마산",
-      "winningPitcher": "치리노스",
-      "losingPitcher": "테일러",
-      "savePitcher": "",
-      "gameId": "20260312LGNC0",
-      "standoutHitter": {
-        "name": "송찬의",
-        "stat": "14.4%(3타수 2득점 1안타 0타점)",
+        "name": "이재원",
+        "stat": "27.2%(3타수 2득점 3안타 1타점)",
         "rank": 1
       },
       "standoutPitcher": {
         "name": "치리노스",
-        "stat": "3회말 포수 파울플라이 아웃승리확률56.1% → 61.1%",
+        "stat": "1회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률42.1% → 50%",
         "rank": 1
       }
     },
     {
-      "date": "2025-10-01",
+      "date": "2026-03-19",
+      "result": "W",
+      "opponent": "SSG",
+      "homeAway": "away",
+      "score": "12-7",
+      "stadium": "문학",
+      "winningPitcher": "김영우",
+      "losingPitcher": "이기순",
+      "savePitcher": "",
+      "gameId": "20260319LGSK0",
+      "standoutHitter": {
+        "name": "오스틴",
+        "stat": "27%(3타수 1득점 2안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "함덕주",
+        "stat": "8회말 삼진 아웃승리확률88.8% → 92.9%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-09-07",
       "result": "L",
-      "opponent": "NC",
+      "opponent": "SSG",
       "homeAway": "home",
       "score": "3-7",
       "stadium": "잠실",
-      "winningPitcher": "김영규",
-      "losingPitcher": "치리노스",
+      "winningPitcher": "김광현",
+      "losingPitcher": "임찬규",
       "savePitcher": "",
-      "gameId": "20251001NCLG0",
+      "gameId": "20250907SKLG0",
+      "standoutHitter": {
+        "name": "박관우",
+        "stat": "8.3%(2타수 0득점 1안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "함덕주",
+        "stat": "7회초 중견수 플라이 아웃승리확률19.6% → 25.1%",
+        "rank": 4
+      }
+    },
+    {
+      "date": "2025-08-17",
+      "result": "W",
+      "opponent": "SSG",
+      "homeAway": "away",
+      "score": "6-1",
+      "stadium": "문학",
+      "winningPitcher": "임찬규",
+      "losingPitcher": "최민준",
+      "savePitcher": "",
+      "gameId": "20250817LGSK0",
       "standoutHitter": {
         "name": "김현수",
-        "stat": "2.9%(4타수 0득점 1안타 1타점)",
-        "rank": 4
+        "stat": "16.5%(4타수 1득점 2안타 2타점)",
+        "rank": 1
       },
       "standoutPitcher": {
-        "name": "손주영",
-        "stat": "5회초 포수 스트라이크 낫아웃 다른주자 수비로 출루승리확률17.8% → 22.2%",
+        "name": "김진성",
+        "stat": "7회말 1루수 병살타 아웃 (1루수->포수->1루수 송구아웃)승리확률81.9% → 95.3%",
         "rank": 1
       }
     },
     {
-      "date": "2025-09-24",
+      "date": "2025-08-16",
       "result": "L",
-      "opponent": "NC",
+      "opponent": "SSG",
       "homeAway": "away",
-      "score": "5-10",
-      "stadium": "창원",
-      "winningPitcher": "김영규",
+      "score": "7-10",
+      "stadium": "문학",
+      "winningPitcher": "박시후",
       "losingPitcher": "함덕주",
-      "savePitcher": "",
-      "gameId": "20250924LGNC0",
+      "savePitcher": "조병현",
+      "gameId": "20250816LGSK0",
       "standoutHitter": {
         "name": "오지환",
-        "stat": "21.3%(4타수 0득점 1안타 0타점)",
+        "stat": "21.1%(2타수 1득점 1안타 4타점)",
         "rank": 1
       },
       "standoutPitcher": {
-        "name": "송승기",
-        "stat": "3회말 삼진 아웃승리확률52.7% → 61.1%",
-        "rank": 2
+        "name": "이정용",
+        "stat": "6회말 우익수 플라이 아웃승리확률39.9% → 44.8%",
+        "rank": 4
       }
     },
     {
-      "date": "2025-08-28",
+      "date": "2025-08-15",
       "result": "W",
-      "opponent": "NC",
+      "opponent": "SSG",
       "homeAway": "away",
-      "score": "4-3",
-      "stadium": "창원",
-      "winningPitcher": "김영우",
-      "losingPitcher": "김진호",
+      "score": "5-3",
+      "stadium": "문학",
+      "winningPitcher": "김진성",
+      "losingPitcher": "이로운",
       "savePitcher": "유영찬",
-      "gameId": "20250828LGNC0",
+      "gameId": "20250815LGSK0",
       "standoutHitter": {
-        "name": "오스틴",
-        "stat": "41%(4타수 1득점 3안타 3타점)",
+        "name": "박동원",
+        "stat": "47.5%(4타수 1득점 1안타 3타점)",
         "rank": 1
       },
       "standoutPitcher": {
         "name": "유영찬",
-        "stat": "9회말 우익수 플라이 아웃승리확률64.2% → 76.6%",
+        "stat": "8회말 좌익수 플라이 아웃승리확률75.4% → 91.1%",
         "rank": 1
       }
     },
     {
-      "date": "2025-08-27",
+      "date": "2025-06-12",
       "result": "W",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "10-1",
-      "stadium": "창원",
+      "opponent": "SSG",
+      "homeAway": "home",
+      "score": "8-6",
+      "stadium": "잠실",
       "winningPitcher": "치리노스",
-      "losingPitcher": "신영우",
+      "losingPitcher": "박시후",
       "savePitcher": "",
-      "gameId": "20250827LGNC0",
+      "gameId": "20250612SKLG0",
       "standoutHitter": {
-        "name": "오스틴",
-        "stat": "15%(5타수 2득점 3안타 3타점)",
-        "rank": 1
+        "name": "박동원",
+        "stat": "19.3%(2타수 1득점 1안타 2타점)",
+        "rank": 2
       },
       "standoutPitcher": {
         "name": "치리노스",
-        "stat": "1회말 좌익수 플라이 아웃승리확률62.6% → 65.1%",
-        "rank": 5
+        "stat": "4회초 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)승리확률31% → 38.9%",
+        "rank": 1
       }
     },
     {
-      "date": "2025-08-26",
-      "result": "L",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "7-9",
-      "stadium": "창원",
-      "winningPitcher": "김영규",
-      "losingPitcher": "김진성",
-      "savePitcher": "류진욱",
-      "gameId": "20250826LGNC0",
+      "date": "2025-06-11",
+      "result": "W",
+      "opponent": "SSG",
+      "homeAway": "home",
+      "score": "6-4",
+      "stadium": "잠실",
+      "winningPitcher": "박명근",
+      "losingPitcher": "이로운",
+      "savePitcher": "장현식",
+      "gameId": "20250611SKLG0",
       "standoutHitter": {
-        "name": "구본혁",
-        "stat": "9.3%(5타수 1득점 4안타 0타점)",
-        "rank": 5
+        "name": "오스틴",
+        "stat": "8.4%(4타수 1득점 1안타 2타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "에르난데스",
+        "stat": "5회초 삼진 아웃승리확률50.6% → 59.7%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-06-10",
+      "result": "L",
+      "opponent": "SSG",
+      "homeAway": "home",
+      "score": "2-6",
+      "stadium": "잠실",
+      "winningPitcher": "박시후",
+      "losingPitcher": "손주영",
+      "savePitcher": "",
+      "gameId": "20250610SKLG0",
+      "standoutHitter": {
+        "name": "김정율",
+        "stat": "7.9%(2타수 0득점 1안타 0타점)",
+        "rank": 4
       },
       "standoutPitcher": {
         "name": "손주영",
-        "stat": "3회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률58.8% → 70.9%",
-        "rank": 1
+        "stat": "1회초 우익수 플라이 아웃승리확률41.8% → 46.1%",
+        "rank": 4
       }
     },
     {
-      "date": "2025-06-19",
-      "result": "L",
-      "opponent": "NC",
-      "homeAway": "home",
-      "score": "0-3",
-      "stadium": "잠실",
-      "winningPitcher": "신민혁",
-      "losingPitcher": "최지명",
-      "savePitcher": "류진욱",
-      "gameId": "20250619NCLG0",
+      "date": "2025-05-25",
+      "result": "W",
+      "opponent": "SSG",
+      "homeAway": "away",
+      "score": "9-3",
+      "stadium": "문학",
+      "winningPitcher": "송승기",
+      "losingPitcher": "전영준",
+      "savePitcher": "",
+      "gameId": "20250525LGSK0",
       "standoutHitter": {
-        "name": "박해민",
-        "stat": "2.3%(2타수 0득점 1안타 0타점)",
-        "rank": 5
+        "name": "김현수",
+        "stat": "15.8%(3타수 0득점 1안타 2타점)",
+        "rank": 1
       },
       "standoutPitcher": {
-        "name": "이지강",
-        "stat": "6회초 삼진 아웃승리확률34% → 42.1%",
-        "rank": 1
+        "name": "송승기",
+        "stat": "5회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률82.3% → 89%",
+        "rank": 2
       }
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 4,
-    "draws": 1
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
   }
 }
