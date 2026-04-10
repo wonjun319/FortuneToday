@@ -1,8 +1,30 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-10T01:30:23+09:00",
+  "updatedAt": "2026-04-11T01:19:06+09:00",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "6-5",
+      "stadium": "대전",
+      "winningPitcher": "네일",
+      "losingPitcher": "에르난데스",
+      "savePitcher": "김범수",
+      "gameId": "20260410HTHH0",
+      "standoutHitter": {
+        "name": "김도영",
+        "stat": "16.3%(4타수 2득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김범수",
+        "stat": "9회말 삼진 아웃승리확률88.8% → 100%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-08",
       "result": "W",
@@ -191,36 +213,14 @@
       "savePitcher": "",
       "gameId": "20260329HTSK0",
       "standoutHitter": {
-        "name": "카스트로",
-        "stat": "3.7%(4타수 1득점 2안타 2타점)",
+        "name": "데일",
+        "stat": "3.7%(3타수 0득점 1안타 1타점)",
         "rank": 4
       },
       "standoutPitcher": {
         "name": "이의리",
         "stat": "2회말 우익수 플라이 아웃승리확률41.6% → 44.7%",
         "rank": 5
-      }
-    },
-    {
-      "date": "2026-03-28",
-      "result": "L",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "6-7",
-      "stadium": "문학",
-      "winningPitcher": "김민",
-      "losingPitcher": "조상우",
-      "savePitcher": "",
-      "gameId": "20260328HTSK0",
-      "standoutHitter": {
-        "name": "김선빈",
-        "stat": "13.6%(4타수 0득점 2안타 4타점)",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "전상현",
-        "stat": "8회말 삼진 아웃승리확률80.5% → 86.4%",
-        "rank": 1
       }
     }
   ]

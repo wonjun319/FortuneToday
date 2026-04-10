@@ -1,11 +1,33 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-04-10T01:31:52+09:00",
-  "gameDate": "2026-04-10",
+  "updatedAt": "2026-04-11T01:20:14+09:00",
+  "gameDate": "2026-04-11",
   "opponent": "KIA",
   "opponentSlug": "kia",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "5-6",
+      "stadium": "대전",
+      "winningPitcher": "네일",
+      "losingPitcher": "에르난데스",
+      "savePitcher": "김범수",
+      "gameId": "20260410HTHH0",
+      "standoutHitter": {
+        "name": "채은성",
+        "stat": "11.5%(4타수 1득점 2안타 2타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "에르난데스",
+        "stat": "5회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률37.8% → 43.6%",
+        "rank": 5
+      }
+    },
     {
       "date": "2026-03-20",
       "result": "W",
@@ -203,33 +225,11 @@
         "stat": "2회초 2루수 플라이 아웃승리확률35.2% → 41.4%",
         "rank": 2
       }
-    },
-    {
-      "date": "2025-07-08",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "14-8",
-      "stadium": "대전",
-      "winningPitcher": "문동주",
-      "losingPitcher": "윤영철",
-      "savePitcher": "",
-      "gameId": "20250708HTHH0",
-      "standoutHitter": {
-        "name": "채은성",
-        "stat": "13.3%(4타수 1득점 1안타 3타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "문동주",
-        "stat": "1회초 포수 스트라이크 낫 아웃 (포수 태그아웃)승리확률41.8% → 46.1%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 9,
-    "losses": 1,
+    "wins": 8,
+    "losses": 2,
     "draws": 0
   }
 }

@@ -1,11 +1,33 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-04-10T01:32:00+09:00",
-  "gameDate": "2026-04-10",
+  "updatedAt": "2026-04-11T01:20:20+09:00",
+  "gameDate": "2026-04-11",
   "opponent": "삼성",
   "opponentSlug": "samsung",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "away",
+      "score": "5-8",
+      "stadium": "대구",
+      "winningPitcher": "이승현",
+      "losingPitcher": "전사민",
+      "savePitcher": "김재윤",
+      "gameId": "20260410NCSS0",
+      "standoutHitter": {
+        "name": "박민우",
+        "stat": "48.9%(4타수 1득점 2안타 2타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "구창모",
+        "stat": "3회말 2루수 병살타 아웃 (2루수->1루수 송구아웃) 1루주자 박승규 : 태그아웃 (2루수 태그아웃)승리확률26.9% → 35.7%",
+        "rank": 4
+      }
+    },
     {
       "date": "2026-03-20",
       "result": "W",
@@ -203,33 +225,11 @@
         "stat": "9회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률90.9% → 100%",
         "rank": 2
       }
-    },
-    {
-      "date": "2025-07-09",
-      "result": "W",
-      "opponent": "삼성",
-      "homeAway": "home",
-      "score": "3-0",
-      "stadium": "창원",
-      "winningPitcher": "신민혁",
-      "losingPitcher": "최원태",
-      "savePitcher": "배재환",
-      "gameId": "20250709SSNC0",
-      "standoutHitter": {
-        "name": "오영수",
-        "stat": "7.7%(3타수 0득점 2안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "김영규",
-        "stat": "8회초 유격수 병살타 아웃 (유격수->1루수 송구아웃)승리확률88% → 95.8%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 5,
+    "wins": 4,
+    "losses": 6,
     "draws": 0
   }
 }

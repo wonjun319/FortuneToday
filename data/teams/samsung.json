@@ -1,8 +1,30 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-10T01:31:42+09:00",
+  "updatedAt": "2026-04-11T01:20:06+09:00",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "home",
+      "score": "8-5",
+      "stadium": "대구",
+      "winningPitcher": "이승현",
+      "losingPitcher": "전사민",
+      "savePitcher": "김재윤",
+      "gameId": "20260410NCSS0",
+      "standoutHitter": {
+        "name": "박승규",
+        "stat": "56.7%(5타수 3득점 4안타 4타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "후라도",
+        "stat": "5회초 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률42.9% → 57.1%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-08",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "최원태",
         "stat": "6회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률32.3% → 40.6%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2026-03-28",
-      "result": "L",
-      "opponent": "롯데",
-      "homeAway": "home",
-      "score": "3-6",
-      "stadium": "대구",
-      "winningPitcher": "로드리게스",
-      "losingPitcher": "후라도",
-      "savePitcher": "박정민",
-      "gameId": "20260328LTSS0",
-      "standoutHitter": {
-        "name": "전병우",
-        "stat": "5.9%(0타수 0득점 0안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "육선엽",
-        "stat": "2",
-        "rank": 2
       }
     }
   ]

@@ -1,8 +1,30 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-10T01:31:33+09:00",
+  "updatedAt": "2026-04-11T01:20:00+09:00",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "2-10",
+      "stadium": "잠실",
+      "winningPitcher": "치리노스",
+      "losingPitcher": "화이트",
+      "savePitcher": "",
+      "gameId": "20260410SKLG0",
+      "standoutHitter": {
+        "name": "박성한",
+        "stat": "3.5%(3타수 2득점 2안타 0타점)",
+        "rank": 5
+      },
+      "standoutPitcher": {
+        "name": "화이트",
+        "stat": "2회말 중견수 플라이 아웃승리확률19.1% → 23.1%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-04-08",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "김건우",
         "stat": "3회초 중견수 플라이 아웃승리확률81.6% → 87.4%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-28",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "7-6",
-      "stadium": "문학",
-      "winningPitcher": "김민",
-      "losingPitcher": "조상우",
-      "savePitcher": "",
-      "gameId": "20260328HTSK0",
-      "standoutHitter": {
-        "name": "에레디아",
-        "stat": "39.5%(5타수 0득점 1안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "화이트",
-        "stat": "1회초 2루수 플라이 아웃승리확률38.1% → 42.7%",
-        "rank": 4
       }
     }
   ]

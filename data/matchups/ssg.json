@@ -1,11 +1,33 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-10T01:31:35+09:00",
-  "gameDate": "2026-04-10",
+  "updatedAt": "2026-04-11T01:20:01+09:00",
+  "gameDate": "2026-04-11",
   "opponent": "LG",
   "opponentSlug": "lg",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "2-10",
+      "stadium": "잠실",
+      "winningPitcher": "치리노스",
+      "losingPitcher": "화이트",
+      "savePitcher": "",
+      "gameId": "20260410SKLG0",
+      "standoutHitter": {
+        "name": "박성한",
+        "stat": "3.5%(3타수 2득점 2안타 0타점)",
+        "rank": 5
+      },
+      "standoutPitcher": {
+        "name": "화이트",
+        "stat": "2회말 중견수 플라이 아웃승리확률19.1% → 23.1%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-03-20",
       "result": "L",
@@ -201,28 +223,6 @@
       "standoutPitcher": {
         "name": "김민",
         "stat": "6회말 삼진 아웃승리확률71.4% → 80.7%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-05-25",
-      "result": "L",
-      "opponent": "LG",
-      "homeAway": "home",
-      "score": "3-9",
-      "stadium": "문학",
-      "winningPitcher": "송승기",
-      "losingPitcher": "전영준",
-      "savePitcher": "",
-      "gameId": "20250525LGSK0",
-      "standoutHitter": {
-        "name": "정준재",
-        "stat": "3.5%(2타수 0득점 0안타 0타점)",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "전영준",
-        "stat": "3회초 중견수 플라이 아웃승리확률48.1% → 55.9%",
         "rank": 1
       }
     }

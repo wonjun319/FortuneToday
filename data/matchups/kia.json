@@ -1,11 +1,33 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-10T01:31:18+09:00",
-  "gameDate": "2026-04-10",
+  "updatedAt": "2026-04-11T01:19:50+09:00",
+  "gameDate": "2026-04-11",
   "opponent": "한화",
   "opponentSlug": "hanwha",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "6-5",
+      "stadium": "대전",
+      "winningPitcher": "네일",
+      "losingPitcher": "에르난데스",
+      "savePitcher": "김범수",
+      "gameId": "20260410HTHH0",
+      "standoutHitter": {
+        "name": "김도영",
+        "stat": "16.3%(4타수 2득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김범수",
+        "stat": "9회말 삼진 아웃승리확률88.8% → 100%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-20",
       "result": "L",
@@ -203,33 +225,11 @@
         "stat": "3회말 2루수 라인드라이브 아웃승리확률63.6% → 70.9%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-07-08",
-      "result": "L",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "8-14",
-      "stadium": "대전",
-      "winningPitcher": "문동주",
-      "losingPitcher": "윤영철",
-      "savePitcher": "",
-      "gameId": "20250708HTHH0",
-      "standoutHitter": {
-        "name": "오선우",
-        "stat": "18.9%(4타수 1득점 4안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "윤영철",
-        "stat": "1회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률27.5% → 31.4%",
-        "rank": 4
-      }
     }
   ],
   "summary": {
-    "wins": 1,
-    "losses": 9,
+    "wins": 2,
+    "losses": 8,
     "draws": 0
   }
 }

@@ -1,11 +1,33 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-10T01:31:31+09:00",
-  "gameDate": "2026-04-10",
+  "updatedAt": "2026-04-11T01:19:58+09:00",
+  "gameDate": "2026-04-11",
   "opponent": "SSG",
   "opponentSlug": "ssg",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "W",
+      "opponent": "SSG",
+      "homeAway": "home",
+      "score": "10-2",
+      "stadium": "잠실",
+      "winningPitcher": "치리노스",
+      "losingPitcher": "화이트",
+      "savePitcher": "",
+      "gameId": "20260410SKLG0",
+      "standoutHitter": {
+        "name": "오스틴",
+        "stat": "19.5%(3타수 3득점 2안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "치리노스",
+        "stat": "1회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률47.1% → 54%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-20",
       "result": "W",
@@ -202,28 +224,6 @@
         "name": "손주영",
         "stat": "1회초 우익수 플라이 아웃승리확률41.8% → 46.1%",
         "rank": 4
-      }
-    },
-    {
-      "date": "2025-05-25",
-      "result": "W",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "9-3",
-      "stadium": "문학",
-      "winningPitcher": "송승기",
-      "losingPitcher": "전영준",
-      "savePitcher": "",
-      "gameId": "20250525LGSK0",
-      "standoutHitter": {
-        "name": "김현수",
-        "stat": "15.8%(3타수 0득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "송승기",
-        "stat": "5회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률82.3% → 89%",
-        "rank": 2
       }
     }
   ],

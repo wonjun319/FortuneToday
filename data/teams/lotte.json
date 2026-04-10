@@ -1,8 +1,30 @@
 {
   "team": "Lotte Giants",
   "slug": "lotte",
-  "updatedAt": "2026-04-10T01:31:46+09:00",
+  "updatedAt": "2026-04-11T01:20:09+09:00",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "away",
+      "score": "3-1",
+      "stadium": "고척",
+      "winningPitcher": "로드리게스",
+      "losingPitcher": "알칸타라",
+      "savePitcher": "최준용",
+      "gameId": "20260410LTWO0",
+      "standoutHitter": {
+        "name": "황성빈",
+        "stat": "8.1%(4타수 1득점 2안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "로드리게스",
+        "stat": "7회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률75% → 84.3%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-08",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "비슬리",
         "stat": "5회말 중견수 플라이 아웃승리확률53.8% → 64.3%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-28",
-      "result": "W",
-      "opponent": "삼성",
-      "homeAway": "away",
-      "score": "6-3",
-      "stadium": "대구",
-      "winningPitcher": "로드리게스",
-      "losingPitcher": "후라도",
-      "savePitcher": "박정민",
-      "gameId": "20260328LTSS0",
-      "standoutHitter": {
-        "name": "윤동희",
-        "stat": "14.1%(5타수 1득점 2안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "박정민",
-        "stat": "9회말 삼진 아웃승리확률90.3% → 100%",
         "rank": 1
       }
     }

@@ -1,8 +1,30 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-10T01:31:54+09:00",
+  "updatedAt": "2026-04-11T01:20:15+09:00",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "7-8",
+      "stadium": "수원",
+      "winningPitcher": "이용찬",
+      "losingPitcher": "김민수",
+      "savePitcher": "윤태호",
+      "gameId": "20260410OBKT0",
+      "standoutHitter": {
+        "name": "김상수",
+        "stat": "28.7%(2타수 1득점 2안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "박영현",
+        "stat": "9회초 삼진 아웃승리확률33.9% → 53.6%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-08",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "박영현",
         "stat": "9회말 유격수 플라이 아웃승리확률84.7% → 100%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-28",
-      "result": "W",
-      "opponent": "LG",
-      "homeAway": "away",
-      "score": "11-7",
-      "stadium": "잠실",
-      "winningPitcher": "사우어",
-      "losingPitcher": "치리노스",
-      "savePitcher": "박영현",
-      "gameId": "20260328KTLG0",
-      "standoutHitter": {
-        "name": "이정훈",
-        "stat": "12.3%(3타수 1득점 2안타 2타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "사우어",
-        "stat": "5회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률88.2% → 93.1%",
         "rank": 1
       }
     }

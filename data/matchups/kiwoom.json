@@ -1,11 +1,33 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-10T01:32:05+09:00",
-  "gameDate": "2026-04-10",
+  "updatedAt": "2026-04-11T01:20:23+09:00",
+  "gameDate": "2026-04-11",
   "opponent": "롯데",
   "opponentSlug": "lotte",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "L",
+      "opponent": "롯데",
+      "homeAway": "home",
+      "score": "1-3",
+      "stadium": "고척",
+      "winningPitcher": "로드리게스",
+      "losingPitcher": "알칸타라",
+      "savePitcher": "최준용",
+      "gameId": "20260410LTWO0",
+      "standoutHitter": {
+        "name": "박주홍",
+        "stat": "5.6%(1타수 0득점 1안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "알칸타라",
+        "stat": "4회초 1루수 플라이 아웃승리확률31% → 38.9%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-03-17",
       "result": "D",
@@ -203,33 +225,11 @@
         "stat": "5회초 삼진 아웃승리확률63.3% → 72.6%",
         "rank": 2
       }
-    },
-    {
-      "date": "2025-06-05",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "away",
-      "score": "10-5",
-      "stadium": "사직",
-      "winningPitcher": "하영민",
-      "losingPitcher": "데이비슨",
-      "savePitcher": "",
-      "gameId": "20250605WOLT0",
-      "standoutHitter": {
-        "name": "이주형",
-        "stat": "20.5%(5타수 2득점 3안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "하영민",
-        "stat": "2회말 삼진 아웃승리확률84.7% → 88.4%",
-        "rank": 2
-      }
     }
   ],
   "summary": {
-    "wins": 4,
-    "losses": 5,
+    "wins": 3,
+    "losses": 6,
     "draws": 1
   }
 }

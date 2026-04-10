@@ -1,11 +1,33 @@
 {
   "team": "Lotte Giants",
   "slug": "lotte",
-  "updatedAt": "2026-04-10T01:31:48+09:00",
-  "gameDate": "2026-04-10",
+  "updatedAt": "2026-04-11T01:20:11+09:00",
+  "gameDate": "2026-04-11",
   "opponent": "키움",
   "opponentSlug": "kiwoom",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "away",
+      "score": "3-1",
+      "stadium": "고척",
+      "winningPitcher": "로드리게스",
+      "losingPitcher": "알칸타라",
+      "savePitcher": "최준용",
+      "gameId": "20260410LTWO0",
+      "standoutHitter": {
+        "name": "황성빈",
+        "stat": "8.1%(4타수 1득점 2안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "로드리게스",
+        "stat": "7회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률75% → 84.3%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-17",
       "result": "D",
@@ -203,33 +225,11 @@
         "stat": "6회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률30.3% → 50%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-06-05",
-      "result": "L",
-      "opponent": "키움",
-      "homeAway": "home",
-      "score": "5-10",
-      "stadium": "사직",
-      "winningPitcher": "하영민",
-      "losingPitcher": "데이비슨",
-      "savePitcher": "",
-      "gameId": "20250605WOLT0",
-      "standoutHitter": {
-        "name": "레이예스",
-        "stat": "3.8%(5타수 1득점 3안타 1타점)",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "데이비슨",
-        "stat": "1회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률18.1% → 22.5%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 4,
+    "wins": 6,
+    "losses": 3,
     "draws": 1
   }
 }

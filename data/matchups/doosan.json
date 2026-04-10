@@ -1,11 +1,33 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-04-10T01:31:40+09:00",
-  "gameDate": "2026-04-10",
+  "updatedAt": "2026-04-11T01:20:05+09:00",
+  "gameDate": "2026-04-11",
   "opponent": "KT",
   "opponentSlug": "kt",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "W",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "8-7",
+      "stadium": "수원",
+      "winningPitcher": "이용찬",
+      "losingPitcher": "김민수",
+      "savePitcher": "윤태호",
+      "gameId": "20260410OBKT0",
+      "standoutHitter": {
+        "name": "카메론",
+        "stat": "14.2%(5타수 2득점 2안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "윤태호",
+        "stat": "11회말 삼진 아웃승리확률70.8% → 100%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-24",
       "result": "L",
@@ -203,33 +225,11 @@
         "stat": "1회초 중견수 플라이 아웃승리확률41.2% → 46.1%",
         "rank": 3
       }
-    },
-    {
-      "date": "2025-05-29",
-      "result": "L",
-      "opponent": "KT",
-      "homeAway": "away",
-      "score": "2-12",
-      "stadium": "수원",
-      "winningPitcher": "오원석",
-      "losingPitcher": "콜어빈",
-      "savePitcher": "",
-      "gameId": "20250529OBKT0",
-      "standoutHitter": {
-        "name": "임종성",
-        "stat": "4.1%(3타수 0득점 1안타 1타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "콜어빈",
-        "stat": "2회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률41.6% → 48.8%",
-        "rank": 2
-      }
     }
   ],
   "summary": {
-    "wins": 3,
-    "losses": 7,
+    "wins": 4,
+    "losses": 6,
     "draws": 0
   }
 }

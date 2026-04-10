@@ -1,8 +1,30 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-04-10T01:31:38+09:00",
+  "updatedAt": "2026-04-11T01:20:03+09:00",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "W",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "8-7",
+      "stadium": "수원",
+      "winningPitcher": "이용찬",
+      "losingPitcher": "김민수",
+      "savePitcher": "윤태호",
+      "gameId": "20260410OBKT0",
+      "standoutHitter": {
+        "name": "카메론",
+        "stat": "14.2%(5타수 2득점 2안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "윤태호",
+        "stat": "11회말 삼진 아웃승리확률70.8% → 100%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-08",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "곽빈",
         "stat": "5",
         "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-28",
-      "result": "L",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "0-6",
-      "stadium": "창원",
-      "winningPitcher": "구창모",
-      "losingPitcher": "플렉센",
-      "savePitcher": "",
-      "gameId": "20260328OBNC0",
-      "standoutHitter": {
-        "name": "카메론",
-        "stat": "2.2%(2타수 0득점 1안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "플렉센",
-        "stat": "2회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률41.6% → 48.8%",
-        "rank": 1
       }
     }
   ]

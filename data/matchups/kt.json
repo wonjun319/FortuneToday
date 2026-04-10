@@ -1,11 +1,33 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-10T01:31:56+09:00",
-  "gameDate": "2026-04-10",
+  "updatedAt": "2026-04-11T01:20:17+09:00",
+  "gameDate": "2026-04-11",
   "opponent": "두산",
   "opponentSlug": "doosan",
   "last10": [
+    {
+      "date": "2026-04-10",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "7-8",
+      "stadium": "수원",
+      "winningPitcher": "이용찬",
+      "losingPitcher": "김민수",
+      "savePitcher": "윤태호",
+      "gameId": "20260410OBKT0",
+      "standoutHitter": {
+        "name": "김상수",
+        "stat": "28.7%(2타수 1득점 2안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "박영현",
+        "stat": "9회초 삼진 아웃승리확률33.9% → 53.6%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-03-24",
       "result": "W",
@@ -203,33 +225,11 @@
         "stat": "6회말 투수 병살타 아웃 (투수->유격수->1루수 송구아웃)승리확률86.5% → 94.1%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-05-29",
-      "result": "W",
-      "opponent": "두산",
-      "homeAway": "home",
-      "score": "12-2",
-      "stadium": "수원",
-      "winningPitcher": "오원석",
-      "losingPitcher": "콜어빈",
-      "savePitcher": "",
-      "gameId": "20250529OBKT0",
-      "standoutHitter": {
-        "name": "로하스",
-        "stat": "13.8%(5타수 1득점 4안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "오원석",
-        "stat": "5회초 유격수 병살타 아웃 (유격수->1루수 송구아웃)승리확률69% → 78.1%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 7,
-    "losses": 3,
+    "wins": 6,
+    "losses": 4,
     "draws": 0
   }
 }
