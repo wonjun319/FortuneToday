@@ -1,8 +1,30 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-04-11T01:20:12+09:00",
+  "updatedAt": "2026-04-12T01:10:26+09:00",
   "last10": [
+    {
+      "date": "2026-04-11",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "5-6",
+      "stadium": "대전",
+      "winningPitcher": "황동하",
+      "losingPitcher": "박상원",
+      "savePitcher": "성영탁",
+      "gameId": "20260411HTHH0",
+      "standoutHitter": {
+        "name": "심우준",
+        "stat": "6.7%(3타수 2득점 1안타 0타점)",
+        "rank": 5
+      },
+      "standoutPitcher": {
+        "name": "왕옌청",
+        "stat": "5",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-10",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "윤산흠",
         "stat": "5회초 1루수 파울플라이 아웃승리확률25.8% → 31.7%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-29",
-      "result": "W",
-      "opponent": "키움",
-      "homeAway": "home",
-      "score": "10-4",
-      "stadium": "대전",
-      "winningPitcher": "왕옌청",
-      "losingPitcher": "하영민",
-      "savePitcher": "",
-      "gameId": "20260329WOHH0",
-      "standoutHitter": {
-        "name": "강백호",
-        "stat": "18.9%(5타수 1득점 2안타 5타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "왕옌청",
-        "stat": "2회초 우익수 플라이 아웃승리확률46.9% → 51.1%",
         "rank": 2
       }
     }

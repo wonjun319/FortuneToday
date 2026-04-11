@@ -1,8 +1,30 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-11T01:20:22+09:00",
+  "updatedAt": "2026-04-12T01:10:39+09:00",
   "last10": [
+    {
+      "date": "2026-04-11",
+      "result": "L",
+      "opponent": "롯데",
+      "homeAway": "home",
+      "score": "1-3",
+      "stadium": "고척",
+      "winningPitcher": "박정민",
+      "losingPitcher": "김성진",
+      "savePitcher": "최준용",
+      "gameId": "20260411LTWO0",
+      "standoutHitter": {
+        "name": "최주환",
+        "stat": "6.8%(4타수 0득점 2안타 1타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "김재웅",
+        "stat": "9회초 포수 파울플라이 아웃승리확률53.6% → 65.9%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-10",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "와일스",
         "stat": "4회말 중견수 플라이 아웃승리확률56.9% → 62.4%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-29",
-      "result": "L",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "4-10",
-      "stadium": "대전",
-      "winningPitcher": "왕옌청",
-      "losingPitcher": "하영민",
-      "savePitcher": "",
-      "gameId": "20260329WOHH0",
-      "standoutHitter": {
-        "name": "최재영",
-        "stat": "15.4%(4타수 0득점 1안타 2타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "하영민",
-        "stat": "2회말 2루수 라인드라이브 아웃승리확률35.2% → 40.1%",
         "rank": 1
       }
     }

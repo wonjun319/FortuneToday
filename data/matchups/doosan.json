@@ -1,11 +1,33 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-04-11T01:20:05+09:00",
-  "gameDate": "2026-04-11",
+  "updatedAt": "2026-04-12T01:10:16+09:00",
+  "gameDate": "2026-04-12",
   "opponent": "KT",
   "opponentSlug": "kt",
   "last10": [
+    {
+      "date": "2026-04-11",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "4-6",
+      "stadium": "수원",
+      "winningPitcher": "소형준",
+      "losingPitcher": "잭로그",
+      "savePitcher": "박영현",
+      "gameId": "20260411OBKT0",
+      "standoutHitter": {
+        "name": "박준순",
+        "stat": "10.1%(4타수 1득점 2안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "잭로그",
+        "stat": "5",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-10",
       "result": "W",
@@ -202,28 +224,6 @@
         "name": "최원준",
         "stat": "5회초 3루수 파울플라이 아웃승리확률42.9% → 50.8%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2025-07-04",
-      "result": "L",
-      "opponent": "KT",
-      "homeAway": "home",
-      "score": "3-6",
-      "stadium": "잠실",
-      "winningPitcher": "오원석",
-      "losingPitcher": "잭로그",
-      "savePitcher": "박영현",
-      "gameId": "20250704KTOB0",
-      "standoutHitter": {
-        "name": "양의지",
-        "stat": "3.5%(4타수 0득점 2안타 1타점)",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "잭로그",
-        "stat": "1회초 중견수 플라이 아웃승리확률41.2% → 46.1%",
-        "rank": 3
       }
     }
   ],

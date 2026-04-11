@@ -1,11 +1,33 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-04-11T01:20:14+09:00",
-  "gameDate": "2026-04-11",
+  "updatedAt": "2026-04-12T01:10:28+09:00",
+  "gameDate": "2026-04-12",
   "opponent": "KIA",
   "opponentSlug": "kia",
   "last10": [
+    {
+      "date": "2026-04-11",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "5-6",
+      "stadium": "대전",
+      "winningPitcher": "황동하",
+      "losingPitcher": "박상원",
+      "savePitcher": "성영탁",
+      "gameId": "20260411HTHH0",
+      "standoutHitter": {
+        "name": "심우준",
+        "stat": "6.7%(3타수 2득점 1안타 0타점)",
+        "rank": 5
+      },
+      "standoutPitcher": {
+        "name": "왕옌청",
+        "stat": "5",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-10",
       "result": "L",
@@ -203,33 +225,11 @@
         "stat": "6",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-07-09",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "7-4",
-      "stadium": "대전",
-      "winningPitcher": "조동욱",
-      "losingPitcher": "양현종",
-      "savePitcher": "김서현",
-      "gameId": "20250709HTHH0",
-      "standoutHitter": {
-        "name": "최재훈",
-        "stat": "26.3%(3타수 1득점 1안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "엄상백",
-        "stat": "2회초 2루수 플라이 아웃승리확률35.2% → 41.4%",
-        "rank": 2
-      }
     }
   ],
   "summary": {
-    "wins": 8,
-    "losses": 2,
+    "wins": 7,
+    "losses": 3,
     "draws": 0
   }
 }

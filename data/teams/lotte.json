@@ -1,8 +1,30 @@
 {
   "team": "Lotte Giants",
   "slug": "lotte",
-  "updatedAt": "2026-04-11T01:20:09+09:00",
+  "updatedAt": "2026-04-12T01:10:22+09:00",
   "last10": [
+    {
+      "date": "2026-04-11",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "away",
+      "score": "3-1",
+      "stadium": "고척",
+      "winningPitcher": "박정민",
+      "losingPitcher": "김성진",
+      "savePitcher": "최준용",
+      "gameId": "20260411LTWO0",
+      "standoutHitter": {
+        "name": "장두성",
+        "stat": "11.7%(3타수 0득점 1안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "비슬리",
+        "stat": "6회말 좌익수 플라이 아웃 3루주자 브룩스 : 태그아웃 (좌익수->포수 태그아웃)승리확률19.4% → 32.8%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-10",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "박세웅",
         "stat": "2회말 포수 플라이 아웃승리확률55% → 60.1%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2026-03-29",
-      "result": "W",
-      "opponent": "삼성",
-      "homeAway": "away",
-      "score": "6-2",
-      "stadium": "대구",
-      "winningPitcher": "비슬리",
-      "losingPitcher": "최원태",
-      "savePitcher": "",
-      "gameId": "20260329LTSS0",
-      "standoutHitter": {
-        "name": "레이예스",
-        "stat": "28.8%(2타수 1득점 1안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "비슬리",
-        "stat": "5회말 중견수 플라이 아웃승리확률53.8% → 64.3%",
-        "rank": 1
       }
     }
   ]

@@ -1,8 +1,30 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-11T01:20:15+09:00",
+  "updatedAt": "2026-04-12T01:10:30+09:00",
   "last10": [
+    {
+      "date": "2026-04-11",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "6-4",
+      "stadium": "수원",
+      "winningPitcher": "소형준",
+      "losingPitcher": "잭로그",
+      "savePitcher": "박영현",
+      "gameId": "20260411OBKT0",
+      "standoutHitter": {
+        "name": "이강민",
+        "stat": "14.7%(2타수 1득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "박영현",
+        "stat": "8회초 삼진 아웃승리확률53.5% → 65%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-10",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "보쉴리",
         "stat": "2회말 삼진 아웃승리확률48.6% → 55%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-29",
-      "result": "W",
-      "opponent": "LG",
-      "homeAway": "away",
-      "score": "6-5",
-      "stadium": "잠실",
-      "winningPitcher": "전용주",
-      "losingPitcher": "유영찬",
-      "savePitcher": "박영현",
-      "gameId": "20260329KTLG0",
-      "standoutHitter": {
-        "name": "허경민",
-        "stat": "37.2%(3타수 1득점 3안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "박영현",
-        "stat": "9회말 유격수 플라이 아웃승리확률84.7% → 100%",
         "rank": 1
       }
     }

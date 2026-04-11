@@ -1,11 +1,33 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-11T01:19:58+09:00",
-  "gameDate": "2026-04-11",
+  "updatedAt": "2026-04-12T01:10:08+09:00",
+  "gameDate": "2026-04-12",
   "opponent": "SSG",
   "opponentSlug": "ssg",
   "last10": [
+    {
+      "date": "2026-04-11",
+      "result": "W",
+      "opponent": "SSG",
+      "homeAway": "home",
+      "score": "4-3",
+      "stadium": "잠실",
+      "winningPitcher": "장현식",
+      "losingPitcher": "노경은",
+      "savePitcher": "유영찬",
+      "gameId": "20260411SKLG0",
+      "standoutHitter": {
+        "name": "박해민",
+        "stat": "37.6%(3타수 0득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "임찬규",
+        "stat": "2회초 3루수 병살타로 출루승리확률41.8% → 53%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-10",
       "result": "W",
@@ -203,33 +225,11 @@
         "stat": "5회초 삼진 아웃승리확률50.6% → 59.7%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-06-10",
-      "result": "L",
-      "opponent": "SSG",
-      "homeAway": "home",
-      "score": "2-6",
-      "stadium": "잠실",
-      "winningPitcher": "박시후",
-      "losingPitcher": "손주영",
-      "savePitcher": "",
-      "gameId": "20250610SKLG0",
-      "standoutHitter": {
-        "name": "김정율",
-        "stat": "7.9%(2타수 0득점 1안타 0타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "손주영",
-        "stat": "1회초 우익수 플라이 아웃승리확률41.8% → 46.1%",
-        "rank": 4
-      }
     }
   ],
   "summary": {
-    "wins": 7,
-    "losses": 3,
+    "wins": 8,
+    "losses": 2,
     "draws": 0
   }
 }

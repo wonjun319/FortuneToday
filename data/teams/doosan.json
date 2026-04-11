@@ -1,8 +1,30 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-04-11T01:20:03+09:00",
+  "updatedAt": "2026-04-12T01:10:14+09:00",
   "last10": [
+    {
+      "date": "2026-04-11",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "4-6",
+      "stadium": "수원",
+      "winningPitcher": "소형준",
+      "losingPitcher": "잭로그",
+      "savePitcher": "박영현",
+      "gameId": "20260411OBKT0",
+      "standoutHitter": {
+        "name": "박준순",
+        "stat": "10.1%(4타수 1득점 2안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "잭로그",
+        "stat": "5",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-10",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "김택연",
         "stat": "10회말 우익수 플라이 아웃승리확률38.3% → 50%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-29",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "9-6",
-      "stadium": "창원",
-      "winningPitcher": "타무라",
-      "losingPitcher": "김진호",
-      "savePitcher": "김택연",
-      "gameId": "20260329OBNC0",
-      "standoutHitter": {
-        "name": "카메론",
-        "stat": "29.2%(1타수 1득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "곽빈",
-        "stat": "5",
-        "rank": 2
       }
     }
   ]
