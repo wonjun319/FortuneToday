@@ -1,8 +1,30 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-12T01:08:55+09:00",
+  "updatedAt": "2026-04-13T01:11:12+09:00",
   "last10": [
+    {
+      "date": "2026-04-12",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "9-3",
+      "stadium": "대전",
+      "winningPitcher": "올러",
+      "losingPitcher": "쿠싱",
+      "savePitcher": "",
+      "gameId": "20260412HTHH0",
+      "standoutHitter": {
+        "name": "박재현",
+        "stat": "15.8%(4타수 0득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "올러",
+        "stat": "5회말 삼진 아웃승리확률65.5% → 75.7%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-11",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "양현종",
         "stat": "4",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-31",
-      "result": "W",
-      "opponent": "LG",
-      "homeAway": "away",
-      "score": "7-2",
-      "stadium": "잠실",
-      "winningPitcher": "올러",
-      "losingPitcher": "톨허스트",
-      "savePitcher": "",
-      "gameId": "20260331HTLG0",
-      "standoutHitter": {
-        "name": "김도영",
-        "stat": "16.8%(4타수 1득점 3안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "올러",
-        "stat": "4회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률93.8% → 96.5%",
-        "rank": 2
       }
     }
   ]

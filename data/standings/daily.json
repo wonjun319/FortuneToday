@@ -1,126 +1,126 @@
 {
-  "updatedAt": "2026-04-12T01:10:41+09:00",
-  "basisDate": "2026-04-11",
+  "updatedAt": "2026-04-13T01:11:37+09:00",
+  "basisDate": "2026-04-12",
   "standings": [
     {
       "rank": 1,
       "team": "lg",
-      "games": 12,
-      "wins": 8,
+      "games": 13,
+      "wins": 9,
       "losses": 4,
       "draws": 0,
-      "pct": "0.667",
+      "pct": "0.692",
       "gamesBehind": "0",
-      "recent10": "8승0무2패",
-      "streak": "6승"
+      "recent10": "9승0무1패",
+      "streak": "7승"
     },
     {
       "rank": 1,
       "team": "kt",
-      "games": 12,
-      "wins": 8,
+      "games": 13,
+      "wins": 9,
       "losses": 4,
       "draws": 0,
-      "pct": "0.667",
+      "pct": "0.692",
       "gamesBehind": "0",
       "recent10": "6승0무4패",
-      "streak": "1승"
+      "streak": "2승"
     },
     {
       "rank": 3,
       "team": "samsung",
-      "games": 12,
-      "wins": 7,
+      "games": 13,
+      "wins": 8,
       "losses": 4,
       "draws": 1,
-      "pct": "0.636",
+      "pct": "0.667",
       "gamesBehind": "0.5",
-      "recent10": "7승1무2패",
-      "streak": "2승"
+      "recent10": "8승0무2패",
+      "streak": "3승"
     },
     {
       "rank": 4,
       "team": "ssg",
-      "games": 12,
+      "games": 13,
       "wins": 7,
-      "losses": 5,
+      "losses": 6,
       "draws": 0,
-      "pct": "0.583",
-      "gamesBehind": "1",
-      "recent10": "5승0무5패",
-      "streak": "4패"
+      "pct": "0.538",
+      "gamesBehind": "2",
+      "recent10": "4승0무6패",
+      "streak": "5패"
     },
     {
       "rank": 5,
       "team": "hanwha",
-      "games": 12,
+      "games": 13,
       "wins": 6,
-      "losses": 6,
+      "losses": 7,
       "draws": 0,
-      "pct": "0.500",
-      "gamesBehind": "2",
+      "pct": "0.462",
+      "gamesBehind": "3",
       "recent10": "4승0무6패",
-      "streak": "2패"
+      "streak": "3패"
     },
     {
       "rank": 5,
       "team": "nc",
-      "games": 12,
+      "games": 13,
       "wins": 6,
-      "losses": 6,
-      "draws": 0,
-      "pct": "0.500",
-      "gamesBehind": "2",
-      "recent10": "5승0무5패",
-      "streak": "5패"
-    },
-    {
-      "rank": 7,
-      "team": "lotte",
-      "games": 12,
-      "wins": 5,
       "losses": 7,
       "draws": 0,
-      "pct": "0.417",
+      "pct": "0.462",
       "gamesBehind": "3",
-      "recent10": "3승0무7패",
-      "streak": "3승"
+      "recent10": "4승0무6패",
+      "streak": "6패"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "team": "kia",
-      "games": 12,
-      "wins": 5,
+      "games": 13,
+      "wins": 6,
       "losses": 7,
       "draws": 0,
-      "pct": "0.417",
+      "pct": "0.462",
       "gamesBehind": "3",
       "recent10": "5승0무5패",
-      "streak": "3승"
+      "streak": "4승"
+    },
+    {
+      "rank": 8,
+      "team": "lotte",
+      "games": 13,
+      "wins": 5,
+      "losses": 8,
+      "draws": 0,
+      "pct": "0.385",
+      "gamesBehind": "4",
+      "recent10": "3승0무7패",
+      "streak": "1패"
     },
     {
       "rank": 9,
       "team": "doosan",
-      "games": 12,
+      "games": 13,
       "wins": 4,
-      "losses": 7,
+      "losses": 8,
       "draws": 1,
-      "pct": "0.364",
-      "gamesBehind": "3.5",
-      "recent10": "3승1무6패",
-      "streak": "1패"
+      "pct": "0.333",
+      "gamesBehind": "4.5",
+      "recent10": "3승0무7패",
+      "streak": "2패"
     },
     {
       "rank": 10,
       "team": "kiwoom",
-      "games": 12,
-      "wins": 3,
+      "games": 13,
+      "wins": 4,
       "losses": 9,
       "draws": 0,
-      "pct": "0.250",
+      "pct": "0.308",
       "gamesBehind": "5",
-      "recent10": "3승0무7패",
-      "streak": "3패"
+      "recent10": "4승0무6패",
+      "streak": "1승"
     }
   ]
 }

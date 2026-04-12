@@ -1,8 +1,30 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-12T01:10:30+09:00",
+  "updatedAt": "2026-04-13T01:11:31+09:00",
   "last10": [
+    {
+      "date": "2026-04-12",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "6-1",
+      "stadium": "수원",
+      "winningPitcher": "보쉴리",
+      "losingPitcher": "최승용",
+      "savePitcher": "",
+      "gameId": "20260412OBKT0",
+      "standoutHitter": {
+        "name": "김상수",
+        "stat": "5.7%(4타수 1득점 1안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "보쉴리",
+        "stat": "5회초 3루수 파울플라이 아웃승리확률58.1% → 62.4%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-11",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "박영현",
         "stat": "8회말 좌익수 파울플라이 아웃승리확률40.6% → 50%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-31",
-      "result": "W",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "9-4",
-      "stadium": "대전",
-      "winningPitcher": "보쉴리",
-      "losingPitcher": "화이트",
-      "savePitcher": "",
-      "gameId": "20260331KTHH0",
-      "standoutHitter": {
-        "name": "안현민",
-        "stat": "18.9%(4타수 1득점 2안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "보쉴리",
-        "stat": "2회말 삼진 아웃승리확률48.6% → 55%",
-        "rank": 1
       }
     }
   ]

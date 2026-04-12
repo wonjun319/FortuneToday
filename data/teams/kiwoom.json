@@ -1,8 +1,30 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-12T01:10:39+09:00",
+  "updatedAt": "2026-04-13T01:11:36+09:00",
   "last10": [
+    {
+      "date": "2026-04-12",
+      "result": "W",
+      "opponent": "롯데",
+      "homeAway": "home",
+      "score": "2-0",
+      "stadium": "고척",
+      "winningPitcher": "배동현",
+      "losingPitcher": "박세웅",
+      "savePitcher": "김재웅",
+      "gameId": "20260412LTWO0",
+      "standoutHitter": {
+        "name": "이주형",
+        "stat": "7.4%(3타수 2득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "배동현",
+        "stat": "6회초 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률75.8% → 82.9%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-11",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "배동현",
         "stat": "3회말 1루수 플라이 아웃승리확률70.3% → 75.8%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-31",
-      "result": "L",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "3-9",
-      "stadium": "문학",
-      "winningPitcher": "이로운",
-      "losingPitcher": "와일스",
-      "savePitcher": "",
-      "gameId": "20260331WOSK0",
-      "standoutHitter": {
-        "name": "어준서",
-        "stat": "2.9%(4타수 0득점 1안타 1타점)",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "와일스",
-        "stat": "4회말 중견수 플라이 아웃승리확률56.9% → 62.4%",
         "rank": 1
       }
     }

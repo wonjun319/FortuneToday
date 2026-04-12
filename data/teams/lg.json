@@ -1,8 +1,30 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-12T01:09:59+09:00",
+  "updatedAt": "2026-04-13T01:11:15+09:00",
   "last10": [
+    {
+      "date": "2026-04-12",
+      "result": "W",
+      "opponent": "SSG",
+      "homeAway": "home",
+      "score": "9-1",
+      "stadium": "잠실",
+      "winningPitcher": "톨허스트",
+      "losingPitcher": "베니지아노",
+      "savePitcher": "",
+      "gameId": "20260412SKLG0",
+      "standoutHitter": {
+        "name": "문성주",
+        "stat": "12.7%(5타수 1득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "톨허스트",
+        "stat": "1회초 유격수 라인드라이브 아웃승리확률44.9% → 50.6%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-11",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "김진성",
         "stat": "5회초 삼진 아웃승리확률72.6% → 79.5%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-31",
-      "result": "L",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "2-7",
-      "stadium": "잠실",
-      "winningPitcher": "올러",
-      "losingPitcher": "톨허스트",
-      "savePitcher": "",
-      "gameId": "20260331HTLG0",
-      "standoutHitter": {
-        "name": "최원영",
-        "stat": "2.7%(1타수 0득점 1안타 1타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "톨허스트",
-        "stat": "1회초 삼진 아웃승리확률43.2% → 46.1%",
         "rank": 1
       }
     }

@@ -1,8 +1,30 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-12T01:10:18+09:00",
+  "updatedAt": "2026-04-13T01:11:23+09:00",
   "last10": [
+    {
+      "date": "2026-04-12",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "home",
+      "score": "9-3",
+      "stadium": "대구",
+      "winningPitcher": "장찬희",
+      "losingPitcher": "토다",
+      "savePitcher": "",
+      "gameId": "20260412NCSS0",
+      "standoutHitter": {
+        "name": "구자욱",
+        "stat": "11.8%(2타수 1득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "원태인",
+        "stat": "1회초 유격수 병살타 아웃 (유격수->1루수 송구아웃)승리확률41.9% → 55.1%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-11",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "양창섭",
         "stat": "5회초 중견수 플라이 아웃승리확률90.8% → 93.8%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-31",
-      "result": "D",
-      "opponent": "두산",
-      "homeAway": "home",
-      "score": "5-5",
-      "stadium": "대구",
-      "winningPitcher": "",
-      "losingPitcher": "",
-      "savePitcher": "",
-      "gameId": "20260331OBSS0",
-      "standoutHitter": {
-        "name": "디아즈",
-        "stat": "24.8%(5타수 1득점 1안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "최지광",
-        "stat": "10회초 중견수 플라이 아웃승리확률50.6% → 58.6%",
-        "rank": 4
       }
     }
   ]

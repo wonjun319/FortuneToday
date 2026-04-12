@@ -1,8 +1,30 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-04-12T01:10:26+09:00",
+  "updatedAt": "2026-04-13T01:11:28+09:00",
   "last10": [
+    {
+      "date": "2026-04-12",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "3-9",
+      "stadium": "대전",
+      "winningPitcher": "올러",
+      "losingPitcher": "쿠싱",
+      "savePitcher": "",
+      "gameId": "20260412HTHH0",
+      "standoutHitter": {
+        "name": "페라자",
+        "stat": "7.9%(4타수 0득점 1안타 1타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "쿠싱",
+        "stat": "2회초 중견수 플라이 아웃승리확률41.7% → 45.7%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-04-11",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "김도빈",
         "stat": "9회초 삼진 아웃승리확률43% → 53.4%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-31",
-      "result": "L",
-      "opponent": "KT",
-      "homeAway": "home",
-      "score": "4-9",
-      "stadium": "대전",
-      "winningPitcher": "보쉴리",
-      "losingPitcher": "화이트",
-      "savePitcher": "",
-      "gameId": "20260331KTHH0",
-      "standoutHitter": {
-        "name": "페라자",
-        "stat": "7.4%(3타수 0득점 1안타 2타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "윤산흠",
-        "stat": "5회초 1루수 파울플라이 아웃승리확률25.8% → 31.7%",
-        "rank": 2
       }
     }
   ]

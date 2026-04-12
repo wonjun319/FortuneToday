@@ -1,8 +1,30 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-12T01:10:10+09:00",
+  "updatedAt": "2026-04-13T01:11:17+09:00",
   "last10": [
+    {
+      "date": "2026-04-12",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "1-9",
+      "stadium": "잠실",
+      "winningPitcher": "톨허스트",
+      "losingPitcher": "베니지아노",
+      "savePitcher": "",
+      "gameId": "20260412SKLG0",
+      "standoutHitter": {
+        "name": "한유섬",
+        "stat": "6.7%(2타수 0득점 1안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "베니지아노",
+        "stat": "2회말 투수 라인드라이브 아웃승리확률41.6% → 50%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-11",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "타케다",
         "stat": "1회초 삼진 아웃승리확률36.6% → 40.3%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2026-03-31",
-      "result": "W",
-      "opponent": "키움",
-      "homeAway": "home",
-      "score": "9-3",
-      "stadium": "문학",
-      "winningPitcher": "이로운",
-      "losingPitcher": "와일스",
-      "savePitcher": "",
-      "gameId": "20260331WOSK0",
-      "standoutHitter": {
-        "name": "한유섬",
-        "stat": "14.2%(3타수 0득점 1안타 0타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "김민",
-        "stat": "7회초 삼진 아웃승리확률67.2% → 71.9%",
         "rank": 2
       }
     }

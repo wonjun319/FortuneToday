@@ -1,8 +1,30 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-04-12T01:10:14+09:00",
+  "updatedAt": "2026-04-13T01:11:20+09:00",
   "last10": [
+    {
+      "date": "2026-04-12",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "1-6",
+      "stadium": "수원",
+      "winningPitcher": "보쉴리",
+      "losingPitcher": "최승용",
+      "savePitcher": "",
+      "gameId": "20260412OBKT0",
+      "standoutHitter": {
+        "name": "양석환",
+        "stat": "5.7%(3타수 0득점 2안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "최승용",
+        "stat": "5회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률12% → 16.1%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-11",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "최승용",
         "stat": "1회말 삼진 아웃승리확률28.5% → 30.6%",
         "rank": 5
-      }
-    },
-    {
-      "date": "2026-03-31",
-      "result": "D",
-      "opponent": "삼성",
-      "homeAway": "away",
-      "score": "5-5",
-      "stadium": "대구",
-      "winningPitcher": "",
-      "losingPitcher": "",
-      "savePitcher": "",
-      "gameId": "20260331OBSS0",
-      "standoutHitter": {
-        "name": "김민석",
-        "stat": "16.1%(3타수 1득점 2안타 1타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "김택연",
-        "stat": "10회말 우익수 플라이 아웃승리확률38.3% → 50%",
-        "rank": 1
       }
     }
   ]

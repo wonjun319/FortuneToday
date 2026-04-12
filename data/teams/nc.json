@@ -1,8 +1,30 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-04-12T01:10:34+09:00",
+  "updatedAt": "2026-04-13T01:11:33+09:00",
   "last10": [
+    {
+      "date": "2026-04-12",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "away",
+      "score": "3-9",
+      "stadium": "대구",
+      "winningPitcher": "장찬희",
+      "losingPitcher": "토다",
+      "savePitcher": "",
+      "gameId": "20260412NCSS0",
+      "standoutHitter": {
+        "name": "이우성",
+        "stat": "6.3%(3타수 1득점 2안타 1타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "류진욱",
+        "stat": "2",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-11",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "신민혁",
         "stat": "5회초 유격수 라인드라이브 아웃승리확률34.4% → 43.6%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-03-31",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "home",
-      "score": "9-2",
-      "stadium": "창원",
-      "winningPitcher": "토다",
-      "losingPitcher": "박세웅",
-      "savePitcher": "",
-      "gameId": "20260331LTNC0",
-      "standoutHitter": {
-        "name": "김형준",
-        "stat": "17.1%(2타수 1득점 1안타 1타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "토다",
-        "stat": "2회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률37.9% → 45.7%",
         "rank": 1
       }
     }
