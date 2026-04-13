@@ -1,14 +1,235 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-13T01:11:17+09:00",
-  "gameDate": "2026-04-13",
-  "opponent": null,
-  "opponentSlug": null,
-  "last10": [],
+  "updatedAt": "2026-04-14T01:29:14+09:00",
+  "gameDate": "2026-04-14",
+  "opponent": "두산",
+  "opponentSlug": "doosan",
+  "last10": [
+    {
+      "date": "2025-09-27",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "6-2",
+      "stadium": "잠실",
+      "winningPitcher": "김광현",
+      "losingPitcher": "최승용",
+      "savePitcher": "",
+      "gameId": "20250927SKOB0",
+      "standoutHitter": {
+        "name": "최정",
+        "stat": "10.7%(3타수 1득점 2안타 2타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "노경은",
+        "stat": "7회말 좌익수 플라이 아웃승리확률75% → 80.2%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-09-22",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "2-9",
+      "stadium": "문학",
+      "winningPitcher": "곽빈",
+      "losingPitcher": "앤더슨",
+      "savePitcher": "",
+      "gameId": "20250922OBSK0",
+      "standoutHitter": {
+        "name": "안상현",
+        "stat": "6%(3타수 0득점 1안타 0타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "앤더슨",
+        "stat": "7",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-09-21",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "7-3",
+      "stadium": "문학",
+      "winningPitcher": "김광현",
+      "losingPitcher": "최승용",
+      "savePitcher": "",
+      "gameId": "20250921OBSK0",
+      "standoutHitter": {
+        "name": "김성욱",
+        "stat": "17.9%(3타수 2득점 1안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김광현",
+        "stat": "4회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률58.6% → 66.1%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-09-20",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "15-2",
+      "stadium": "문학",
+      "winningPitcher": "화이트",
+      "losingPitcher": "최민석",
+      "savePitcher": "",
+      "gameId": "20250920OBSK0",
+      "standoutHitter": {
+        "name": "한유섬",
+        "stat": "10.7%(4타수 1득점 1안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "화이트",
+        "stat": "1회초 좌익수 플라이 아웃승리확률48.9% → 52.1%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-08-03",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "3-2",
+      "stadium": "잠실",
+      "winningPitcher": "조병현",
+      "losingPitcher": "박신지",
+      "savePitcher": "",
+      "gameId": "20250803SKOB0",
+      "standoutHitter": {
+        "name": "박성한",
+        "stat": "18.6%(4타수 2득점 2안타 0타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "조병현",
+        "stat": "10회말 중견수 플라이 아웃승리확률76.5% → 86.5%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-08-02",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "4-5",
+      "stadium": "잠실",
+      "winningPitcher": "잭로그",
+      "losingPitcher": "박시후",
+      "savePitcher": "김택연",
+      "gameId": "20250802SKOB0",
+      "standoutHitter": {
+        "name": "이지영",
+        "stat": "11%(3타수 1득점 2안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "김민",
+        "stat": "2",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-08-01",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "7-2",
+      "stadium": "잠실",
+      "winningPitcher": "김광현",
+      "losingPitcher": "곽빈",
+      "savePitcher": "",
+      "gameId": "20250801SKOB0",
+      "standoutHitter": {
+        "name": "정준재",
+        "stat": "12.2%(5타수 0득점 2안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김광현",
+        "stat": "5회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률52% → 64.3%",
+        "rank": 1
+      }
+    },
+    {
+      "date": "2025-07-20",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "1-2",
+      "stadium": "문학",
+      "winningPitcher": "김택연",
+      "losingPitcher": "조병현",
+      "savePitcher": "박치국",
+      "gameId": "20250720OBSK0",
+      "standoutHitter": {
+        "name": "에레디아",
+        "stat": "12.5%(4타수 0득점 1안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "김광현",
+        "stat": "6회초 삼진 아웃승리확률49.9% → 58.1%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-07-19",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "0-5",
+      "stadium": "문학",
+      "winningPitcher": "콜어빈",
+      "losingPitcher": "앤더슨",
+      "savePitcher": "",
+      "gameId": "20250719OBSK0",
+      "standoutHitter": {
+        "name": "에레디아",
+        "stat": "4.4%(3타수 0득점 1안타 0타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "앤더슨",
+        "stat": "2회초 포수 스트라이크 낫 아웃 (포수 태그아웃)승리확률39.6% → 42.7%",
+        "rank": 5
+      }
+    },
+    {
+      "date": "2025-06-26",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "4-1",
+      "stadium": "잠실",
+      "winningPitcher": "최민준",
+      "losingPitcher": "최지강",
+      "savePitcher": "조병현",
+      "gameId": "20250626SKOB0",
+      "standoutHitter": {
+        "name": "안상현",
+        "stat": "16.9%(4타수 1득점 3안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "최민준",
+        "stat": "5회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률43% → 50%",
+        "rank": 3
+      }
+    }
+  ],
   "summary": {
-    "wins": 0,
-    "losses": 0,
+    "wins": 6,
+    "losses": 4,
     "draws": 0
   }
 }
