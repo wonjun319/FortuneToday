@@ -1,8 +1,30 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-14T01:29:06+09:00",
+  "updatedAt": "2026-04-15T01:27:44+09:00",
   "last10": [
+    {
+      "date": "2026-04-14",
+      "result": "W",
+      "opponent": "롯데",
+      "homeAway": "home",
+      "score": "2-1",
+      "stadium": "잠실",
+      "winningPitcher": "김진성",
+      "losingPitcher": "박정민",
+      "savePitcher": "유영찬",
+      "gameId": "20260414LTLG0",
+      "standoutHitter": {
+        "name": "오스틴",
+        "stat": "25%(4타수 2득점 3안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "우강훈",
+        "stat": "7회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률40.3% → 59.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-12",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "유영찬",
         "stat": "9회초 좌익수 플라이 아웃승리확률71.7% → 85.3%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-01",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "home",
-      "score": "7-2",
-      "stadium": "잠실",
-      "winningPitcher": "김진성",
-      "losingPitcher": "양현종",
-      "savePitcher": "유영찬",
-      "gameId": "20260401HTLG0",
-      "standoutHitter": {
-        "name": "문성주",
-        "stat": "11.2%(3타수 0득점 2안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "김진성",
-        "stat": "5회초 삼진 아웃승리확률72.6% → 79.5%",
         "rank": 1
       }
     }

@@ -1,8 +1,30 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-14T01:29:11+09:00",
+  "updatedAt": "2026-04-15T01:27:48+09:00",
   "last10": [
+    {
+      "date": "2026-04-14",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "3-11",
+      "stadium": "문학",
+      "winningPitcher": "최민석",
+      "losingPitcher": "타케다",
+      "savePitcher": "",
+      "gameId": "20260414OBSK0",
+      "standoutHitter": {
+        "name": "최지훈",
+        "stat": "15.9%(4타수 1득점 1안타 2타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "장지훈",
+        "stat": "3",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-12",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "최민준",
         "stat": "5회초 투수 병살타 아웃 (투수->2루수->1루수 송구아웃)승리확률89.9% → 94.7%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-01",
-      "result": "L",
-      "opponent": "키움",
-      "homeAway": "home",
-      "score": "2-11",
-      "stadium": "문학",
-      "winningPitcher": "배동현",
-      "losingPitcher": "타케다",
-      "savePitcher": "",
-      "gameId": "20260401WOSK0",
-      "standoutHitter": {
-        "name": "안상현",
-        "stat": "1",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "타케다",
-        "stat": "1회초 삼진 아웃승리확률36.6% → 40.3%",
-        "rank": 2
       }
     }
   ]

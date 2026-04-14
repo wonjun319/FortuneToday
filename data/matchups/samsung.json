@@ -1,11 +1,33 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-14T01:29:23+09:00",
-  "gameDate": "2026-04-14",
+  "updatedAt": "2026-04-15T01:27:58+09:00",
+  "gameDate": "2026-04-15",
   "opponent": "한화",
   "opponentSlug": "hanwha",
   "last10": [
+    {
+      "date": "2026-04-14",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "6-5",
+      "stadium": "대전",
+      "winningPitcher": "이승현",
+      "losingPitcher": "김서현",
+      "savePitcher": "김재윤",
+      "gameId": "20260414SSHH0",
+      "standoutHitter": {
+        "name": "최형우",
+        "stat": "47.4%(2타수 1득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김재윤",
+        "stat": "9회말 삼진 아웃승리확률76.5% → 86.5%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-03-13",
       "result": "L",
@@ -202,28 +224,6 @@
         "name": "이승현",
         "stat": "2회초 1루수 병살타 아웃 (1루수->유격수->1루수 송구아웃)승리확률12.8% → 19.1%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2025-08-31",
-      "result": "W",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "5-3",
-      "stadium": "대전",
-      "winningPitcher": "원태인",
-      "losingPitcher": "김기중",
-      "savePitcher": "김태훈",
-      "gameId": "20250831SSHH0",
-      "standoutHitter": {
-        "name": "강민호",
-        "stat": "20%(2타수 2득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "배찬승",
-        "stat": "7회말 삼진 아웃승리확률69% → 76.8%",
-        "rank": 1
       }
     }
   ],

@@ -1,11 +1,33 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-14T01:29:09+09:00",
-  "gameDate": "2026-04-14",
+  "updatedAt": "2026-04-15T01:27:45+09:00",
+  "gameDate": "2026-04-15",
   "opponent": "롯데",
   "opponentSlug": "lotte",
   "last10": [
+    {
+      "date": "2026-04-14",
+      "result": "W",
+      "opponent": "롯데",
+      "homeAway": "home",
+      "score": "2-1",
+      "stadium": "잠실",
+      "winningPitcher": "김진성",
+      "losingPitcher": "박정민",
+      "savePitcher": "유영찬",
+      "gameId": "20260414LTLG0",
+      "standoutHitter": {
+        "name": "오스틴",
+        "stat": "25%(4타수 2득점 3안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "우강훈",
+        "stat": "7회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률40.3% → 59.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-15",
       "result": "L",
@@ -201,28 +223,6 @@
       "standoutPitcher": {
         "name": "장현식",
         "stat": "7회초 3루수 병살타 아웃 (3루수->1루수 송구아웃)승리확률18.5% → 25.1%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-07-18",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "home",
-      "score": "2-1",
-      "stadium": "잠실",
-      "winningPitcher": "손주영",
-      "losingPitcher": "감보아",
-      "savePitcher": "유영찬",
-      "gameId": "20250718LTLG0",
-      "standoutHitter": {
-        "name": "이주헌",
-        "stat": "7.8%(2타수 0득점 1안타 1타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "유영찬",
-        "stat": "9회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률81.6% → 100%",
         "rank": 1
       }
     }

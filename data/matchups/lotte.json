@@ -1,11 +1,33 @@
 {
   "team": "Lotte Giants",
   "slug": "lotte",
-  "updatedAt": "2026-04-14T01:29:29+09:00",
-  "gameDate": "2026-04-14",
+  "updatedAt": "2026-04-15T01:28:03+09:00",
+  "gameDate": "2026-04-15",
   "opponent": "LG",
   "opponentSlug": "lg",
   "last10": [
+    {
+      "date": "2026-04-14",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "1-2",
+      "stadium": "잠실",
+      "winningPitcher": "김진성",
+      "losingPitcher": "박정민",
+      "savePitcher": "유영찬",
+      "gameId": "20260414LTLG0",
+      "standoutHitter": {
+        "name": "노진혁",
+        "stat": "24.8%(2타수 0득점 2안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "나균안",
+        "stat": "4회말 좌익수 플라이 아웃 3루주자 박해민 : 태그아웃 (좌익수->포수 태그아웃)승리확률28.3% → 37.8%",
+        "rank": 5
+      }
+    },
     {
       "date": "2026-03-15",
       "result": "W",
@@ -202,28 +224,6 @@
         "name": "홍민기",
         "stat": "7회말 삼진 아웃승리확률69.3% → 75%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2025-07-18",
-      "result": "L",
-      "opponent": "LG",
-      "homeAway": "away",
-      "score": "1-2",
-      "stadium": "잠실",
-      "winningPitcher": "손주영",
-      "losingPitcher": "감보아",
-      "savePitcher": "유영찬",
-      "gameId": "20250718LTLG0",
-      "standoutHitter": {
-        "name": "한태양",
-        "stat": "9.2%(3타수 0득점 1안타 0타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "감보아",
-        "stat": "8",
-        "rank": 1
       }
     }
   ],

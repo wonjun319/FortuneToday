@@ -1,11 +1,33 @@
 {
   "team": "NC Dinos",
   "slug": "nc",
-  "updatedAt": "2026-04-14T01:29:45+09:00",
-  "gameDate": "2026-04-14",
+  "updatedAt": "2026-04-15T01:28:18+09:00",
+  "gameDate": "2026-04-15",
   "opponent": "KT",
   "opponentSlug": "kt",
   "last10": [
+    {
+      "date": "2026-04-14",
+      "result": "W",
+      "opponent": "KT",
+      "homeAway": "home",
+      "score": "7-4",
+      "stadium": "창원",
+      "winningPitcher": "버하겐",
+      "losingPitcher": "고영표",
+      "savePitcher": "류진욱",
+      "gameId": "20260414KTNC0",
+      "standoutHitter": {
+        "name": "김형준",
+        "stat": "10.4%(3타수 0득점 1안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "버하겐",
+        "stat": "1회초 1루수 파울플라이 아웃승리확률34.6% → 41.2%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "L",
@@ -195,33 +217,11 @@
         "stat": "3회초 삼진 아웃승리확률32.3% → 37%",
         "rank": 2
       }
-    },
-    {
-      "date": "2025-07-22",
-      "result": "L",
-      "opponent": "KT",
-      "homeAway": "home",
-      "score": "0-7",
-      "stadium": "창원",
-      "winningPitcher": "고영표",
-      "losingPitcher": "라일리",
-      "savePitcher": "",
-      "gameId": "20250722KTNC0",
-      "standoutHitter": {
-        "name": "김휘집",
-        "stat": "1",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "라일리",
-        "stat": "2회초 2루수 라인드라이브 아웃승리확률44.6% → 48.8%",
-        "rank": 3
-      }
     }
   ],
   "summary": {
-    "wins": 4,
-    "losses": 5,
+    "wins": 5,
+    "losses": 4,
     "draws": 1
   }
 }

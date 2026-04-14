@@ -1,8 +1,30 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-14T01:29:36+09:00",
+  "updatedAt": "2026-04-15T01:28:10+09:00",
   "last10": [
+    {
+      "date": "2026-04-14",
+      "result": "L",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "4-7",
+      "stadium": "창원",
+      "winningPitcher": "버하겐",
+      "losingPitcher": "고영표",
+      "savePitcher": "류진욱",
+      "gameId": "20260414KTNC0",
+      "standoutHitter": {
+        "name": "권동진",
+        "stat": "7%(3타수 0득점 1안타 3타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "고영표",
+        "stat": "1회말 삼진 아웃승리확률35.1% → 39.9%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-12",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "오원석",
         "stat": "4회말 삼진 아웃승리확률84.8% → 87.5%",
         "rank": 4
-      }
-    },
-    {
-      "date": "2026-04-01",
-      "result": "W",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "14-11",
-      "stadium": "대전",
-      "winningPitcher": "박영현",
-      "losingPitcher": "김도빈",
-      "savePitcher": "김민수",
-      "gameId": "20260401KTHH0",
-      "standoutHitter": {
-        "name": "김현수",
-        "stat": "59.6%(6타수 1득점 3안타 4타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "박영현",
-        "stat": "8회말 좌익수 파울플라이 아웃승리확률40.6% → 50%",
-        "rank": 2
       }
     }
   ]

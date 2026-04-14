@@ -1,8 +1,30 @@
 {
   "team": "Lotte Giants",
   "slug": "lotte",
-  "updatedAt": "2026-04-14T01:29:26+09:00",
+  "updatedAt": "2026-04-15T01:28:01+09:00",
   "last10": [
+    {
+      "date": "2026-04-14",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "1-2",
+      "stadium": "잠실",
+      "winningPitcher": "김진성",
+      "losingPitcher": "박정민",
+      "savePitcher": "유영찬",
+      "gameId": "20260414LTLG0",
+      "standoutHitter": {
+        "name": "노진혁",
+        "stat": "24.8%(2타수 0득점 2안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "나균안",
+        "stat": "4회말 좌익수 플라이 아웃 3루주자 박해민 : 태그아웃 (좌익수->포수 태그아웃)승리확률28.3% → 37.8%",
+        "rank": 5
+      }
+    },
     {
       "date": "2026-04-12",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "김진욱",
         "stat": "3회말 삼진 아웃승리확률54.6% → 61.1%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2026-04-01",
-      "result": "L",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "4-5",
-      "stadium": "창원",
-      "winningPitcher": "류진욱",
-      "losingPitcher": "김원중",
-      "savePitcher": "",
-      "gameId": "20260401LTNC0",
-      "standoutHitter": {
-        "name": "전민재",
-        "stat": "10.8%(3타수 0득점 2안타 1타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "박정민",
-        "stat": "6회말 삼진 아웃승리확률59.9% → 67.3%",
         "rank": 2
       }
     }

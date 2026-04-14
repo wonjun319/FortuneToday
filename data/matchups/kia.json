@@ -1,11 +1,33 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-14T01:29:04+09:00",
-  "gameDate": "2026-04-14",
+  "updatedAt": "2026-04-15T01:27:41+09:00",
+  "gameDate": "2026-04-15",
   "opponent": "키움",
   "opponentSlug": "kiwoom",
   "last10": [
+    {
+      "date": "2026-04-14",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "6-2",
+      "stadium": "광주",
+      "winningPitcher": "양현종",
+      "losingPitcher": "하영민",
+      "savePitcher": "",
+      "gameId": "20260414WOHT0",
+      "standoutHitter": {
+        "name": "김도영",
+        "stat": "17.7%(3타수 1득점 1안타 4타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "양현종",
+        "stat": "4회초 좌익수 플라이 아웃승리확률57.2% → 62.3%",
+        "rank": 2
+      }
+    },
     {
       "date": "2025-09-24",
       "result": "W",
@@ -202,28 +224,6 @@
         "name": "양현종",
         "stat": "3회초 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률37% → 44.1%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2025-05-27",
-      "result": "W",
-      "opponent": "키움",
-      "homeAway": "home",
-      "score": "7-5",
-      "stadium": "광주",
-      "winningPitcher": "이준영",
-      "losingPitcher": "양지율",
-      "savePitcher": "",
-      "gameId": "20250527WOHT0",
-      "standoutHitter": {
-        "name": "최형우",
-        "stat": "25.4%(4타수 2득점 3안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "이준영",
-        "stat": "7회초 2루수 병살타 아웃 (2루수->1루수 송구아웃)승리확률45% → 57.3%",
-        "rank": 2
       }
     }
   ],
