@@ -1,8 +1,30 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-04-15T01:28:06+09:00",
+  "updatedAt": "2026-04-16T01:25:19+09:00",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "home",
+      "score": "5-13",
+      "stadium": "대전",
+      "winningPitcher": "장찬희",
+      "losingPitcher": "에르난데스",
+      "savePitcher": "",
+      "gameId": "20260415SSHH0",
+      "standoutHitter": {
+        "name": "이원석",
+        "stat": "2",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "에르난데스",
+        "stat": "1회초 삼진 아웃승리확률50% → 52.3%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "조동욱",
         "stat": "6회말 중견수 플라이 아웃승리확률82.3% → 87.4%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2026-04-02",
-      "result": "L",
-      "opponent": "KT",
-      "homeAway": "home",
-      "score": "8-13",
-      "stadium": "대전",
-      "winningPitcher": "오원석",
-      "losingPitcher": "문동주",
-      "savePitcher": "",
-      "gameId": "20260402KTHH0",
-      "standoutHitter": {
-        "name": "문현빈",
-        "stat": "3.8%(5타수 1득점 3안타 3타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "문동주",
-        "stat": "1회초 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)승리확률51.8% → 55.1%",
-        "rank": 1
       }
     }
   ]

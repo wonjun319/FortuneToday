@@ -1,11 +1,33 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-15T01:27:45+09:00",
-  "gameDate": "2026-04-15",
+  "updatedAt": "2026-04-16T01:25:01+09:00",
+  "gameDate": "2026-04-16",
   "opponent": "롯데",
   "opponentSlug": "lotte",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "L",
+      "opponent": "롯데",
+      "homeAway": "home",
+      "score": "0-2",
+      "stadium": "잠실",
+      "winningPitcher": "김진욱",
+      "losingPitcher": "웰스",
+      "savePitcher": "최준용",
+      "gameId": "20260415LTLG0",
+      "standoutHitter": {
+        "name": "박해민",
+        "stat": "6.7%(3타수 0득점 1안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "웰스",
+        "stat": "3",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "W",
@@ -201,28 +223,6 @@
       "standoutPitcher": {
         "name": "김진성",
         "stat": "6회초 삼진 아웃승리확률47.6% → 58.1%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-07-19",
-      "result": "L",
-      "opponent": "롯데",
-      "homeAway": "home",
-      "score": "1-6",
-      "stadium": "잠실",
-      "winningPitcher": "데이비슨",
-      "losingPitcher": "에르난데스",
-      "savePitcher": "",
-      "gameId": "20250719LTLG0",
-      "standoutHitter": {
-        "name": "천성호",
-        "stat": "5.4%(2타수 0득점 1안타 0타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "장현식",
-        "stat": "7회초 3루수 병살타 아웃 (3루수->1루수 송구아웃)승리확률18.5% → 25.1%",
         "rank": 1
       }
     }

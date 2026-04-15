@@ -1,11 +1,33 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-04-15T01:27:54+09:00",
-  "gameDate": "2026-04-15",
+  "updatedAt": "2026-04-16T01:25:09+09:00",
+  "gameDate": "2026-04-16",
   "opponent": "SSG",
   "opponentSlug": "ssg",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "L",
+      "opponent": "SSG",
+      "homeAway": "away",
+      "score": "0-6",
+      "stadium": "문학",
+      "winningPitcher": "이로운",
+      "losingPitcher": "이영하",
+      "savePitcher": "",
+      "gameId": "20260415OBSK0",
+      "standoutHitter": {
+        "name": "박준순",
+        "stat": "6.1%(3타수 0득점 1안타 0타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "이영하",
+        "stat": "1회말 포수 스트라이크 낫 아웃 (포수 태그아웃)승리확률37.7% → 44.8%",
+        "rank": 5
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "W",
@@ -203,33 +225,11 @@
         "stat": "8회말 삼진 아웃승리확률25.6% → 39.1%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-07-19",
-      "result": "W",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "5-0",
-      "stadium": "문학",
-      "winningPitcher": "콜어빈",
-      "losingPitcher": "앤더슨",
-      "savePitcher": "",
-      "gameId": "20250719OBSK0",
-      "standoutHitter": {
-        "name": "오명진",
-        "stat": "14.7%(5타수 1득점 2안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "콜어빈",
-        "stat": "2회말 삼진 아웃승리확률52.4% → 60.1%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 5,
+    "wins": 4,
+    "losses": 6,
     "draws": 0
   }
 }

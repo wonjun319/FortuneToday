@@ -1,8 +1,30 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-15T01:27:48+09:00",
+  "updatedAt": "2026-04-16T01:25:03+09:00",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "6-0",
+      "stadium": "문학",
+      "winningPitcher": "이로운",
+      "losingPitcher": "이영하",
+      "savePitcher": "",
+      "gameId": "20260415OBSK0",
+      "standoutHitter": {
+        "name": "고명준",
+        "stat": "17.5%(4타수 1득점 1안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김민",
+        "stat": "6회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률73.9% → 89.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "화이트",
         "stat": "1회말 포수 스트라이크 낫 아웃 (포수 태그아웃)승리확률53.9% → 56.4%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2026-04-02",
-      "result": "W",
-      "opponent": "키움",
-      "homeAway": "home",
-      "score": "11-1",
-      "stadium": "문학",
-      "winningPitcher": "최민준",
-      "losingPitcher": "정현우",
-      "savePitcher": "",
-      "gameId": "20260402WOSK0",
-      "standoutHitter": {
-        "name": "최정",
-        "stat": "15.4%(3타수 2득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "최민준",
-        "stat": "5회초 투수 병살타 아웃 (투수->2루수->1루수 송구아웃)승리확률89.9% → 94.7%",
-        "rank": 1
       }
     }
   ]

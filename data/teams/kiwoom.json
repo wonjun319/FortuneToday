@@ -1,8 +1,30 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-15T01:28:20+09:00",
+  "updatedAt": "2026-04-16T01:25:32+09:00",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "5-7",
+      "stadium": "광주",
+      "winningPitcher": "이태양",
+      "losingPitcher": "정세영",
+      "savePitcher": "성영탁",
+      "gameId": "20260415WOHT0",
+      "standoutHitter": {
+        "name": "박주홍",
+        "stat": "18.5%(4타수 1득점 3안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "박진형",
+        "stat": "2",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "알칸타라",
         "stat": "6회초 좌익수 플라이 아웃승리확률85.2% → 89.6%",
         "rank": 4
-      }
-    },
-    {
-      "date": "2026-04-02",
-      "result": "L",
-      "opponent": "SSG",
-      "homeAway": "away",
-      "score": "1-11",
-      "stadium": "문학",
-      "winningPitcher": "최민준",
-      "losingPitcher": "정현우",
-      "savePitcher": "",
-      "gameId": "20260402WOSK0",
-      "standoutHitter": {
-        "name": "박찬혁",
-        "stat": "4.6%(3타수 0득점 2안타 0타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "정현우",
-        "stat": "1회말 포수 파울플라이 아웃승리확률42.1% → 45.1%",
-        "rank": 3
       }
     }
   ]

@@ -1,11 +1,33 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-15T01:27:50+09:00",
-  "gameDate": "2026-04-15",
+  "updatedAt": "2026-04-16T01:25:05+09:00",
+  "gameDate": "2026-04-16",
   "opponent": "두산",
   "opponentSlug": "doosan",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "6-0",
+      "stadium": "문학",
+      "winningPitcher": "이로운",
+      "losingPitcher": "이영하",
+      "savePitcher": "",
+      "gameId": "20260415OBSK0",
+      "standoutHitter": {
+        "name": "고명준",
+        "stat": "17.5%(4타수 1득점 1안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김민",
+        "stat": "6회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률73.9% → 89.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "L",
@@ -203,33 +225,11 @@
         "stat": "6회초 삼진 아웃승리확률49.9% → 58.1%",
         "rank": 3
       }
-    },
-    {
-      "date": "2025-07-19",
-      "result": "L",
-      "opponent": "두산",
-      "homeAway": "home",
-      "score": "0-5",
-      "stadium": "문학",
-      "winningPitcher": "콜어빈",
-      "losingPitcher": "앤더슨",
-      "savePitcher": "",
-      "gameId": "20250719OBSK0",
-      "standoutHitter": {
-        "name": "에레디아",
-        "stat": "4.4%(3타수 0득점 1안타 0타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "앤더슨",
-        "stat": "2회초 포수 스트라이크 낫 아웃 (포수 태그아웃)승리확률39.6% → 42.7%",
-        "rank": 5
-      }
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 5,
+    "wins": 6,
+    "losses": 4,
     "draws": 0
   }
 }

@@ -1,8 +1,30 @@
 {
   "team": "Lotte Giants",
   "slug": "lotte",
-  "updatedAt": "2026-04-15T01:28:01+09:00",
+  "updatedAt": "2026-04-16T01:25:15+09:00",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "2-0",
+      "stadium": "잠실",
+      "winningPitcher": "김진욱",
+      "losingPitcher": "웰스",
+      "savePitcher": "최준용",
+      "gameId": "20260415LTLG0",
+      "standoutHitter": {
+        "name": "장두성",
+        "stat": "13%(1타수 0득점 1안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "박정민",
+        "stat": "7회말 삼진 아웃승리확률64.4% → 72.3%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "로드리게스",
         "stat": "2회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률16.7% → 21%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-02",
-      "result": "L",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "4-8",
-      "stadium": "창원",
-      "winningPitcher": "신영우",
-      "losingPitcher": "쿄야마",
-      "savePitcher": "",
-      "gameId": "20260402LTNC0",
-      "standoutHitter": {
-        "name": "노진혁",
-        "stat": "12.5%(3타수 1득점 2안타 1타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "김진욱",
-        "stat": "3회말 삼진 아웃승리확률54.6% → 61.1%",
-        "rank": 2
       }
     }
   ]

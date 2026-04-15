@@ -1,11 +1,33 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-15T01:27:58+09:00",
-  "gameDate": "2026-04-15",
+  "updatedAt": "2026-04-16T01:25:12+09:00",
+  "gameDate": "2026-04-16",
   "opponent": "한화",
   "opponentSlug": "hanwha",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "13-5",
+      "stadium": "대전",
+      "winningPitcher": "장찬희",
+      "losingPitcher": "에르난데스",
+      "savePitcher": "",
+      "gameId": "20260415SSHH0",
+      "standoutHitter": {
+        "name": "전병우",
+        "stat": "12.8%(6타수 2득점 3안타 4타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "장찬희",
+        "stat": "4회말 삼진 아웃승리확률82.7% → 85.1%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "W",
@@ -203,33 +225,11 @@
         "stat": "7회초 좌익수 플라이 아웃승리확률63.8% → 77.5%",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-09-06",
-      "result": "L",
-      "opponent": "한화",
-      "homeAway": "home",
-      "score": "4-7",
-      "stadium": "대구",
-      "winningPitcher": "문동주",
-      "losingPitcher": "이승현",
-      "savePitcher": "김서현",
-      "gameId": "20250906HHSS0",
-      "standoutHitter": {
-        "name": "김헌곤",
-        "stat": "19.3%(1타수 0득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "이승현",
-        "stat": "2회초 1루수 병살타 아웃 (1루수->유격수->1루수 송구아웃)승리확률12.8% → 19.1%",
-        "rank": 3
-      }
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 5,
+    "wins": 6,
+    "losses": 4,
     "draws": 0
   }
 }

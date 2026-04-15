@@ -1,11 +1,33 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-15T01:28:13+09:00",
-  "gameDate": "2026-04-15",
+  "updatedAt": "2026-04-16T01:25:25+09:00",
+  "gameDate": "2026-04-16",
   "opponent": "NC",
   "opponentSlug": "nc",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "10-2",
+      "stadium": "창원",
+      "winningPitcher": "오원석",
+      "losingPitcher": "신민혁",
+      "savePitcher": "",
+      "gameId": "20260415KTNC0",
+      "standoutHitter": {
+        "name": "장성우",
+        "stat": "20.4%(3타수 2득점 2안타 4타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "오원석",
+        "stat": "2회말 삼진 아웃승리확률63.6% → 66.3%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "L",
@@ -193,28 +215,6 @@
       "standoutPitcher": {
         "name": "박영현",
         "stat": "9회말 우익수 플라이 아웃승리확률76.6% → 88.8%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-07-23",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "9-2",
-      "stadium": "창원",
-      "winningPitcher": "이상동",
-      "losingPitcher": "로건",
-      "savePitcher": "",
-      "gameId": "20250723KTNC0",
-      "standoutHitter": {
-        "name": "강백호",
-        "stat": "24%(1타수 1득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "패트릭",
-        "stat": "1회말 유격수 병살타 아웃 (유격수->1루수 송구아웃)승리확률62.8% → 68%",
         "rank": 1
       }
     }

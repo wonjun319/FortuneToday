@@ -1,11 +1,33 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-04-15T01:28:08+09:00",
-  "gameDate": "2026-04-15",
+  "updatedAt": "2026-04-16T01:25:21+09:00",
+  "gameDate": "2026-04-16",
   "opponent": "삼성",
   "opponentSlug": "samsung",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "home",
+      "score": "5-13",
+      "stadium": "대전",
+      "winningPitcher": "장찬희",
+      "losingPitcher": "에르난데스",
+      "savePitcher": "",
+      "gameId": "20260415SSHH0",
+      "standoutHitter": {
+        "name": "이원석",
+        "stat": "2",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "에르난데스",
+        "stat": "1회초 삼진 아웃승리확률50% → 52.3%",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "L",
@@ -203,33 +225,11 @@
         "stat": "4",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-09-06",
-      "result": "W",
-      "opponent": "삼성",
-      "homeAway": "away",
-      "score": "7-4",
-      "stadium": "대구",
-      "winningPitcher": "문동주",
-      "losingPitcher": "이승현",
-      "savePitcher": "김서현",
-      "gameId": "20250906HHSS0",
-      "standoutHitter": {
-        "name": "문현빈",
-        "stat": "8.7%(5타수 1득점 3안타 1타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "김서현",
-        "stat": "8회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률84.3% → 95.8%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 5,
+    "wins": 4,
+    "losses": 6,
     "draws": 0
   }
 }

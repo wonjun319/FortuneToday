@@ -1,8 +1,30 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-15T01:26:30+09:00",
+  "updatedAt": "2026-04-16T01:23:52+09:00",
   "last10": [
+    {
+      "date": "2026-04-15",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "7-5",
+      "stadium": "광주",
+      "winningPitcher": "이태양",
+      "losingPitcher": "정세영",
+      "savePitcher": "성영탁",
+      "gameId": "20260415WOHT0",
+      "standoutHitter": {
+        "name": "김도영",
+        "stat": "17%(4타수 1득점 3안타 2타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "성영탁",
+        "stat": "9회초 좌익수 플라이 아웃승리확률85.3% → 100%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-14",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "네일",
         "stat": "3회초 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률37% → 44.1%",
-        "rank": 3
-      }
-    },
-    {
-      "date": "2026-04-02",
-      "result": "L",
-      "opponent": "LG",
-      "homeAway": "away",
-      "score": "1-2",
-      "stadium": "잠실",
-      "winningPitcher": "웰스",
-      "losingPitcher": "김태형",
-      "savePitcher": "유영찬",
-      "gameId": "20260402HTLG0",
-      "standoutHitter": {
-        "name": "김선빈",
-        "stat": "8.4%(3타수 0득점 1안타 0타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "전상현",
-        "stat": "7회말 삼진 아웃승리확률17.8% → 23.9%",
         "rank": 3
       }
     }
