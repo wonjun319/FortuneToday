@@ -1,8 +1,30 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-16T01:25:32+09:00",
+  "updatedAt": "2026-04-17T01:35:27+09:00",
   "last10": [
+    {
+      "date": "2026-04-16",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "away",
+      "score": "1-5",
+      "stadium": "광주",
+      "winningPitcher": "홍민규",
+      "losingPitcher": "알칸타라",
+      "savePitcher": "",
+      "gameId": "20260416WOHT0",
+      "standoutHitter": {
+        "name": "김건희",
+        "stat": "5.4%(4타수 0득점 2안타 1타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "알칸타라",
+        "stat": "5회말 2루수 플라이 아웃승리확률44.4% → 50%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-04-15",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "김성진",
         "stat": "8회초 유격수 병살타로 출루 2루주자 오스틴 : 태그아웃 (유격수->2루수->3루수 태그아웃)승리확률80.8% → 94.6%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-03",
-      "result": "W",
-      "opponent": "LG",
-      "homeAway": "home",
-      "score": "5-2",
-      "stadium": "고척",
-      "winningPitcher": "알칸타라",
-      "losingPitcher": "치리노스",
-      "savePitcher": "김재웅",
-      "gameId": "20260403LGWO0",
-      "standoutHitter": {
-        "name": "브룩스",
-        "stat": "21.1%(4타수 2득점 4안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "알칸타라",
-        "stat": "6회초 좌익수 플라이 아웃승리확률85.2% → 89.6%",
-        "rank": 4
       }
     }
   ]

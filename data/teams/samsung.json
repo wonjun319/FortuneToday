@@ -1,8 +1,30 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-16T01:25:11+09:00",
+  "updatedAt": "2026-04-17T01:34:58+09:00",
   "last10": [
+    {
+      "date": "2026-04-16",
+      "result": "W",
+      "opponent": "한화",
+      "homeAway": "away",
+      "score": "6-1",
+      "stadium": "대전",
+      "winningPitcher": "후라도",
+      "losingPitcher": "왕옌청",
+      "savePitcher": "",
+      "gameId": "20260416SSHH0",
+      "standoutHitter": {
+        "name": "이재현",
+        "stat": "26.2%(5타수 0득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "후라도",
+        "stat": "5",
+        "rank": 2
+      }
+    },
     {
       "date": "2026-04-15",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "최원태",
         "stat": "5회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률52% → 62.6%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-03",
-      "result": "W",
-      "opponent": "KT",
-      "homeAway": "away",
-      "score": "2-1",
-      "stadium": "수원",
-      "winningPitcher": "후라도",
-      "losingPitcher": "사우어",
-      "savePitcher": "김재윤",
-      "gameId": "20260403SSKT0",
-      "standoutHitter": {
-        "name": "류지혁",
-        "stat": "16%(4타수 0득점 2안타 1타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "배찬승",
-        "stat": "8회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률57.5% → 77.9%",
         "rank": 1
       }
     }

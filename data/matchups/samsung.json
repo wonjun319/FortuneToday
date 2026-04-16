@@ -1,235 +1,235 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-16T01:25:12+09:00",
-  "gameDate": "2026-04-16",
-  "opponent": "한화",
-  "opponentSlug": "hanwha",
+  "updatedAt": "2026-04-17T01:35:00+09:00",
+  "gameDate": "2026-04-17",
+  "opponent": "LG",
+  "opponentSlug": "lg",
   "last10": [
     {
-      "date": "2026-04-15",
-      "result": "W",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "13-5",
-      "stadium": "대전",
-      "winningPitcher": "장찬희",
-      "losingPitcher": "에르난데스",
+      "date": "2026-03-22",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "13-14",
+      "stadium": "대구",
+      "winningPitcher": "임찬규",
+      "losingPitcher": "최원태",
       "savePitcher": "",
-      "gameId": "20260415SSHH0",
+      "gameId": "20260322LGSS0",
       "standoutHitter": {
-        "name": "전병우",
-        "stat": "12.8%(6타수 2득점 3안타 4타점)",
+        "name": "구자욱",
+        "stat": "21.9%(3타수 0득점 2안타 3타점)",
         "rank": 1
       },
       "standoutPitcher": {
-        "name": "장찬희",
-        "stat": "4회말 삼진 아웃승리확률82.7% → 85.1%",
+        "name": "최원태",
+        "stat": "4",
         "rank": 1
       }
     },
     {
-      "date": "2026-04-14",
+      "date": "2026-03-21",
       "result": "W",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "6-5",
-      "stadium": "대전",
-      "winningPitcher": "이승현",
-      "losingPitcher": "김서현",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "4-3",
+      "stadium": "대구",
+      "winningPitcher": "후라도",
+      "losingPitcher": "이우찬",
       "savePitcher": "김재윤",
-      "gameId": "20260414SSHH0",
+      "gameId": "20260321LGSS0",
       "standoutHitter": {
-        "name": "최형우",
-        "stat": "47.4%(2타수 1득점 1안타 1타점)",
+        "name": "이재현",
+        "stat": "17.4%(2타수 1득점 1안타 2타점)",
         "rank": 1
       },
       "standoutPitcher": {
         "name": "김재윤",
-        "stat": "9회말 삼진 아웃승리확률76.5% → 86.5%",
-        "rank": 3
-      }
-    },
-    {
-      "date": "2026-03-13",
-      "result": "L",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "2-3",
-      "stadium": "대전",
-      "winningPitcher": "권민규",
-      "losingPitcher": "이승현",
-      "savePitcher": "김서현",
-      "gameId": "20260313SSHH0",
-      "standoutHitter": {
-        "name": "이성규",
-        "stat": "13.7%(3타수 1득점 2안타 1타점)",
+        "stat": "9회초 3루수 파울플라이 아웃승리확률81.5% → 89.7%",
         "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "배찬승",
-        "stat": "7회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률22.6% → 27.7%",
-        "rank": 5
       }
     },
     {
-      "date": "2026-03-12",
+      "date": "2025-09-20",
       "result": "W",
-      "opponent": "한화",
+      "opponent": "LG",
       "homeAway": "away",
-      "score": "12-3",
-      "stadium": "대전",
-      "winningPitcher": "양창섭",
-      "losingPitcher": "왕옌청",
+      "score": "14-4",
+      "stadium": "잠실",
+      "winningPitcher": "원태인",
+      "losingPitcher": "톨허스트",
       "savePitcher": "",
-      "gameId": "20260312SSHH0",
+      "gameId": "20250920SSLG0",
       "standoutHitter": {
-        "name": "강민호",
-        "stat": "14.7%(3타수 1득점 2안타 2타점)",
+        "name": "이재현",
+        "stat": "20.7%(5타수 2득점 4안타 3타점)",
         "rank": 1
       },
       "standoutPitcher": {
-        "name": "양창섭",
-        "stat": "1회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률65.8% → 75.5%",
+        "name": "원태인",
+        "stat": "5회말 1루수 병살타 아웃 (1루수->유격수->1루수 송구아웃)승리확률74.3% → 82.9%",
         "rank": 1
       }
     },
     {
-      "date": "2025-10-24",
+      "date": "2025-08-03",
       "result": "L",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "2-11",
-      "stadium": "대전",
-      "winningPitcher": "폰세",
-      "losingPitcher": "최원태",
-      "savePitcher": "와이스",
-      "gameId": "20251024SSHH0",
-      "standoutHitter": {
-        "name": "김지찬",
-        "stat": "9.9%(5타수 0득점 1안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "최원태",
-        "stat": "3회말 2루수 라인드라이브 아웃승리확률15.6% → 19.1%",
-        "rank": 3
-      }
-    },
-    {
-      "date": "2025-10-22",
-      "result": "W",
-      "opponent": "한화",
+      "opponent": "LG",
       "homeAway": "home",
-      "score": "7-4",
+      "score": "3-6",
       "stadium": "대구",
-      "winningPitcher": "가라비토",
-      "losingPitcher": "한승혁",
-      "savePitcher": "김재윤",
-      "gameId": "20251022HHSS0",
+      "winningPitcher": "치리노스",
+      "losingPitcher": "가라비토",
+      "savePitcher": "이정용",
+      "gameId": "20250803LGSS0",
       "standoutHitter": {
-        "name": "김영웅",
-        "stat": "59.4%(4타수 2득점 3안타 6타점)",
-        "rank": 1
+        "name": "구자욱",
+        "stat": "14%(3타수 0득점 3안타 0타점)",
+        "rank": 4
       },
       "standoutPitcher": {
         "name": "가라비토",
-        "stat": "7회초 좌익수 플라이 아웃승리확률50% → 59.6%",
+        "stat": "5회초 중견수 라인드라이브 아웃승리확률37.6% → 43.6%",
+        "rank": 5
+      }
+    },
+    {
+      "date": "2025-08-02",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "2-3",
+      "stadium": "대구",
+      "winningPitcher": "유영찬",
+      "losingPitcher": "김재윤",
+      "savePitcher": "",
+      "gameId": "20250802LGSS0",
+      "standoutHitter": {
+        "name": "김성윤",
+        "stat": "29.3%(4타수 1득점 2안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "김재윤",
+        "stat": "8회초 우익수 플라이 아웃승리확률47.4% → 61.9%",
         "rank": 2
       }
     },
     {
-      "date": "2025-10-21",
+      "date": "2025-08-01",
       "result": "L",
-      "opponent": "한화",
+      "opponent": "LG",
       "homeAway": "home",
-      "score": "4-5",
+      "score": "2-4",
       "stadium": "대구",
-      "winningPitcher": "문동주",
+      "winningPitcher": "임찬규",
       "losingPitcher": "후라도",
-      "savePitcher": "",
-      "gameId": "20251021HHSS0",
+      "savePitcher": "유영찬",
+      "gameId": "20250801LGSS0",
       "standoutHitter": {
         "name": "김영웅",
-        "stat": "38.6%(3타수 1득점 2안타 3타점)",
-        "rank": 1
+        "stat": "8%(4타수 0득점 2안타 2타점)",
+        "rank": 2
       },
       "standoutPitcher": {
         "name": "후라도",
-        "stat": "4",
-        "rank": 2
+        "stat": "5회초 유격수 병살타 아웃 (유격수->1루수 송구아웃)승리확률37.8% → 43.6%",
+        "rank": 4
       }
     },
     {
-      "date": "2025-10-19",
-      "result": "W",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "7-3",
-      "stadium": "대전",
-      "winningPitcher": "최원태",
-      "losingPitcher": "와이스",
-      "savePitcher": "",
-      "gameId": "20251019SSHH0",
-      "standoutHitter": {
-        "name": "디아즈",
-        "stat": "12.5%(4타수 1득점 2안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "이호성",
-        "stat": "8회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률94.6% → 98%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2025-10-18",
+      "date": "2025-07-06",
       "result": "L",
-      "opponent": "한화",
-      "homeAway": "away",
-      "score": "8-9",
-      "stadium": "대전",
-      "winningPitcher": "폰세",
-      "losingPitcher": "배찬승",
-      "savePitcher": "김범수",
-      "gameId": "20251018SSHH0",
-      "standoutHitter": {
-        "name": "김영웅",
-        "stat": "14%(3타수 1득점 2안타 1타점)",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "양창섭",
-        "stat": "4회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률48.5% → 62.4%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-09-07",
-      "result": "W",
-      "opponent": "한화",
+      "opponent": "LG",
       "homeAway": "home",
-      "score": "4-3",
+      "score": "2-4",
       "stadium": "대구",
-      "winningPitcher": "원태인",
-      "losingPitcher": "황준서",
-      "savePitcher": "김재윤",
-      "gameId": "20250907HHSS0",
+      "winningPitcher": "에르난데스",
+      "losingPitcher": "후라도",
+      "savePitcher": "유영찬",
+      "gameId": "20250706LGSS0",
       "standoutHitter": {
-        "name": "강민호",
-        "stat": "9.1%(4타수 1득점 1안타 2타점)",
+        "name": "류지혁",
+        "stat": "10%(4타수 1득점 2안타 0타점)",
         "rank": 3
       },
       "standoutPitcher": {
-        "name": "이승민",
-        "stat": "7회초 좌익수 플라이 아웃승리확률63.8% → 77.5%",
+        "name": "후라도",
+        "stat": "2회초 삼진 아웃승리확률41.8% → 46.9%",
+        "rank": 5
+      }
+    },
+    {
+      "date": "2025-07-05",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "7-6",
+      "stadium": "대구",
+      "winningPitcher": "이승현",
+      "losingPitcher": "이정용",
+      "savePitcher": "이호성",
+      "gameId": "20250705LGSS0",
+      "standoutHitter": {
+        "name": "류지혁",
+        "stat": "50.9%(4타수 0득점 3안타 4타점)",
         "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "이승현",
+        "stat": "7회초 삼진 아웃승리확률47.5% → 59.6%",
+        "rank": 3
+      }
+    },
+    {
+      "date": "2025-07-04",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "4-1",
+      "stadium": "대구",
+      "winningPitcher": "이승현",
+      "losingPitcher": "송승기",
+      "savePitcher": "",
+      "gameId": "20250704LGSS0",
+      "standoutHitter": {
+        "name": "김지찬",
+        "stat": "15%(5타수 0득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "이승현",
+        "stat": "6회초 3루수 라인드라이브 아웃승리확률64.2% → 68.1%",
+        "rank": 2
+      }
+    },
+    {
+      "date": "2025-06-01",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "6-4",
+      "stadium": "잠실",
+      "winningPitcher": "임창민",
+      "losingPitcher": "박명근",
+      "savePitcher": "이호성",
+      "gameId": "20250601SSLG0",
+      "standoutHitter": {
+        "name": "김태훈",
+        "stat": "46.8%(1타수 1득점 1안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "레예스",
+        "stat": "3회말 유격수 플라이 아웃승리확률47.4% → 54.9%",
+        "rank": 2
       }
     }
   ],
   "summary": {
-    "wins": 6,
-    "losses": 4,
+    "wins": 5,
+    "losses": 5,
     "draws": 0
   }
 }

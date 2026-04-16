@@ -1,8 +1,30 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-16T01:23:52+09:00",
+  "updatedAt": "2026-04-17T01:33:39+09:00",
   "last10": [
+    {
+      "date": "2026-04-16",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "5-1",
+      "stadium": "광주",
+      "winningPitcher": "홍민규",
+      "losingPitcher": "알칸타라",
+      "savePitcher": "",
+      "gameId": "20260416WOHT0",
+      "standoutHitter": {
+        "name": "카스트로",
+        "stat": "32.3%(4타수 2득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "네일",
+        "stat": "1회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률42.3% → 51.8%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-15",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "이의리",
         "stat": "1회초 삼진 아웃승리확률36.6% → 41.8%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2026-04-03",
-      "result": "L",
-      "opponent": "NC",
-      "homeAway": "home",
-      "score": "2-5",
-      "stadium": "광주",
-      "winningPitcher": "구창모",
-      "losingPitcher": "네일",
-      "savePitcher": "임지민",
-      "gameId": "20260403NCHT0",
-      "standoutHitter": {
-        "name": "한준수",
-        "stat": "1%(2타수 1득점 1안타 1타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "네일",
-        "stat": "3회초 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률37% → 44.1%",
-        "rank": 3
       }
     }
   ]

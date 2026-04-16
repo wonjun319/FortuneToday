@@ -1,8 +1,30 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-16T01:25:03+09:00",
+  "updatedAt": "2026-04-17T01:34:47+09:00",
   "last10": [
+    {
+      "date": "2026-04-16",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "home",
+      "score": "2-1",
+      "stadium": "문학",
+      "winningPitcher": "김민",
+      "losingPitcher": "곽빈",
+      "savePitcher": "조병현",
+      "gameId": "20260416OBSK0",
+      "standoutHitter": {
+        "name": "박성한",
+        "stat": "30.1%(4타수 0득점 2안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "조병현",
+        "stat": "8회초 우익수 플라이 아웃승리확률73.7% → 85.5%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-15",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "조병현",
         "stat": "9회말 포수 파울플라이 아웃승리확률78.8% → 100%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-03",
-      "result": "W",
-      "opponent": "롯데",
-      "homeAway": "away",
-      "score": "17-2",
-      "stadium": "사직",
-      "winningPitcher": "화이트",
-      "losingPitcher": "로드리게스",
-      "savePitcher": "",
-      "gameId": "20260403SKLT0",
-      "standoutHitter": {
-        "name": "박성한",
-        "stat": "14.1%(5타수 2득점 4안타 4타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "화이트",
-        "stat": "1회말 포수 스트라이크 낫 아웃 (포수 태그아웃)승리확률53.9% → 56.4%",
-        "rank": 3
       }
     }
   ]

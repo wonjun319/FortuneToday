@@ -1,8 +1,30 @@
 {
   "team": "Lotte Giants",
   "slug": "lotte",
-  "updatedAt": "2026-04-16T01:25:15+09:00",
+  "updatedAt": "2026-04-17T01:35:03+09:00",
   "last10": [
+    {
+      "date": "2026-04-16",
+      "result": "L",
+      "opponent": "LG",
+      "homeAway": "away",
+      "score": "4-7",
+      "stadium": "잠실",
+      "winningPitcher": "장현식",
+      "losingPitcher": "최이준",
+      "savePitcher": "유영찬",
+      "gameId": "20260416LTLG0",
+      "standoutHitter": {
+        "name": "레이예스",
+        "stat": "31.2%(4타수 2득점 3안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "최이준",
+        "stat": "6회말 유격수 플라이 아웃승리확률37.7% → 43.6%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-04-15",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "비슬리",
         "stat": "3회초 우익수 플라이 아웃승리확률48.1% → 55.9%",
         "rank": 4
-      }
-    },
-    {
-      "date": "2026-04-03",
-      "result": "L",
-      "opponent": "SSG",
-      "homeAway": "home",
-      "score": "2-17",
-      "stadium": "사직",
-      "winningPitcher": "화이트",
-      "losingPitcher": "로드리게스",
-      "savePitcher": "",
-      "gameId": "20260403SKLT0",
-      "standoutHitter": {
-        "name": "한동희",
-        "stat": "3",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "로드리게스",
-        "stat": "2회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률16.7% → 21%",
-        "rank": 1
       }
     }
   ]
