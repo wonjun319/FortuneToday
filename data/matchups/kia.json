@@ -1,11 +1,33 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-17T01:34:39+09:00",
-  "gameDate": "2026-04-17",
+  "updatedAt": "2026-04-18T01:22:01+09:00",
+  "gameDate": "2026-04-18",
   "opponent": "두산",
   "opponentSlug": "doosan",
   "last10": [
+    {
+      "date": "2026-04-17",
+      "result": "W",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "7-3",
+      "stadium": "잠실",
+      "winningPitcher": "이의리",
+      "losingPitcher": "잭로그",
+      "savePitcher": "",
+      "gameId": "20260417HTOB0",
+      "standoutHitter": {
+        "name": "카스트로",
+        "stat": "10.9%(4타수 1득점 1안타 2타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "이태양",
+        "stat": "6회말 우익수 파울플라이 아웃승리확률80.7% → 87.4%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "D",
@@ -203,33 +225,11 @@
         "stat": "3회초 중견수 플라이 아웃승리확률15.1% → 19.3%",
         "rank": 3
       }
-    },
-    {
-      "date": "2025-06-05",
-      "result": "L",
-      "opponent": "두산",
-      "homeAway": "away",
-      "score": "1-2",
-      "stadium": "잠실",
-      "winningPitcher": "김택연",
-      "losingPitcher": "정해영",
-      "savePitcher": "",
-      "gameId": "20250605HTOB0",
-      "standoutHitter": {
-        "name": "오선우",
-        "stat": "8%(3타수 0득점 2안타 0타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "정해영",
-        "stat": "10회말 삼진 아웃승리확률28.1% → 37.6%",
-        "rank": 2
-      }
     }
   ],
   "summary": {
-    "wins": 3,
-    "losses": 5,
+    "wins": 4,
+    "losses": 4,
     "draws": 2
   }
 }

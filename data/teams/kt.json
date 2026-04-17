@@ -1,8 +1,30 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-17T01:35:14+09:00",
+  "updatedAt": "2026-04-18T01:22:39+09:00",
   "last10": [
+    {
+      "date": "2026-04-17",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "5-0",
+      "stadium": "수원",
+      "winningPitcher": "소형준",
+      "losingPitcher": "와일스",
+      "savePitcher": "",
+      "gameId": "20260417WOKT0",
+      "standoutHitter": {
+        "name": "장성우",
+        "stat": "12.7%(3타수 2득점 2안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "소형준",
+        "stat": "1회초 유격수 라인드라이브 아웃승리확률44.9% → 50.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-16",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "보쉴리",
         "stat": "6회초 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률68.6% → 82.9%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-04",
-      "result": "L",
-      "opponent": "삼성",
-      "homeAway": "home",
-      "score": "6-8",
-      "stadium": "수원",
-      "winningPitcher": "이승현",
-      "losingPitcher": "전용주",
-      "savePitcher": "최지광",
-      "gameId": "20260404SSKT0",
-      "standoutHitter": {
-        "name": "안현민",
-        "stat": "25.4%(5타수 1득점 3안타 1타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "소형준",
-        "stat": "4회초 삼진 아웃승리확률56.5% → 63.4%",
-        "rank": 3
       }
     }
   ]

@@ -1,11 +1,33 @@
 {
   "team": "KT Wiz",
   "slug": "kt",
-  "updatedAt": "2026-04-17T01:35:18+09:00",
-  "gameDate": "2026-04-17",
+  "updatedAt": "2026-04-18T01:22:41+09:00",
+  "gameDate": "2026-04-18",
   "opponent": "키움",
   "opponentSlug": "kiwoom",
   "last10": [
+    {
+      "date": "2026-04-17",
+      "result": "W",
+      "opponent": "키움",
+      "homeAway": "home",
+      "score": "5-0",
+      "stadium": "수원",
+      "winningPitcher": "소형준",
+      "losingPitcher": "와일스",
+      "savePitcher": "",
+      "gameId": "20260417WOKT0",
+      "standoutHitter": {
+        "name": "장성우",
+        "stat": "12.7%(3타수 2득점 2안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "소형준",
+        "stat": "1회초 유격수 라인드라이브 아웃승리확률44.9% → 50.6%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-20",
       "result": "W",
@@ -202,28 +224,6 @@
         "name": "헤이수스",
         "stat": "1회초 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)승리확률42.3% → 46.1%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2025-05-25",
-      "result": "W",
-      "opponent": "키움",
-      "homeAway": "away",
-      "score": "2-0",
-      "stadium": "고척",
-      "winningPitcher": "소형준",
-      "losingPitcher": "김선기",
-      "savePitcher": "박영현",
-      "gameId": "20250525KTWO0",
-      "standoutHitter": {
-        "name": "황재균",
-        "stat": "6.8%(3타수 0득점 1안타 1타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "박영현",
-        "stat": "9회말 좌익수 플라이 아웃승리확률90.1% → 100%",
-        "rank": 1
       }
     }
   ],

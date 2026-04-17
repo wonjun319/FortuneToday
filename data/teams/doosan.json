@@ -1,8 +1,30 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-04-17T01:34:53+09:00",
+  "updatedAt": "2026-04-18T01:22:23+09:00",
   "last10": [
+    {
+      "date": "2026-04-17",
+      "result": "L",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "3-7",
+      "stadium": "잠실",
+      "winningPitcher": "이의리",
+      "losingPitcher": "잭로그",
+      "savePitcher": "",
+      "gameId": "20260417HTOB0",
+      "standoutHitter": {
+        "name": "김민석",
+        "stat": "7.2%(1타수 0득점 1안타 1타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "잭로그",
+        "stat": "8",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-16",
       "result": "L",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "잭로그",
         "stat": "5회초 삼진 아웃승리확률39.9% → 49.9%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-04",
-      "result": "L",
-      "opponent": "한화",
-      "homeAway": "home",
-      "score": "3-9",
-      "stadium": "잠실",
-      "winningPitcher": "왕옌청",
-      "losingPitcher": "곽빈",
-      "savePitcher": "",
-      "gameId": "20260404HHOB0",
-      "standoutHitter": {
-        "name": "윤준호",
-        "stat": "3.4%(4타수 0득점 1안타 1타점)",
-        "rank": 5
-      },
-      "standoutPitcher": {
-        "name": "곽빈",
-        "stat": "1회초 삼진 아웃승리확률25.8% → 29.4%",
         "rank": 1
       }
     }
