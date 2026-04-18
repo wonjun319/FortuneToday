@@ -1,11 +1,33 @@
 {
   "team": "Samsung Lions",
   "slug": "samsung",
-  "updatedAt": "2026-04-18T01:22:28+09:00",
-  "gameDate": "2026-04-18",
+  "updatedAt": "2026-04-19T01:13:17+09:00",
+  "gameDate": "2026-04-19",
   "opponent": "LG",
   "opponentSlug": "lg",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "W",
+      "opponent": "LG",
+      "homeAway": "home",
+      "score": "7-2",
+      "stadium": "대구",
+      "winningPitcher": "이승민",
+      "losingPitcher": "임찬규",
+      "savePitcher": "",
+      "gameId": "20260418LGSS0",
+      "standoutHitter": {
+        "name": "전병우",
+        "stat": "11.6%(4타수 1득점 2안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "이승민",
+        "stat": "4회초 투수 병살타 아웃 (투수->유격수->1루수 송구아웃)승리확률46.4% → 56.4%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "L",
@@ -201,28 +223,6 @@
       "standoutPitcher": {
         "name": "이승현",
         "stat": "6회초 3루수 라인드라이브 아웃승리확률64.2% → 68.1%",
-        "rank": 2
-      }
-    },
-    {
-      "date": "2025-06-01",
-      "result": "W",
-      "opponent": "LG",
-      "homeAway": "away",
-      "score": "6-4",
-      "stadium": "잠실",
-      "winningPitcher": "임창민",
-      "losingPitcher": "박명근",
-      "savePitcher": "이호성",
-      "gameId": "20250601SSLG0",
-      "standoutHitter": {
-        "name": "김태훈",
-        "stat": "46.8%(1타수 1득점 1안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "레예스",
-        "stat": "3회말 유격수 플라이 아웃승리확률47.4% → 54.9%",
         "rank": 2
       }
     }

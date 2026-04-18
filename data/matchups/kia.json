@@ -1,11 +1,33 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-18T01:22:01+09:00",
-  "gameDate": "2026-04-18",
+  "updatedAt": "2026-04-19T01:12:52+09:00",
+  "gameDate": "2026-04-19",
   "opponent": "두산",
   "opponentSlug": "doosan",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "4-5",
+      "stadium": "잠실",
+      "winningPitcher": "윤태호",
+      "losingPitcher": "홍민규",
+      "savePitcher": "",
+      "gameId": "20260418HTOB0",
+      "standoutHitter": {
+        "name": "김도영",
+        "stat": "29.4%(4타수 1득점 1안타 2타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "홍민규",
+        "stat": "10회말 중견수 플라이 아웃승리확률17% → 28.8%",
+        "rank": 5
+      }
+    },
     {
       "date": "2026-04-17",
       "result": "W",
@@ -202,28 +224,6 @@
         "name": "전상현",
         "stat": "7회초 1루수 병살타 아웃 (1루수->유격수->1루수 송구아웃)승리확률61.5% → 75.2%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2025-07-29",
-      "result": "L",
-      "opponent": "두산",
-      "homeAway": "home",
-      "score": "6-9",
-      "stadium": "광주",
-      "winningPitcher": "최민석",
-      "losingPitcher": "김도현",
-      "savePitcher": "김택연",
-      "gameId": "20250729OBHT0",
-      "standoutHitter": {
-        "name": "김태군",
-        "stat": "4.4%(1타수 1득점 1안타 2타점)",
-        "rank": 4
-      },
-      "standoutPitcher": {
-        "name": "김도현",
-        "stat": "3회초 중견수 플라이 아웃승리확률15.1% → 19.3%",
-        "rank": 3
       }
     }
   ],

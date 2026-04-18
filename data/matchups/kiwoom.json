@@ -1,11 +1,33 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-18T01:22:49+09:00",
-  "gameDate": "2026-04-18",
+  "updatedAt": "2026-04-19T01:13:43+09:00",
+  "gameDate": "2026-04-19",
   "opponent": "KT",
   "opponentSlug": "kt",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "2-4",
+      "stadium": "수원",
+      "winningPitcher": "보쉴리",
+      "losingPitcher": "안우진",
+      "savePitcher": "박영현",
+      "gameId": "20260418WOKT0",
+      "standoutHitter": {
+        "name": "박주홍",
+        "stat": "9.2%(3타수 1득점 1안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "안우진",
+        "stat": "1회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률42.1% → 50%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-04-17",
       "result": "L",
@@ -203,33 +225,11 @@
         "stat": "4회말 유격수 인필드플라이 아웃승리확률34.5% → 40.1%",
         "rank": 5
       }
-    },
-    {
-      "date": "2025-07-01",
-      "result": "W",
-      "opponent": "KT",
-      "homeAway": "away",
-      "score": "7-3",
-      "stadium": "수원",
-      "winningPitcher": "박주성",
-      "losingPitcher": "헤이수스",
-      "savePitcher": "",
-      "gameId": "20250701WOKT0",
-      "standoutHitter": {
-        "name": "임지열",
-        "stat": "13.6%(4타수 1득점 3안타 3타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "주승우",
-        "stat": "9회말 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)승리확률95.9% → 99.8%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 4,
-    "losses": 6,
+    "wins": 3,
+    "losses": 7,
     "draws": 0
   }
 }

@@ -1,11 +1,33 @@
 {
   "team": "Doosan Bears",
   "slug": "doosan",
-  "updatedAt": "2026-04-18T01:22:25+09:00",
-  "gameDate": "2026-04-18",
+  "updatedAt": "2026-04-19T01:13:12+09:00",
+  "gameDate": "2026-04-19",
   "opponent": "KIA",
   "opponentSlug": "kia",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "W",
+      "opponent": "KIA",
+      "homeAway": "home",
+      "score": "5-4",
+      "stadium": "잠실",
+      "winningPitcher": "윤태호",
+      "losingPitcher": "홍민규",
+      "savePitcher": "",
+      "gameId": "20260418HTOB0",
+      "standoutHitter": {
+        "name": "정수빈",
+        "stat": "37%(3타수 0득점 2안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김택연",
+        "stat": "9회초 포수 스트라이크 낫 아웃 (포수 태그아웃)승리확률47.5% → 65.9%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-17",
       "result": "L",
@@ -201,28 +223,6 @@
       "standoutPitcher": {
         "name": "박신지",
         "stat": "11회말 좌익수 파울플라이 아웃승리확률33.1% → 50%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-07-29",
-      "result": "W",
-      "opponent": "KIA",
-      "homeAway": "away",
-      "score": "9-6",
-      "stadium": "광주",
-      "winningPitcher": "최민석",
-      "losingPitcher": "김도현",
-      "savePitcher": "김택연",
-      "gameId": "20250729OBHT0",
-      "standoutHitter": {
-        "name": "박준순",
-        "stat": "7.1%(5타수 0득점 1안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "최민석",
-        "stat": "2회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률63.8% → 69.3%",
         "rank": 1
       }
     }

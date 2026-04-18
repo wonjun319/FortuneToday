@@ -1,11 +1,33 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-04-18T01:22:37+09:00",
-  "gameDate": "2026-04-18",
+  "updatedAt": "2026-04-19T01:13:30+09:00",
+  "gameDate": "2026-04-19",
   "opponent": "롯데",
   "opponentSlug": "lotte",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "W",
+      "opponent": "롯데",
+      "homeAway": "away",
+      "score": "5-0",
+      "stadium": "사직",
+      "winningPitcher": "류현진",
+      "losingPitcher": "비슬리",
+      "savePitcher": "",
+      "gameId": "20260418HHLT0",
+      "standoutHitter": {
+        "name": "페라자",
+        "stat": "11.5%(4타수 2득점 3안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "류현진",
+        "stat": "2회말 중견수 플라이 아웃 2루주자 전준우 : 태그아웃 (중견수->유격수->3루수 태그아웃)승리확률43.4% → 50%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "L",
@@ -195,33 +217,11 @@
         "stat": "6",
         "rank": 1
       }
-    },
-    {
-      "date": "2025-06-18",
-      "result": "L",
-      "opponent": "롯데",
-      "homeAway": "away",
-      "score": "3-6",
-      "stadium": "사직",
-      "winningPitcher": "김강현",
-      "losingPitcher": "엄상백",
-      "savePitcher": "김원중",
-      "gameId": "20250618HHLT0",
-      "standoutHitter": {
-        "name": "최인호",
-        "stat": "2.7%(1타수 0득점 1안타 0타점)",
-        "rank": 3
-      },
-      "standoutPitcher": {
-        "name": "엄상백",
-        "stat": "2회말 삼진 아웃승리확률41.6% → 45.7%",
-        "rank": 1
-      }
     }
   ],
   "summary": {
-    "wins": 6,
-    "losses": 4,
+    "wins": 7,
+    "losses": 3,
     "draws": 0
   }
 }

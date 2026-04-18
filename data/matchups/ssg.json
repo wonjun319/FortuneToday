@@ -1,11 +1,33 @@
 {
   "team": "SSG Landers",
   "slug": "ssg",
-  "updatedAt": "2026-04-18T01:22:21+09:00",
-  "gameDate": "2026-04-18",
+  "updatedAt": "2026-04-19T01:13:08+09:00",
+  "gameDate": "2026-04-19",
   "opponent": "NC",
   "opponentSlug": "nc",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "W",
+      "opponent": "NC",
+      "homeAway": "away",
+      "score": "11-3",
+      "stadium": "창원",
+      "winningPitcher": "김건우",
+      "losingPitcher": "테일러",
+      "savePitcher": "",
+      "gameId": "20260418SKNC0",
+      "standoutHitter": {
+        "name": "최지훈",
+        "stat": "37.2%(5타수 2득점 2안타 3타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "김민",
+        "stat": "7회말 1루수 병살타 아웃 (1루수 1루 터치아웃) 1루주자 허윤 : 태그아웃 (1루수->유격수 태그아웃)승리확률59.7% → 78.9%",
+        "rank": 1
+      }
+    },
     {
       "date": "2025-10-04",
       "result": "L",
@@ -202,28 +224,6 @@
         "name": "최민준",
         "stat": "7회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률93% → 97.1%",
         "rank": 2
-      }
-    },
-    {
-      "date": "2025-07-04",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "away",
-      "score": "4-0",
-      "stadium": "창원",
-      "winningPitcher": "앤더슨",
-      "losingPitcher": "로건",
-      "savePitcher": "",
-      "gameId": "20250704SKNC0",
-      "standoutHitter": {
-        "name": "오태곤",
-        "stat": "6.2%(4타수 0득점 1안타 1타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "앤더슨",
-        "stat": "6회말 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)승리확률44.5% → 61.1%",
-        "rank": 1
       }
     }
   ],

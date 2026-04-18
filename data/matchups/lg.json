@@ -1,11 +1,33 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-18T01:22:17+09:00",
-  "gameDate": "2026-04-18",
+  "updatedAt": "2026-04-19T01:13:04+09:00",
+  "gameDate": "2026-04-19",
   "opponent": "삼성",
   "opponentSlug": "samsung",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "away",
+      "score": "2-7",
+      "stadium": "대구",
+      "winningPitcher": "이승민",
+      "losingPitcher": "임찬규",
+      "savePitcher": "",
+      "gameId": "20260418LGSS0",
+      "standoutHitter": {
+        "name": "오지환",
+        "stat": "4.5%(2타수 0득점 1안타 0타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "임찬규",
+        "stat": "3",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-03-22",
       "result": "W",
@@ -201,28 +223,6 @@
       "standoutPitcher": {
         "name": "송승기",
         "stat": "3회말 우익수 플라이 아웃승리확률32.6% → 39.1%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2025-06-01",
-      "result": "L",
-      "opponent": "삼성",
-      "homeAway": "home",
-      "score": "4-6",
-      "stadium": "잠실",
-      "winningPitcher": "임창민",
-      "losingPitcher": "박명근",
-      "savePitcher": "이호성",
-      "gameId": "20250601SSLG0",
-      "standoutHitter": {
-        "name": "문성주",
-        "stat": "18.5%(4타수 0득점 2안타 2타점)",
-        "rank": 2
-      },
-      "standoutPitcher": {
-        "name": "박명근",
-        "stat": "7회초 2루수 플라이 아웃승리확률69.3% → 77.5%",
         "rank": 1
       }
     }

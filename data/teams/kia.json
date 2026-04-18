@@ -1,8 +1,30 @@
 {
   "team": "KIA Tigers",
   "slug": "kia",
-  "updatedAt": "2026-04-18T01:21:15+09:00",
+  "updatedAt": "2026-04-19T01:11:58+09:00",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "L",
+      "opponent": "두산",
+      "homeAway": "away",
+      "score": "4-5",
+      "stadium": "잠실",
+      "winningPitcher": "윤태호",
+      "losingPitcher": "홍민규",
+      "savePitcher": "",
+      "gameId": "20260418HTOB0",
+      "standoutHitter": {
+        "name": "김도영",
+        "stat": "29.4%(4타수 1득점 1안타 2타점)",
+        "rank": 2
+      },
+      "standoutPitcher": {
+        "name": "홍민규",
+        "stat": "10회말 중견수 플라이 아웃승리확률17% → 28.8%",
+        "rank": 5
+      }
+    },
     {
       "date": "2026-04-17",
       "result": "W",
@@ -198,28 +220,6 @@
       "standoutPitcher": {
         "name": "전상현",
         "stat": "8회초 중견수 플라이 아웃승리확률76.3% → 83.2%",
-        "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-05",
-      "result": "W",
-      "opponent": "NC",
-      "homeAway": "home",
-      "score": "3-0",
-      "stadium": "광주",
-      "winningPitcher": "올러",
-      "losingPitcher": "토다",
-      "savePitcher": "정해영",
-      "gameId": "20260405NCHT0",
-      "standoutHitter": {
-        "name": "김호령",
-        "stat": "6.4%(3타수 0득점 2안타 0타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "전상현",
-        "stat": "8회초 중견수 플라이 아웃승리확률78.8% → 84.3%",
         "rank": 1
       }
     }

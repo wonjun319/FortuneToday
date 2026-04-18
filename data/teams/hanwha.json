@@ -1,8 +1,30 @@
 {
   "team": "Hanwha Eagles",
   "slug": "hanwha",
-  "updatedAt": "2026-04-18T01:22:35+09:00",
+  "updatedAt": "2026-04-19T01:13:27+09:00",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "W",
+      "opponent": "롯데",
+      "homeAway": "away",
+      "score": "5-0",
+      "stadium": "사직",
+      "winningPitcher": "류현진",
+      "losingPitcher": "비슬리",
+      "savePitcher": "",
+      "gameId": "20260418HHLT0",
+      "standoutHitter": {
+        "name": "페라자",
+        "stat": "11.5%(4타수 2득점 3안타 1타점)",
+        "rank": 1
+      },
+      "standoutPitcher": {
+        "name": "류현진",
+        "stat": "2회말 중견수 플라이 아웃 2루주자 전준우 : 태그아웃 (중견수->유격수->3루수 태그아웃)승리확률43.4% → 50%",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-16",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "황준서",
         "stat": "1회말 삼진 아웃승리확률37.1% → 43.3%",
         "rank": 3
-      }
-    },
-    {
-      "date": "2026-04-04",
-      "result": "W",
-      "opponent": "두산",
-      "homeAway": "away",
-      "score": "9-3",
-      "stadium": "잠실",
-      "winningPitcher": "왕옌청",
-      "losingPitcher": "곽빈",
-      "savePitcher": "",
-      "gameId": "20260404HHOB0",
-      "standoutHitter": {
-        "name": "강백호",
-        "stat": "11.6%(4타수 2득점 2안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "왕옌청",
-        "stat": "4회말 삼진 아웃승리확률72.1% → 75.7%",
-        "rank": 1
       }
     }
   ]

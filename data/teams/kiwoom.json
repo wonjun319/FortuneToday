@@ -1,8 +1,30 @@
 {
   "team": "Kiwoom Heroes",
   "slug": "kiwoom",
-  "updatedAt": "2026-04-18T01:22:48+09:00",
+  "updatedAt": "2026-04-19T01:13:41+09:00",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "L",
+      "opponent": "KT",
+      "homeAway": "away",
+      "score": "2-4",
+      "stadium": "수원",
+      "winningPitcher": "보쉴리",
+      "losingPitcher": "안우진",
+      "savePitcher": "박영현",
+      "gameId": "20260418WOKT0",
+      "standoutHitter": {
+        "name": "박주홍",
+        "stat": "9.2%(3타수 1득점 1안타 0타점)",
+        "rank": 3
+      },
+      "standoutPitcher": {
+        "name": "안우진",
+        "stat": "1회말 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)승리확률42.1% → 50%",
+        "rank": 3
+      }
+    },
     {
       "date": "2026-04-17",
       "result": "L",
@@ -199,28 +221,6 @@
         "name": "유토",
         "stat": "6회말 삼진 아웃승리확률44.6% → 57.6%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-05",
-      "result": "L",
-      "opponent": "LG",
-      "homeAway": "home",
-      "score": "5-6",
-      "stadium": "고척",
-      "winningPitcher": "톨허스트",
-      "losingPitcher": "와일스",
-      "savePitcher": "유영찬",
-      "gameId": "20260405LGWO0",
-      "standoutHitter": {
-        "name": "이형종",
-        "stat": "15.3%(1타수 1득점 1안타 4타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "와일스",
-        "stat": "5",
-        "rank": 2
       }
     }
   ]

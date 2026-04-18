@@ -1,8 +1,30 @@
 {
   "team": "LG Twins",
   "slug": "lg",
-  "updatedAt": "2026-04-18T01:22:03+09:00",
+  "updatedAt": "2026-04-19T01:12:55+09:00",
   "last10": [
+    {
+      "date": "2026-04-18",
+      "result": "L",
+      "opponent": "삼성",
+      "homeAway": "away",
+      "score": "2-7",
+      "stadium": "대구",
+      "winningPitcher": "이승민",
+      "losingPitcher": "임찬규",
+      "savePitcher": "",
+      "gameId": "20260418LGSS0",
+      "standoutHitter": {
+        "name": "오지환",
+        "stat": "4.5%(2타수 0득점 1안타 0타점)",
+        "rank": 4
+      },
+      "standoutPitcher": {
+        "name": "임찬규",
+        "stat": "3",
+        "rank": 1
+      }
+    },
     {
       "date": "2026-04-16",
       "result": "W",
@@ -199,28 +221,6 @@
         "name": "유영찬",
         "stat": "9회말 유격수 병살타 아웃 (유격수->1루수 송구아웃)승리확률46.6% → 83.2%",
         "rank": 1
-      }
-    },
-    {
-      "date": "2026-04-04",
-      "result": "W",
-      "opponent": "키움",
-      "homeAway": "away",
-      "score": "6-4",
-      "stadium": "고척",
-      "winningPitcher": "배재준",
-      "losingPitcher": "박윤성",
-      "savePitcher": "유영찬",
-      "gameId": "20260404LGWO0",
-      "standoutHitter": {
-        "name": "박해민",
-        "stat": "27.7%(4타수 0득점 2안타 2타점)",
-        "rank": 1
-      },
-      "standoutPitcher": {
-        "name": "우강훈",
-        "stat": "8회말 삼진 아웃승리확률74.2% → 81.6%",
-        "rank": 2
       }
     }
   ]
